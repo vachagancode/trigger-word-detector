@@ -42,13 +42,13 @@ def train(
 
     loss_fn = nn.CrossEntropyLoss()
 
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0003)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
 
     # data setup
     train_data, test_data = create_dataset(dataset)
     train_dataloader, test_dataloader = create_dataloaders(train_data, test_data)
 
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=2, factor=0.5, verbose=True)
+    scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, epochs=cfg["epochs"], pct_start=0.3)
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
@@ -66,6 +66,7 @@ def train(
 
     print(f"Using: {device}\nEpochs to train: {cfg['epochs']}")
 
+    previous_test_loss = float('inf')
     for epoch in range(start_epoch, start_epoch + cfg["epochs"]+1):
         batch_loader = tqdm(train_dataloader)
         test_loss, train_loss = 0, 0
@@ -90,7 +91,7 @@ def train(
 
             # optimizer step
             optimizer.step()
-            scheduler.step(loss)
+            scheduler.step()
 
         test_step = 0
         if epoch % 2 == 0:
@@ -112,6 +113,8 @@ def train(
             print(f"Epoch: {epoch} | Train Loss: {train_loss:.2f} | Test Loss: {test_loss:.2f}")
             
             # Save the model
+        if epoch > 0 and test_loss < previous_test_loss:
+            previous_test_loss = test_loss
             model_data = {
                 "model_state_dict": model.state_dict(),
                 "optimizer_state_dict": optimizer.state_dict(),
