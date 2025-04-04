@@ -48,7 +48,7 @@ def train(
     train_data, test_data = create_dataset(dataset)
     train_dataloader, test_dataloader = create_dataloaders(train_data, test_data)
 
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=2)
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=2, factor=0.5, verbose=True)
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
@@ -90,6 +90,7 @@ def train(
 
             # optimizer step
             optimizer.step()
+            scheduler.step(loss)
 
         test_step = 0
         if epoch % 2 == 0:
@@ -105,8 +106,6 @@ def train(
                     loss_test = loss_fn(y_test_logits, y_test)
                     test_loss += loss_test
                     test_step += 1
-
-                    scheduler.step(loss_test)
 
                 train_loss /= step
                 test_loss /= test_step
