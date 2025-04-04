@@ -42,13 +42,13 @@ def train(
 
     loss_fn = nn.CrossEntropyLoss()
 
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.0003)
 
     # data setup
     train_data, test_data = create_dataset(dataset)
     train_dataloader, test_dataloader = create_dataloaders(train_data, test_data)
 
-    scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, epochs=91, steps_per_epoch=len(train_dataloader), pct_start=0.25, max_lr=0.0002, div_factor=2)
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=2)
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
@@ -90,7 +90,6 @@ def train(
 
             # optimizer step
             optimizer.step()
-            scheduler.step()
 
         test_step = 0
         if epoch % 2 == 0:
@@ -106,6 +105,8 @@ def train(
                     loss_test = loss_fn(y_test_logits, y_test)
                     test_loss += loss_test
                     test_step += 1
+
+                    scheduler.step(loss_test)
 
                 train_loss /= step
                 test_loss /= test_step
