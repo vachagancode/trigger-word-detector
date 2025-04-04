@@ -113,20 +113,19 @@ def train(
             print(f"Epoch: {epoch} | Train Loss: {train_loss:.2f} | Test Loss: {test_loss:.2f}")
             
             # Save the model
-            if epoch > 0 and test_loss < previous_test_loss:
-                previous_test_loss = test_loss
-                model_data = {
-                    "model_state_dict": model.state_dict(),
-                    "optimizer_state_dict": optimizer.state_dict(),
-                    "scheduler_state_dict": scheduler.state_dict(),
-                    "epoch": epoch,
-                    "lr": scheduler.get_last_lr()
-                }
+            previous_test_loss = test_loss
+            model_data = {
+                "model_state_dict": model.state_dict(),
+                "optimizer_state_dict": optimizer.state_dict(),
+                "scheduler_state_dict": scheduler.state_dict(),
+                "epoch": epoch,
+                "lr": scheduler.get_last_lr()
+            }
 
-                torch.save(
-                    obj=model_data,
-                    f=f"./models/me{epoch}l{math.floor(test_loss*100)}.pth"
-                )
+            torch.save(
+                obj=model_data,
+                f=f"./models/me{epoch}l{math.floor(test_loss*100)}.pth"
+            )
 
 def audio_to_mfcc(ds, path : str):
     waveform, sr = torchaudio.load(path, normalize=True)
