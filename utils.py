@@ -48,7 +48,7 @@ def train(
     train_data, test_data = create_dataset(dataset)
     train_dataloader, test_dataloader = create_dataloaders(train_data, test_data)
 
-    scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, epochs=cfg["epochs"], pct_start=0.3, steps_per_epoch=len(train_dataloader))
+    scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, epochs=cfg["epochs"]+1, pct_start=0.3, steps_per_epoch=len(train_dataloader))
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
