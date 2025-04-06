@@ -206,7 +206,6 @@ def reform_model(path : str, device, model_name):
         f=f"./valid_models/{model_name}.pth"
     )
 
-
 if __name__ == "__main__":
     # ds = TriggerWordDataset("./annotations_file.csv")
     # cfg = get_config()
