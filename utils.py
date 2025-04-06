@@ -191,7 +191,8 @@ def rename_audio_files(dir : str):
     """
     directory_list = os.listdir(dir)
     for idx, file in enumerate(directory_list):
-        os.rename(f"{dir}/{file}", f"{idx}.mp3")
+        os.rename(src=f"{dir}/{file}", dest=f"{idx}.mp3", src_dir_fd=dir, dst_dir_fd=dir)
+
 
 def reform_model(path : str, device, model_name):
     """
@@ -207,10 +208,10 @@ def reform_model(path : str, device, model_name):
 
 
 if __name__ == "__main__":
-    ds = TriggerWordDataset("./annotations_file.csv")
-    cfg = get_config()
-    # train(dataset=ds, cfg=cfg)
+    # ds = TriggerWordDataset("./annotations_file.csv")
+    # cfg = get_config()
+    # # train(dataset=ds, cfg=cfg)
 
-    print(classify(ds, "./models/me178l25.pth", "./custom_data/positive/Arman.mp3", cfg))
+    # print(classify(ds, "./models/me178l25.pth", "./custom_data/positive/Arman.mp3", cfg))
 
-    # rename_audio_files(dir="./raw_data/negative")
+    rename_audio_files(dir="./raw_data/negative")
