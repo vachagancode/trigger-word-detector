@@ -48,7 +48,7 @@ def train(
     train_data, test_data = create_dataset(dataset)
     train_dataloader, test_dataloader = create_dataloaders(train_data, test_data)
 
-    scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, epochs=cfg["epochs"]+1, pct_start=0.3, steps_per_epoch=len(train_dataloader))
+    scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
@@ -59,6 +59,7 @@ def train(
 
         model.load_state_dict(model_state_dict)
         optimizer.load_state_dict(optimizer_state_dict)
+        scheduler_state_dict["total_steps"] = scheduler_state_dict["total_steps"] + cfg["epochs"]*int(len(train_dataloader))
         scheduler.load_state_dict(scheduler_state_dict)
         start_epoch = data["epoch"]
     else:
@@ -126,6 +127,7 @@ def train(
                 obj=model_data,
                 f=f"./models/me{epoch}l{math.floor(test_loss*100)}.pth"
             )
+    return model
 
 def audio_to_mfcc(ds, path : str):
     waveform, sr = torchaudio.load(path, normalize=True)
@@ -141,7 +143,7 @@ def audio_to_mfcc(ds, path : str):
             # ),
             transforms.MFCC(
                 sample_rate=resr,
-                n_mfcc=20,
+                n_mfcc=13,
                 melkwargs={'n_fft': 400, "hop_length" : 512}
             ),
     )
@@ -191,11 +193,24 @@ def rename_audio_files(dir : str):
     for idx, file in enumerate(directory_list):
         os.rename(f"{dir}/{file}", f"{idx}.mp3")
 
+def reform_model(path : str, device, model_name):
+    """
+    This function simply removes all the unnecessary information from the model and keeps only its state_dict  
+    """
+    model = create_model(device=device)
+    data = torch.load(f=path, map_location=device)
+    
+    torch.save(
+        obj=data["model_state_dict"],
+        f=f"./valid_models/{model_name}.pth"
+    )
+
+
 if __name__ == "__main__":
     ds = TriggerWordDataset("./annotations_file.csv")
     cfg = get_config()
-    train(dataset=ds, cfg=cfg)
+    # train(dataset=ds, cfg=cfg)
 
-    # print(classify(ds, "./models/me20l14.pth", "./custom_data/background/1.mp3", cfg))
+    print(classify(ds, "./models/me178l25.pth", "./custom_data/positive/Arman.mp3", cfg))
 
     # rename_audio_files(dir="./raw_data/negative")
