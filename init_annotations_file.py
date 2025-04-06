@@ -1,7 +1,8 @@
 import os
 import csv
+import pandas as pd
 
-with open("annotations_file.csv", "a", newline='') as f:
+with open("base_annotations_file.csv", "a", newline='') as f:
     writer = csv.writer(f)
     fields = ["name", "path", "label"]
     writer.writerow(fields)
@@ -15,5 +16,10 @@ with open("annotations_file.csv", "a", newline='') as f:
         for file in files:
             file_path = f"{base_path}/{label}/{file}"
             writer.writerow([file, file_path, label])
+    
 
-    print("Annotations file initialized successfully")
+# now shuffle the annotations file
+df = pd.read_csv("./base_annotations_file.csv")
+shuffled = df.sample(frac=1)
+shuffled.to_csv("./annotations_file.csv")
+print("Annotations file initialized successfully")
