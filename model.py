@@ -70,7 +70,7 @@ class TriggerWordDetector(nn.Module):
         self.flatten =  nn.Flatten()
 
         self.linear_layers = nn.Sequential(
-            nn.Linear(in_features=1794752, out_features=128),
+            nn.Linear(in_features=3589504, out_features=128),
             nn.ReLU(),
             nn.Dropout(p=dropout),
             nn.Linear(in_features=128, out_features=64),

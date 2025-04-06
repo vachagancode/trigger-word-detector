@@ -9,7 +9,7 @@ def start_training(annotations_file : str = "./annotations_file.csv", m=None, nu
     cfg = get_config()
 
     # start the training
-    model = train(ds, cfg, m)
+    model = train(cfg=cfg, dataset=ds, m=None)
 
     # save the last model
     torch.save(
