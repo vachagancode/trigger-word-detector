@@ -105,9 +105,9 @@ def train(
 
                     # forward pass 
                     y_test_logits = model(X_test)
-
+                    y_test_logits = torch.mean(log_softmax(y_test_logits, dim=2), dim=1)
                     # calculate the loss 
-                    loss_test = loss_fn(y_test_logits.permute(0, 2, 1), y_test)
+                    loss_test = loss_fn(y_test_logits, y_test)
                     test_loss += loss_test.item()
                     test_step += 1
 
