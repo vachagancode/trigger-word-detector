@@ -6,4 +6,6 @@ def get_config():
         "out_features": 3,
         "num_layers" : 2,
         "dropout": 0.3,
+
+        "epochs" : 20
     }

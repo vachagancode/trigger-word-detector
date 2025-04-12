@@ -34,13 +34,11 @@ def train(
 
     # setup the model
     model = create_model(
-        in_features=cfg["in_features"],
-        out_features=cfg["out_features"],
-        hidden_layers=cfg["hidden_layers"],
+        cfg=cfg,
         device=device
     )
 
-    loss_fn = nn.CrossEntropyLoss()
+    loss_fn = nn.NLLLoss()
 
     optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
 
@@ -79,8 +77,9 @@ def train(
 
             # forward pass 
             y_logits = model(X)
+            y_logits_softmaxed = torch.mean(torch.softmax(y_logits, dim=2), dim=1)
             # calculate the loss 
-            loss = loss_fn(y_logits, y)
+            loss = loss_fn(y_logits_softmaxed, y)
             train_loss += loss
             step += 1
 
@@ -104,8 +103,9 @@ def train(
 
                     # forward pass 
                     y_test_logits = model(X_test)
+                    y_test_logits_softmaxed = torch.mean(torch.softmax(y_test_logits, dim=2), dim=1)
                     # calculate the loss 
-                    loss_test = loss_fn(y_test_logits, y_test)
+                    loss_test = loss_fn(y_test_logits_softmaxed, y_test)
                     test_loss += loss_test
                     test_step += 1
 
@@ -114,7 +114,7 @@ def train(
             print(f"Epoch: {epoch} | Train Loss: {train_loss:.2f} | Test Loss: {test_loss:.2f}")
             
             # Save the model
-            previous_test_loss = test_loss
+
             model_data = {
                 "model_state_dict": model.state_dict(),
                 "optimizer_state_dict": optimizer.state_dict(),
@@ -176,8 +176,9 @@ def classify(ds, model : str, path : str, cfg : str):
     # Do the forward pass
     y_logits = model(mel_spectrogram.unsqueeze(0))
 
-    y_preds = torch.softmax(y_logits, dim=1)
-    prediction = torch.argmax(y_preds, dim=1)
+    y_preds = torch.softmax(y_logits, dim=2)
+    avg_prob = torch.mean(y_preds, dim=1)
+    prediction = torch.argmax(avg_prob[0], dim=1)
     print(y_preds)
 
     return labels[prediction]
@@ -210,7 +211,7 @@ if __name__ == "__main__":
     ds = TriggerWordDataset("./annotations_file.csv")
     cfg = get_config()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    # train(dataset=ds, cfg=cfg)
+    train(dataset=ds, cfg=cfg)
 
     # print(classify(ds, "./models/me94l56.pth", "./custom_data/background/1.mp3", cfg))
-    reform_model(path="./models/me94l56.pth", device=device, model_name="me94l56.pth")
+    # reform_model(path="./models/me94l56.pth", device=device, model_name="me94l56.pth")

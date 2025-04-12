@@ -157,17 +157,3 @@ def create_model(cfg, device : torch.device):
 
     model.to(device)
     return model 
-
-
-# if __name__ == "__main__":
-#     ds = TriggerWordDataset("./annotations_file.csv")
-#     mfcc, label, sr = ds[6]
-
-#     cfg = get_config()
-#     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-#     model = create_model(cfg=cfg, device=device)
-#     logits = model(mfcc.unsqueeze(0))
-#     probability_for_each_timestep = torch.softmax(logits, dim=2)
-#     avg_prob = torch.mean(probability_for_each_timestep, dim=1)
-#     print(avg_prob)
-
