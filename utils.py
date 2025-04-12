@@ -80,7 +80,8 @@ def train(
             y_logits = model(X)
             # calculate the loss 
             loss = loss_fn(y_logits.permute(0, 2, 1), y)
-            train_loss += loss
+            assert loss >= 0, f"Loss should be non-negative, got {loss.item()}"
+            train_loss += loss.item()
             step += 1
 
             # optimizer zero grad
@@ -106,7 +107,7 @@ def train(
 
                     # calculate the loss 
                     loss_test = loss_fn(y_test_logits.permute(0, 2, 1), y_test)
-                    test_loss += loss_test
+                    test_loss += loss_test.item()
                     test_step += 1
 
                 train_loss /= step
