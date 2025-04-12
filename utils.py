@@ -3,6 +3,7 @@ import torch
 import torch.nn as nn
 import torchaudio
 from torchaudio import transforms
+from torch.nn.functional import log_softmax
 
 import math
 import matplotlib.pyplot as plt
@@ -77,7 +78,7 @@ def train(
 
             # forward pass 
             y_logits = model(X)
-            y_logits_softmaxed = torch.mean(torch.log_softmax(y_logits, dim=2), dim=1)
+            y_logits_softmaxed = torch.mean(log_softmax(y_logits, dim=2), dim=1)
             # calculate the loss 
             loss = loss_fn(y_logits_softmaxed, y)
             train_loss += loss
@@ -103,7 +104,7 @@ def train(
 
                     # forward pass 
                     y_test_logits = model(X_test)
-                    y_test_logits_softmaxed = torch.mean(torch.log_softmax(y_test_logits, dim=2), dim=1)
+                    y_test_logits_softmaxed = torch.mean(log_softmax(y_test_logits, dim=2), dim=1)
                     # calculate the loss 
                     loss_test = loss_fn(y_test_logits_softmaxed, y_test)
                     test_loss += loss_test
