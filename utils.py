@@ -39,7 +39,7 @@ def train(
         device=device
     )
 
-    loss_fn = nn.CrossEntropyLoss(reduction='mean')
+    loss_fn = nn.NLLLoss(reduction='mean')
 
     optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
 
@@ -78,8 +78,9 @@ def train(
 
             # forward pass 
             y_logits = model(X)
+            y_logits = torch.mean(log_softmax(y_logits, dim=2), dim=1)
             # calculate the loss 
-            loss = loss_fn(y_logits.permute(0, 2, 1), y)
+            loss = loss_fn(y_logits, y)
             assert loss >= 0, f"Loss should be non-negative, got {loss.item()}"
             train_loss += loss.item()
             step += 1
