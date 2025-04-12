@@ -50,6 +50,8 @@ class TriggerWordDataset(Dataset):
 
         output = torch.cat([mfcc, deltas, delta_deltas], dim=1)
 
+        output = output.squeeze(0)
+
         label = self.labels.index(item["label"])
 
         return output, label, sr
@@ -91,6 +93,4 @@ def create_dataloaders(train_data, test_data, batch_size : int = 8):
 if __name__ == "__main__":
     ds = TriggerWordDataset("./annotations_file.csv")
 
-    train_data, test_data = create_dataset(ds)
-    train_dataloader, test_dataloader = create_dataloaders(train_data, test_data, 16)
-    print(next(iter(train_dataloader))[0].shape)
+    print(ds[0])

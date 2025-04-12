@@ -161,7 +161,7 @@ def classify(ds, model : str, path : str, cfg : str):
     # labels
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model_data = torch.load(f=model, map_location=device)
+    model_data = torch.load(f=model, weights_only=True, map_location=device)
 
     model = create_model(
         in_features=cfg["in_features"],
@@ -207,10 +207,10 @@ def reform_model(path : str, device, model_name):
     )
 
 if __name__ == "__main__":
-    # ds = TriggerWordDataset("./annotations_file.csv")
-    # cfg = get_config()
-    # # train(dataset=ds, cfg=cfg)
+    ds = TriggerWordDataset("./annotations_file.csv")
+    cfg = get_config()
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # train(dataset=ds, cfg=cfg)
 
-    # print(classify(ds, "./models/me178l25.pth", "./custom_data/positive/Arman.mp3", cfg))
-
-    rename_audio_files(dir="./raw_data/negative")
+    # print(classify(ds, "./models/me94l56.pth", "./custom_data/background/1.mp3", cfg))
+    reform_model(path="./models/me94l56.pth", device=device, model_name="me94l56.pth")
