@@ -39,7 +39,7 @@ def train(
         device=device
     )
 
-    loss_fn = nn.CrossEntropyLoss()
+    loss_fn = nn.CrossEntropyLoss(reduction='mean')
 
     optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
 
