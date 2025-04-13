@@ -14,7 +14,7 @@ class TriggerWordDataset(Dataset):
         self.train = train
         self.annotations_file = annotations_file
         self.df = pd.read_csv(self.annotations_file)
-        self.ddf = self.df[:int(len(self.df))*0.8] if self.train else self.df[int(len(self.df)*0.2):]
+        self.ddf = self.df[:int(len(self.df)*0.8)] if self.train else self.df[int(len(self.df)*0.2):]
         self.labels = ['positive', 'negative', 'background']
         self.target_length = 500000
         self.resr = 44100
