@@ -4,33 +4,40 @@ import torchaudio
 from torchaudio import transforms
 from torch.utils.data import Dataset, DataLoader
 
+from audio_augmenter import AudioAugmenter
+
 import pandas as pd
 
 class TriggerWordDataset(Dataset):
-    def __init__(self, annotations_file : str):
+    def __init__(self, annotations_file : str, train : bool = False):
         super().__init__()
-
+        self.train = train
         self.annotations_file = annotations_file
         self.df = pd.read_csv(self.annotations_file)
+        self.ddf = self.df[:int(len(self.df))*0.8] if self.train else self.df[int(len(self.df)*0.2):]
         self.labels = ['positive', 'negative', 'background']
         self.target_length = 500000
+        self.agm = AudioAugmenter(sample_rate=resr)
         
     def __len__(self):
-        return len(self.df)
+        return len(self.ddf)
 
     def __getitem__(self, id):
-        item = self.df.iloc[id]
+        item = self.ddf.iloc[id]
         
         path = item["path"]
 
-        waveform, sr = torchaudio.load(path, normalize=True) # channel=0  tells the function to load the audio in only mono channel
+        waveform, sr = torchaudio.load(path, normalize=True) 
         if waveform.ndim > 1 and waveform.shape[0] > 1:
             waveform = waveform.mean(dim=0, keepdim=True)
 
         waveform = self._trim_or_pad_waveform(waveform)
 
-
         resr = 44100
+        if self.train:
+            
+            waveform = self.agm.apply_random_augmentations(audio=waveform)
+        
         transform = nn.Sequential(
             # transforms.Resample(
             #     orig_freq=sr,
@@ -68,8 +75,9 @@ class TriggerWordDataset(Dataset):
 
         return waveform 
 
-def create_dataset(ds):
-    train_data, test_data = torch.utils.data.random_split(ds, [.8, .2])
+def create_dataset():
+    train_data = TriggerWordDataset("./annotations_file.csv", train=True)
+    test_data = TriggerWordDataset("./annotations_file.csv", train=False)
 
     return train_data, test_data
 
@@ -91,6 +99,5 @@ def create_dataloaders(train_data, test_data, batch_size : int = 8):
     return train_dataloader, test_dataloader
 
 if __name__ == "__main__":
-    ds = TriggerWordDataset("./annotations_file.csv")
 
     print(ds[0])

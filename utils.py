@@ -164,26 +164,23 @@ def classify(ds, model : str, path : str, cfg : str):
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model_data = torch.load(f=model, weights_only=True, map_location=device)
-
+    cfg = get_config()
     model = create_model(
-        in_features=cfg["in_features"],
-        out_features=cfg["out_features"],
-        hidden_layers=cfg["hidden_layers"],
-        device=device
+        device=device,
+        cfg=cfg
     )
     model.load_state_dict(model_data["model_state_dict"])
 
     mel_spectrogram = audio_to_mfcc(ds, path)
 
     # Do the forward pass
-    y_logits = model(mel_spectrogram.unsqueeze(0))
+    y_logits = model(mel_spectrogram)
 
     y_preds = torch.softmax(y_logits, dim=2)
     avg_prob = torch.mean(y_preds, dim=1)
-    prediction = torch.argmax(avg_prob[0], dim=1)
-    print(y_preds)
+    pred = torch.argmax(avg_prob, dim=1)
 
-    return labels[prediction]
+    return labels[pred]
 
     # return f"`{labels[prediction]}` with the probability of {(prob * 100):.2f} %"
 
@@ -213,7 +210,7 @@ if __name__ == "__main__":
     ds = TriggerWordDataset("./annotations_file.csv")
     cfg = get_config()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    train(dataset=ds, cfg=cfg)
+    # train(dataset=ds, cfg=cfg)
 
-    # print(classify(ds, "./models/me94l56.pth", "./custom_data/background/1.mp3", cfg))
+    print(classify(ds, "./models/me18l12.pth", "./custom_data/negative/VachV2.wav", cfg))
     # reform_model(path="./models/me94l56.pth", device=device, model_name="me94l56.pth")

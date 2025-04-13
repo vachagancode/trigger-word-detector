@@ -5,7 +5,7 @@ def get_config():
         "hidden_size" : 512,
         "out_features": 3,
         "num_layers" : 2,
-        "dropout": 0.3,
+        "dropout": 0.5,
 
         "epochs" : 20
     }
