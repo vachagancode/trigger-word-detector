@@ -44,7 +44,7 @@ def train(
     optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
 
     # data setup
-    train_data, test_data = create_dataset(dataset)
+    train_data, test_data = create_dataset()
     train_dataloader, test_dataloader = create_dataloaders(train_data, test_data)
 
     scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
