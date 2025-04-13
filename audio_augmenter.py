@@ -34,7 +34,6 @@ class AudioAugmenter:
         """
 
         signal_magnitude = torch.mean(torch.abs(audio)) if torch.mean(torch.abs(audio)) > 0 else 1e-6 # TODO: Understand what's going on here
-        print(signal_magnitude)
         noise_level *= signal_magnitude
         noise = torch.randn_like(audio) * noise_level
         return audio + noise
