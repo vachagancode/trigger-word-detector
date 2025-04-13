@@ -47,6 +47,8 @@ class AudioAugmenter:
         if random.random() < prob:
             augmented = self.add_noise(augmented)
 
+        return augmented
+
 
 if __name__ == "__main__":
     
