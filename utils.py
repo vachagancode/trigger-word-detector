@@ -159,7 +159,7 @@ def audio_to_mfcc(ds, path : str):
 
 def classify(ds, model : str, path : str, cfg : str):
     # labels
-    labels = ['positive', 'negative', 'background']
+    labels = ['positive', 'negative']
     # labels
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -212,5 +212,5 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     # train(dataset=ds, cfg=cfg)
 
-    print(classify(ds, "./models/me18l12.pth", "./custom_data/negative/VachV2.wav", cfg))
+    print(classify(ds, "./models/me18l8.pth", "./custom_data/positive/Arman.mp3", cfg))
     # reform_model(path="./models/me94l56.pth", device=device, model_name="me94l56.pth")
