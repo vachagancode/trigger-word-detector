@@ -39,7 +39,7 @@ def train(
         device=device
     )
 
-    loss_fn = nn.NLLLoss(reduction='mean')
+    loss_fn = nn.NLLLoss()
 
     optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
 

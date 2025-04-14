@@ -7,5 +7,5 @@ def get_config():
         "num_layers" : 2,
         "dropout": 0.5,
 
-        "epochs" : 20
+        "epochs" : 30
     }
