@@ -8,7 +8,7 @@ with open("base_annotations_file.csv", "a", newline='') as f:
     writer.writerow(fields)
 
     # Get data from raw_data folder
-    labels = ["positive", "negative"]
+    labels = ["positive", "negative", "background"]
     base_path = "./raw_data"
     for label in labels:
         dir = f"{base_path}/{label}"
