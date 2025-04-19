@@ -3,7 +3,7 @@ def get_config():
         "in_features" : 39,
         "conv_out_features" : 64,
         "hidden_size" : 512,
-        "out_features": 2,
+        "out_features": 3,
         "num_layers" : 2,
         "dropout": 0.5,
 
