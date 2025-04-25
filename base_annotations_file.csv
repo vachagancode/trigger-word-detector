@@ -6256,9 +6256,6 @@ name,path,label
 0997.wav,./raw_data/negative/0997.wav,negative
 0998.wav,./raw_data/negative/0998.wav,negative
 0999.wav,./raw_data/negative/0999.wav,negative
-1.wav,./raw_data/negative/1.wav,negative
-10.wav,./raw_data/negative/10.wav,negative
-100.wav,./raw_data/negative/100.wav,negative
 1000.wav,./raw_data/negative/1000.wav,negative
 1001.wav,./raw_data/negative/1001.wav,negative
 1002.wav,./raw_data/negative/1002.wav,negative
@@ -6269,7 +6266,6 @@ name,path,label
 1007.wav,./raw_data/negative/1007.wav,negative
 1008.wav,./raw_data/negative/1008.wav,negative
 1009.wav,./raw_data/negative/1009.wav,negative
-101.wav,./raw_data/negative/101.wav,negative
 1010.wav,./raw_data/negative/1010.wav,negative
 1011.wav,./raw_data/negative/1011.wav,negative
 1012.wav,./raw_data/negative/1012.wav,negative
@@ -6280,7 +6276,6 @@ name,path,label
 1017.wav,./raw_data/negative/1017.wav,negative
 1018.wav,./raw_data/negative/1018.wav,negative
 1019.wav,./raw_data/negative/1019.wav,negative
-102.wav,./raw_data/negative/102.wav,negative
 1020.wav,./raw_data/negative/1020.wav,negative
 1021.wav,./raw_data/negative/1021.wav,negative
 1022.wav,./raw_data/negative/1022.wav,negative
@@ -6291,7 +6286,6 @@ name,path,label
 1027.wav,./raw_data/negative/1027.wav,negative
 1028.wav,./raw_data/negative/1028.wav,negative
 1029.wav,./raw_data/negative/1029.wav,negative
-103.wav,./raw_data/negative/103.wav,negative
 1030.wav,./raw_data/negative/1030.wav,negative
 1031.wav,./raw_data/negative/1031.wav,negative
 1032.wav,./raw_data/negative/1032.wav,negative
@@ -6302,7 +6296,6 @@ name,path,label
 1037.wav,./raw_data/negative/1037.wav,negative
 1038.wav,./raw_data/negative/1038.wav,negative
 1039.wav,./raw_data/negative/1039.wav,negative
-104.wav,./raw_data/negative/104.wav,negative
 1040.wav,./raw_data/negative/1040.wav,negative
 1041.wav,./raw_data/negative/1041.wav,negative
 1042.wav,./raw_data/negative/1042.wav,negative
@@ -6313,7 +6306,6 @@ name,path,label
 1047.wav,./raw_data/negative/1047.wav,negative
 1048.wav,./raw_data/negative/1048.wav,negative
 1049.wav,./raw_data/negative/1049.wav,negative
-105.wav,./raw_data/negative/105.wav,negative
 1050.wav,./raw_data/negative/1050.wav,negative
 1051.wav,./raw_data/negative/1051.wav,negative
 1052.wav,./raw_data/negative/1052.wav,negative
@@ -6324,7 +6316,6 @@ name,path,label
 1057.wav,./raw_data/negative/1057.wav,negative
 1058.wav,./raw_data/negative/1058.wav,negative
 1059.wav,./raw_data/negative/1059.wav,negative
-106.wav,./raw_data/negative/106.wav,negative
 1060.wav,./raw_data/negative/1060.wav,negative
 1061.wav,./raw_data/negative/1061.wav,negative
 1062.wav,./raw_data/negative/1062.wav,negative
@@ -6335,7 +6326,6 @@ name,path,label
 1067.wav,./raw_data/negative/1067.wav,negative
 1068.wav,./raw_data/negative/1068.wav,negative
 1069.wav,./raw_data/negative/1069.wav,negative
-107.wav,./raw_data/negative/107.wav,negative
 1070.wav,./raw_data/negative/1070.wav,negative
 1071.wav,./raw_data/negative/1071.wav,negative
 1072.wav,./raw_data/negative/1072.wav,negative
@@ -6346,7 +6336,6 @@ name,path,label
 1077.wav,./raw_data/negative/1077.wav,negative
 1078.wav,./raw_data/negative/1078.wav,negative
 1079.wav,./raw_data/negative/1079.wav,negative
-108.wav,./raw_data/negative/108.wav,negative
 1080.wav,./raw_data/negative/1080.wav,negative
 1081.wav,./raw_data/negative/1081.wav,negative
 1082.wav,./raw_data/negative/1082.wav,negative
@@ -6357,7 +6346,6 @@ name,path,label
 1087.wav,./raw_data/negative/1087.wav,negative
 1088.wav,./raw_data/negative/1088.wav,negative
 1089.wav,./raw_data/negative/1089.wav,negative
-109.wav,./raw_data/negative/109.wav,negative
 1090.wav,./raw_data/negative/1090.wav,negative
 1091.wav,./raw_data/negative/1091.wav,negative
 1092.wav,./raw_data/negative/1092.wav,negative
@@ -6368,8 +6356,6 @@ name,path,label
 1097.wav,./raw_data/negative/1097.wav,negative
 1098.wav,./raw_data/negative/1098.wav,negative
 1099.wav,./raw_data/negative/1099.wav,negative
-11.wav,./raw_data/negative/11.wav,negative
-110.wav,./raw_data/negative/110.wav,negative
 1100.wav,./raw_data/negative/1100.wav,negative
 1101.wav,./raw_data/negative/1101.wav,negative
 1102.wav,./raw_data/negative/1102.wav,negative
@@ -6380,7 +6366,6 @@ name,path,label
 1107.wav,./raw_data/negative/1107.wav,negative
 1108.wav,./raw_data/negative/1108.wav,negative
 1109.wav,./raw_data/negative/1109.wav,negative
-111.wav,./raw_data/negative/111.wav,negative
 1110.wav,./raw_data/negative/1110.wav,negative
 1111.wav,./raw_data/negative/1111.wav,negative
 1112.wav,./raw_data/negative/1112.wav,negative
@@ -6391,7 +6376,6 @@ name,path,label
 1117.wav,./raw_data/negative/1117.wav,negative
 1118.wav,./raw_data/negative/1118.wav,negative
 1119.wav,./raw_data/negative/1119.wav,negative
-112.wav,./raw_data/negative/112.wav,negative
 1120.wav,./raw_data/negative/1120.wav,negative
 1121.wav,./raw_data/negative/1121.wav,negative
 1122.wav,./raw_data/negative/1122.wav,negative
@@ -6402,7 +6386,6 @@ name,path,label
 1127.wav,./raw_data/negative/1127.wav,negative
 1128.wav,./raw_data/negative/1128.wav,negative
 1129.wav,./raw_data/negative/1129.wav,negative
-113.wav,./raw_data/negative/113.wav,negative
 1130.wav,./raw_data/negative/1130.wav,negative
 1131.wav,./raw_data/negative/1131.wav,negative
 1132.wav,./raw_data/negative/1132.wav,negative
@@ -6413,7 +6396,6 @@ name,path,label
 1137.wav,./raw_data/negative/1137.wav,negative
 1138.wav,./raw_data/negative/1138.wav,negative
 1139.wav,./raw_data/negative/1139.wav,negative
-114.wav,./raw_data/negative/114.wav,negative
 1140.wav,./raw_data/negative/1140.wav,negative
 1141.wav,./raw_data/negative/1141.wav,negative
 1142.wav,./raw_data/negative/1142.wav,negative
@@ -6424,7 +6406,6 @@ name,path,label
 1147.wav,./raw_data/negative/1147.wav,negative
 1148.wav,./raw_data/negative/1148.wav,negative
 1149.wav,./raw_data/negative/1149.wav,negative
-115.wav,./raw_data/negative/115.wav,negative
 1150.wav,./raw_data/negative/1150.wav,negative
 1151.wav,./raw_data/negative/1151.wav,negative
 1152.wav,./raw_data/negative/1152.wav,negative
@@ -6435,7 +6416,6 @@ name,path,label
 1157.wav,./raw_data/negative/1157.wav,negative
 1158.wav,./raw_data/negative/1158.wav,negative
 1159.wav,./raw_data/negative/1159.wav,negative
-116.wav,./raw_data/negative/116.wav,negative
 1160.wav,./raw_data/negative/1160.wav,negative
 1161.wav,./raw_data/negative/1161.wav,negative
 1162.wav,./raw_data/negative/1162.wav,negative
@@ -6446,7 +6426,6 @@ name,path,label
 1167.wav,./raw_data/negative/1167.wav,negative
 1168.wav,./raw_data/negative/1168.wav,negative
 1169.wav,./raw_data/negative/1169.wav,negative
-117.wav,./raw_data/negative/117.wav,negative
 1170.wav,./raw_data/negative/1170.wav,negative
 1171.wav,./raw_data/negative/1171.wav,negative
 1172.wav,./raw_data/negative/1172.wav,negative
@@ -6457,7 +6436,6 @@ name,path,label
 1177.wav,./raw_data/negative/1177.wav,negative
 1178.wav,./raw_data/negative/1178.wav,negative
 1179.wav,./raw_data/negative/1179.wav,negative
-118.wav,./raw_data/negative/118.wav,negative
 1180.wav,./raw_data/negative/1180.wav,negative
 1181.wav,./raw_data/negative/1181.wav,negative
 1182.wav,./raw_data/negative/1182.wav,negative
@@ -6468,7 +6446,6 @@ name,path,label
 1187.wav,./raw_data/negative/1187.wav,negative
 1188.wav,./raw_data/negative/1188.wav,negative
 1189.wav,./raw_data/negative/1189.wav,negative
-119.wav,./raw_data/negative/119.wav,negative
 1190.wav,./raw_data/negative/1190.wav,negative
 1191.wav,./raw_data/negative/1191.wav,negative
 1192.wav,./raw_data/negative/1192.wav,negative
@@ -6479,8 +6456,6 @@ name,path,label
 1197.wav,./raw_data/negative/1197.wav,negative
 1198.wav,./raw_data/negative/1198.wav,negative
 1199.wav,./raw_data/negative/1199.wav,negative
-12.wav,./raw_data/negative/12.wav,negative
-120.wav,./raw_data/negative/120.wav,negative
 1200.wav,./raw_data/negative/1200.wav,negative
 1201.wav,./raw_data/negative/1201.wav,negative
 1202.wav,./raw_data/negative/1202.wav,negative
@@ -6491,7 +6466,6 @@ name,path,label
 1207.wav,./raw_data/negative/1207.wav,negative
 1208.wav,./raw_data/negative/1208.wav,negative
 1209.wav,./raw_data/negative/1209.wav,negative
-121.wav,./raw_data/negative/121.wav,negative
 1210.wav,./raw_data/negative/1210.wav,negative
 1211.wav,./raw_data/negative/1211.wav,negative
 1212.wav,./raw_data/negative/1212.wav,negative
@@ -6502,7 +6476,6 @@ name,path,label
 1217.wav,./raw_data/negative/1217.wav,negative
 1218.wav,./raw_data/negative/1218.wav,negative
 1219.wav,./raw_data/negative/1219.wav,negative
-122.wav,./raw_data/negative/122.wav,negative
 1220.wav,./raw_data/negative/1220.wav,negative
 1221.wav,./raw_data/negative/1221.wav,negative
 1222.wav,./raw_data/negative/1222.wav,negative
@@ -6513,7 +6486,6 @@ name,path,label
 1227.wav,./raw_data/negative/1227.wav,negative
 1228.wav,./raw_data/negative/1228.wav,negative
 1229.wav,./raw_data/negative/1229.wav,negative
-123.wav,./raw_data/negative/123.wav,negative
 1230.wav,./raw_data/negative/1230.wav,negative
 1231.wav,./raw_data/negative/1231.wav,negative
 1232.wav,./raw_data/negative/1232.wav,negative
@@ -6524,7 +6496,6 @@ name,path,label
 1237.wav,./raw_data/negative/1237.wav,negative
 1238.wav,./raw_data/negative/1238.wav,negative
 1239.wav,./raw_data/negative/1239.wav,negative
-124.wav,./raw_data/negative/124.wav,negative
 1240.wav,./raw_data/negative/1240.wav,negative
 1241.wav,./raw_data/negative/1241.wav,negative
 1242.wav,./raw_data/negative/1242.wav,negative
@@ -6535,7 +6506,6 @@ name,path,label
 1247.wav,./raw_data/negative/1247.wav,negative
 1248.wav,./raw_data/negative/1248.wav,negative
 1249.wav,./raw_data/negative/1249.wav,negative
-125.wav,./raw_data/negative/125.wav,negative
 1250.wav,./raw_data/negative/1250.wav,negative
 1251.wav,./raw_data/negative/1251.wav,negative
 1252.wav,./raw_data/negative/1252.wav,negative
@@ -6546,7 +6516,6 @@ name,path,label
 1257.wav,./raw_data/negative/1257.wav,negative
 1258.wav,./raw_data/negative/1258.wav,negative
 1259.wav,./raw_data/negative/1259.wav,negative
-126.wav,./raw_data/negative/126.wav,negative
 1260.wav,./raw_data/negative/1260.wav,negative
 1261.wav,./raw_data/negative/1261.wav,negative
 1262.wav,./raw_data/negative/1262.wav,negative
@@ -6557,7 +6526,6 @@ name,path,label
 1267.wav,./raw_data/negative/1267.wav,negative
 1268.wav,./raw_data/negative/1268.wav,negative
 1269.wav,./raw_data/negative/1269.wav,negative
-127.wav,./raw_data/negative/127.wav,negative
 1270.wav,./raw_data/negative/1270.wav,negative
 1271.wav,./raw_data/negative/1271.wav,negative
 1272.wav,./raw_data/negative/1272.wav,negative
@@ -6568,7 +6536,6 @@ name,path,label
 1277.wav,./raw_data/negative/1277.wav,negative
 1278.wav,./raw_data/negative/1278.wav,negative
 1279.wav,./raw_data/negative/1279.wav,negative
-128.wav,./raw_data/negative/128.wav,negative
 1280.wav,./raw_data/negative/1280.wav,negative
 1281.wav,./raw_data/negative/1281.wav,negative
 1282.wav,./raw_data/negative/1282.wav,negative
@@ -6579,7 +6546,6 @@ name,path,label
 1287.wav,./raw_data/negative/1287.wav,negative
 1288.wav,./raw_data/negative/1288.wav,negative
 1289.wav,./raw_data/negative/1289.wav,negative
-129.wav,./raw_data/negative/129.wav,negative
 1290.wav,./raw_data/negative/1290.wav,negative
 1291.wav,./raw_data/negative/1291.wav,negative
 1292.wav,./raw_data/negative/1292.wav,negative
@@ -6590,8 +6556,6 @@ name,path,label
 1297.wav,./raw_data/negative/1297.wav,negative
 1298.wav,./raw_data/negative/1298.wav,negative
 1299.wav,./raw_data/negative/1299.wav,negative
-13.wav,./raw_data/negative/13.wav,negative
-130.wav,./raw_data/negative/130.wav,negative
 1300.wav,./raw_data/negative/1300.wav,negative
 1301.wav,./raw_data/negative/1301.wav,negative
 1302.wav,./raw_data/negative/1302.wav,negative
@@ -6602,7 +6566,6 @@ name,path,label
 1307.wav,./raw_data/negative/1307.wav,negative
 1308.wav,./raw_data/negative/1308.wav,negative
 1309.wav,./raw_data/negative/1309.wav,negative
-131.wav,./raw_data/negative/131.wav,negative
 1310.wav,./raw_data/negative/1310.wav,negative
 1311.wav,./raw_data/negative/1311.wav,negative
 1312.wav,./raw_data/negative/1312.wav,negative
@@ -6613,7 +6576,6 @@ name,path,label
 1317.wav,./raw_data/negative/1317.wav,negative
 1318.wav,./raw_data/negative/1318.wav,negative
 1319.wav,./raw_data/negative/1319.wav,negative
-132.wav,./raw_data/negative/132.wav,negative
 1320.wav,./raw_data/negative/1320.wav,negative
 1321.wav,./raw_data/negative/1321.wav,negative
 1322.wav,./raw_data/negative/1322.wav,negative
@@ -6624,7 +6586,6 @@ name,path,label
 1327.wav,./raw_data/negative/1327.wav,negative
 1328.wav,./raw_data/negative/1328.wav,negative
 1329.wav,./raw_data/negative/1329.wav,negative
-133.wav,./raw_data/negative/133.wav,negative
 1330.wav,./raw_data/negative/1330.wav,negative
 1331.wav,./raw_data/negative/1331.wav,negative
 1332.wav,./raw_data/negative/1332.wav,negative
@@ -6635,7 +6596,6 @@ name,path,label
 1337.wav,./raw_data/negative/1337.wav,negative
 1338.wav,./raw_data/negative/1338.wav,negative
 1339.wav,./raw_data/negative/1339.wav,negative
-134.wav,./raw_data/negative/134.wav,negative
 1340.wav,./raw_data/negative/1340.wav,negative
 1341.wav,./raw_data/negative/1341.wav,negative
 1342.wav,./raw_data/negative/1342.wav,negative
@@ -6646,7 +6606,6 @@ name,path,label
 1347.wav,./raw_data/negative/1347.wav,negative
 1348.wav,./raw_data/negative/1348.wav,negative
 1349.wav,./raw_data/negative/1349.wav,negative
-135.wav,./raw_data/negative/135.wav,negative
 1350.wav,./raw_data/negative/1350.wav,negative
 1351.wav,./raw_data/negative/1351.wav,negative
 1352.wav,./raw_data/negative/1352.wav,negative
@@ -6657,7 +6616,6 @@ name,path,label
 1357.wav,./raw_data/negative/1357.wav,negative
 1358.wav,./raw_data/negative/1358.wav,negative
 1359.wav,./raw_data/negative/1359.wav,negative
-136.wav,./raw_data/negative/136.wav,negative
 1360.wav,./raw_data/negative/1360.wav,negative
 1361.wav,./raw_data/negative/1361.wav,negative
 1362.wav,./raw_data/negative/1362.wav,negative
@@ -6668,7 +6626,6 @@ name,path,label
 1367.wav,./raw_data/negative/1367.wav,negative
 1368.wav,./raw_data/negative/1368.wav,negative
 1369.wav,./raw_data/negative/1369.wav,negative
-137.wav,./raw_data/negative/137.wav,negative
 1370.wav,./raw_data/negative/1370.wav,negative
 1371.wav,./raw_data/negative/1371.wav,negative
 1372.wav,./raw_data/negative/1372.wav,negative
@@ -6679,7 +6636,6 @@ name,path,label
 1377.wav,./raw_data/negative/1377.wav,negative
 1378.wav,./raw_data/negative/1378.wav,negative
 1379.wav,./raw_data/negative/1379.wav,negative
-138.wav,./raw_data/negative/138.wav,negative
 1380.wav,./raw_data/negative/1380.wav,negative
 1381.wav,./raw_data/negative/1381.wav,negative
 1382.wav,./raw_data/negative/1382.wav,negative
@@ -6690,7 +6646,6 @@ name,path,label
 1387.wav,./raw_data/negative/1387.wav,negative
 1388.wav,./raw_data/negative/1388.wav,negative
 1389.wav,./raw_data/negative/1389.wav,negative
-139.wav,./raw_data/negative/139.wav,negative
 1390.wav,./raw_data/negative/1390.wav,negative
 1391.wav,./raw_data/negative/1391.wav,negative
 1392.wav,./raw_data/negative/1392.wav,negative
@@ -6701,8 +6656,6 @@ name,path,label
 1397.wav,./raw_data/negative/1397.wav,negative
 1398.wav,./raw_data/negative/1398.wav,negative
 1399.wav,./raw_data/negative/1399.wav,negative
-14.wav,./raw_data/negative/14.wav,negative
-140.wav,./raw_data/negative/140.wav,negative
 1400.wav,./raw_data/negative/1400.wav,negative
 1401.wav,./raw_data/negative/1401.wav,negative
 1402.wav,./raw_data/negative/1402.wav,negative
@@ -6713,7 +6666,6 @@ name,path,label
 1407.wav,./raw_data/negative/1407.wav,negative
 1408.wav,./raw_data/negative/1408.wav,negative
 1409.wav,./raw_data/negative/1409.wav,negative
-141.wav,./raw_data/negative/141.wav,negative
 1410.wav,./raw_data/negative/1410.wav,negative
 1411.wav,./raw_data/negative/1411.wav,negative
 1412.wav,./raw_data/negative/1412.wav,negative
@@ -6724,7 +6676,6 @@ name,path,label
 1417.wav,./raw_data/negative/1417.wav,negative
 1418.wav,./raw_data/negative/1418.wav,negative
 1419.wav,./raw_data/negative/1419.wav,negative
-142.wav,./raw_data/negative/142.wav,negative
 1420.wav,./raw_data/negative/1420.wav,negative
 1421.wav,./raw_data/negative/1421.wav,negative
 1422.wav,./raw_data/negative/1422.wav,negative
@@ -6735,7 +6686,6 @@ name,path,label
 1427.wav,./raw_data/negative/1427.wav,negative
 1428.wav,./raw_data/negative/1428.wav,negative
 1429.wav,./raw_data/negative/1429.wav,negative
-143.wav,./raw_data/negative/143.wav,negative
 1430.wav,./raw_data/negative/1430.wav,negative
 1431.wav,./raw_data/negative/1431.wav,negative
 1432.wav,./raw_data/negative/1432.wav,negative
@@ -6746,7 +6696,6 @@ name,path,label
 1437.wav,./raw_data/negative/1437.wav,negative
 1438.wav,./raw_data/negative/1438.wav,negative
 1439.wav,./raw_data/negative/1439.wav,negative
-144.wav,./raw_data/negative/144.wav,negative
 1440.wav,./raw_data/negative/1440.wav,negative
 1441.wav,./raw_data/negative/1441.wav,negative
 1442.wav,./raw_data/negative/1442.wav,negative
@@ -6757,7 +6706,6 @@ name,path,label
 1447.wav,./raw_data/negative/1447.wav,negative
 1448.wav,./raw_data/negative/1448.wav,negative
 1449.wav,./raw_data/negative/1449.wav,negative
-145.wav,./raw_data/negative/145.wav,negative
 1450.wav,./raw_data/negative/1450.wav,negative
 1451.wav,./raw_data/negative/1451.wav,negative
 1452.wav,./raw_data/negative/1452.wav,negative
@@ -6768,7 +6716,6 @@ name,path,label
 1457.wav,./raw_data/negative/1457.wav,negative
 1458.wav,./raw_data/negative/1458.wav,negative
 1459.wav,./raw_data/negative/1459.wav,negative
-146.wav,./raw_data/negative/146.wav,negative
 1460.wav,./raw_data/negative/1460.wav,negative
 1461.wav,./raw_data/negative/1461.wav,negative
 1462.wav,./raw_data/negative/1462.wav,negative
@@ -6779,7 +6726,6 @@ name,path,label
 1467.wav,./raw_data/negative/1467.wav,negative
 1468.wav,./raw_data/negative/1468.wav,negative
 1469.wav,./raw_data/negative/1469.wav,negative
-147.wav,./raw_data/negative/147.wav,negative
 1470.wav,./raw_data/negative/1470.wav,negative
 1471.wav,./raw_data/negative/1471.wav,negative
 1472.wav,./raw_data/negative/1472.wav,negative
@@ -6790,7 +6736,6 @@ name,path,label
 1477.wav,./raw_data/negative/1477.wav,negative
 1478.wav,./raw_data/negative/1478.wav,negative
 1479.wav,./raw_data/negative/1479.wav,negative
-148.wav,./raw_data/negative/148.wav,negative
 1480.wav,./raw_data/negative/1480.wav,negative
 1481.wav,./raw_data/negative/1481.wav,negative
 1482.wav,./raw_data/negative/1482.wav,negative
@@ -6801,7 +6746,6 @@ name,path,label
 1487.wav,./raw_data/negative/1487.wav,negative
 1488.wav,./raw_data/negative/1488.wav,negative
 1489.wav,./raw_data/negative/1489.wav,negative
-149.wav,./raw_data/negative/149.wav,negative
 1490.wav,./raw_data/negative/1490.wav,negative
 1491.wav,./raw_data/negative/1491.wav,negative
 1492.wav,./raw_data/negative/1492.wav,negative
@@ -6812,8 +6756,6 @@ name,path,label
 1497.wav,./raw_data/negative/1497.wav,negative
 1498.wav,./raw_data/negative/1498.wav,negative
 1499.wav,./raw_data/negative/1499.wav,negative
-15.wav,./raw_data/negative/15.wav,negative
-150.wav,./raw_data/negative/150.wav,negative
 1500.wav,./raw_data/negative/1500.wav,negative
 1501.wav,./raw_data/negative/1501.wav,negative
 1502.wav,./raw_data/negative/1502.wav,negative
@@ -6824,7 +6766,6 @@ name,path,label
 1507.wav,./raw_data/negative/1507.wav,negative
 1508.wav,./raw_data/negative/1508.wav,negative
 1509.wav,./raw_data/negative/1509.wav,negative
-151.wav,./raw_data/negative/151.wav,negative
 1510.wav,./raw_data/negative/1510.wav,negative
 1511.wav,./raw_data/negative/1511.wav,negative
 1512.wav,./raw_data/negative/1512.wav,negative
@@ -6835,7 +6776,6 @@ name,path,label
 1517.wav,./raw_data/negative/1517.wav,negative
 1518.wav,./raw_data/negative/1518.wav,negative
 1519.wav,./raw_data/negative/1519.wav,negative
-152.wav,./raw_data/negative/152.wav,negative
 1520.wav,./raw_data/negative/1520.wav,negative
 1521.wav,./raw_data/negative/1521.wav,negative
 1522.wav,./raw_data/negative/1522.wav,negative
@@ -6846,7 +6786,6 @@ name,path,label
 1527.wav,./raw_data/negative/1527.wav,negative
 1528.wav,./raw_data/negative/1528.wav,negative
 1529.wav,./raw_data/negative/1529.wav,negative
-153.wav,./raw_data/negative/153.wav,negative
 1530.wav,./raw_data/negative/1530.wav,negative
 1531.wav,./raw_data/negative/1531.wav,negative
 1532.wav,./raw_data/negative/1532.wav,negative
@@ -6857,7 +6796,6 @@ name,path,label
 1537.wav,./raw_data/negative/1537.wav,negative
 1538.wav,./raw_data/negative/1538.wav,negative
 1539.wav,./raw_data/negative/1539.wav,negative
-154.wav,./raw_data/negative/154.wav,negative
 1540.wav,./raw_data/negative/1540.wav,negative
 1541.wav,./raw_data/negative/1541.wav,negative
 1542.wav,./raw_data/negative/1542.wav,negative
@@ -6868,7 +6806,6 @@ name,path,label
 1547.wav,./raw_data/negative/1547.wav,negative
 1548.wav,./raw_data/negative/1548.wav,negative
 1549.wav,./raw_data/negative/1549.wav,negative
-155.wav,./raw_data/negative/155.wav,negative
 1550.wav,./raw_data/negative/1550.wav,negative
 1551.wav,./raw_data/negative/1551.wav,negative
 1552.wav,./raw_data/negative/1552.wav,negative
@@ -6879,7 +6816,6 @@ name,path,label
 1557.wav,./raw_data/negative/1557.wav,negative
 1558.wav,./raw_data/negative/1558.wav,negative
 1559.wav,./raw_data/negative/1559.wav,negative
-156.wav,./raw_data/negative/156.wav,negative
 1560.wav,./raw_data/negative/1560.wav,negative
 1561.wav,./raw_data/negative/1561.wav,negative
 1562.wav,./raw_data/negative/1562.wav,negative
@@ -6890,7 +6826,6 @@ name,path,label
 1567.wav,./raw_data/negative/1567.wav,negative
 1568.wav,./raw_data/negative/1568.wav,negative
 1569.wav,./raw_data/negative/1569.wav,negative
-157.wav,./raw_data/negative/157.wav,negative
 1570.wav,./raw_data/negative/1570.wav,negative
 1571.wav,./raw_data/negative/1571.wav,negative
 1572.wav,./raw_data/negative/1572.wav,negative
@@ -6901,7 +6836,6 @@ name,path,label
 1577.wav,./raw_data/negative/1577.wav,negative
 1578.wav,./raw_data/negative/1578.wav,negative
 1579.wav,./raw_data/negative/1579.wav,negative
-158.wav,./raw_data/negative/158.wav,negative
 1580.wav,./raw_data/negative/1580.wav,negative
 1581.wav,./raw_data/negative/1581.wav,negative
 1582.wav,./raw_data/negative/1582.wav,negative
@@ -6912,7 +6846,6 @@ name,path,label
 1587.wav,./raw_data/negative/1587.wav,negative
 1588.wav,./raw_data/negative/1588.wav,negative
 1589.wav,./raw_data/negative/1589.wav,negative
-159.wav,./raw_data/negative/159.wav,negative
 1590.wav,./raw_data/negative/1590.wav,negative
 1591.wav,./raw_data/negative/1591.wav,negative
 1592.wav,./raw_data/negative/1592.wav,negative
@@ -6923,8 +6856,6 @@ name,path,label
 1597.wav,./raw_data/negative/1597.wav,negative
 1598.wav,./raw_data/negative/1598.wav,negative
 1599.wav,./raw_data/negative/1599.wav,negative
-16.wav,./raw_data/negative/16.wav,negative
-160.wav,./raw_data/negative/160.wav,negative
 1600.wav,./raw_data/negative/1600.wav,negative
 1601.wav,./raw_data/negative/1601.wav,negative
 1602.wav,./raw_data/negative/1602.wav,negative
@@ -6935,7 +6866,6 @@ name,path,label
 1607.wav,./raw_data/negative/1607.wav,negative
 1608.wav,./raw_data/negative/1608.wav,negative
 1609.wav,./raw_data/negative/1609.wav,negative
-161.wav,./raw_data/negative/161.wav,negative
 1610.wav,./raw_data/negative/1610.wav,negative
 1611.wav,./raw_data/negative/1611.wav,negative
 1612.wav,./raw_data/negative/1612.wav,negative
@@ -6946,7 +6876,6 @@ name,path,label
 1617.wav,./raw_data/negative/1617.wav,negative
 1618.wav,./raw_data/negative/1618.wav,negative
 1619.wav,./raw_data/negative/1619.wav,negative
-162.wav,./raw_data/negative/162.wav,negative
 1620.wav,./raw_data/negative/1620.wav,negative
 1621.wav,./raw_data/negative/1621.wav,negative
 1622.wav,./raw_data/negative/1622.wav,negative
@@ -6957,7 +6886,6 @@ name,path,label
 1627.wav,./raw_data/negative/1627.wav,negative
 1628.wav,./raw_data/negative/1628.wav,negative
 1629.wav,./raw_data/negative/1629.wav,negative
-163.wav,./raw_data/negative/163.wav,negative
 1630.wav,./raw_data/negative/1630.wav,negative
 1631.wav,./raw_data/negative/1631.wav,negative
 1632.wav,./raw_data/negative/1632.wav,negative
@@ -6968,7 +6896,6 @@ name,path,label
 1637.wav,./raw_data/negative/1637.wav,negative
 1638.wav,./raw_data/negative/1638.wav,negative
 1639.wav,./raw_data/negative/1639.wav,negative
-164.wav,./raw_data/negative/164.wav,negative
 1640.wav,./raw_data/negative/1640.wav,negative
 1641.wav,./raw_data/negative/1641.wav,negative
 1642.wav,./raw_data/negative/1642.wav,negative
@@ -6979,7 +6906,6 @@ name,path,label
 1647.wav,./raw_data/negative/1647.wav,negative
 1648.wav,./raw_data/negative/1648.wav,negative
 1649.wav,./raw_data/negative/1649.wav,negative
-165.wav,./raw_data/negative/165.wav,negative
 1650.wav,./raw_data/negative/1650.wav,negative
 1651.wav,./raw_data/negative/1651.wav,negative
 1652.wav,./raw_data/negative/1652.wav,negative
@@ -6990,7 +6916,6 @@ name,path,label
 1657.wav,./raw_data/negative/1657.wav,negative
 1658.wav,./raw_data/negative/1658.wav,negative
 1659.wav,./raw_data/negative/1659.wav,negative
-166.wav,./raw_data/negative/166.wav,negative
 1660.wav,./raw_data/negative/1660.wav,negative
 1661.wav,./raw_data/negative/1661.wav,negative
 1662.wav,./raw_data/negative/1662.wav,negative
@@ -7001,7 +6926,6 @@ name,path,label
 1667.wav,./raw_data/negative/1667.wav,negative
 1668.wav,./raw_data/negative/1668.wav,negative
 1669.wav,./raw_data/negative/1669.wav,negative
-167.wav,./raw_data/negative/167.wav,negative
 1670.wav,./raw_data/negative/1670.wav,negative
 1671.wav,./raw_data/negative/1671.wav,negative
 1672.wav,./raw_data/negative/1672.wav,negative
@@ -7012,7 +6936,6 @@ name,path,label
 1677.wav,./raw_data/negative/1677.wav,negative
 1678.wav,./raw_data/negative/1678.wav,negative
 1679.wav,./raw_data/negative/1679.wav,negative
-168.wav,./raw_data/negative/168.wav,negative
 1680.wav,./raw_data/negative/1680.wav,negative
 1681.wav,./raw_data/negative/1681.wav,negative
 1682.wav,./raw_data/negative/1682.wav,negative
@@ -7023,7 +6946,6 @@ name,path,label
 1687.wav,./raw_data/negative/1687.wav,negative
 1688.wav,./raw_data/negative/1688.wav,negative
 1689.wav,./raw_data/negative/1689.wav,negative
-169.wav,./raw_data/negative/169.wav,negative
 1690.wav,./raw_data/negative/1690.wav,negative
 1691.wav,./raw_data/negative/1691.wav,negative
 1692.wav,./raw_data/negative/1692.wav,negative
@@ -7034,8 +6956,6 @@ name,path,label
 1697.wav,./raw_data/negative/1697.wav,negative
 1698.wav,./raw_data/negative/1698.wav,negative
 1699.wav,./raw_data/negative/1699.wav,negative
-17.wav,./raw_data/negative/17.wav,negative
-170.wav,./raw_data/negative/170.wav,negative
 1700.wav,./raw_data/negative/1700.wav,negative
 1701.wav,./raw_data/negative/1701.wav,negative
 1702.wav,./raw_data/negative/1702.wav,negative
@@ -7046,7 +6966,6 @@ name,path,label
 1707.wav,./raw_data/negative/1707.wav,negative
 1708.wav,./raw_data/negative/1708.wav,negative
 1709.wav,./raw_data/negative/1709.wav,negative
-171.wav,./raw_data/negative/171.wav,negative
 1710.wav,./raw_data/negative/1710.wav,negative
 1711.wav,./raw_data/negative/1711.wav,negative
 1712.wav,./raw_data/negative/1712.wav,negative
@@ -7057,7 +6976,6 @@ name,path,label
 1717.wav,./raw_data/negative/1717.wav,negative
 1718.wav,./raw_data/negative/1718.wav,negative
 1719.wav,./raw_data/negative/1719.wav,negative
-172.wav,./raw_data/negative/172.wav,negative
 1720.wav,./raw_data/negative/1720.wav,negative
 1721.wav,./raw_data/negative/1721.wav,negative
 1722.wav,./raw_data/negative/1722.wav,negative
@@ -7068,7 +6986,6 @@ name,path,label
 1727.wav,./raw_data/negative/1727.wav,negative
 1728.wav,./raw_data/negative/1728.wav,negative
 1729.wav,./raw_data/negative/1729.wav,negative
-173.wav,./raw_data/negative/173.wav,negative
 1730.wav,./raw_data/negative/1730.wav,negative
 1731.wav,./raw_data/negative/1731.wav,negative
 1732.wav,./raw_data/negative/1732.wav,negative
@@ -7079,7 +6996,6 @@ name,path,label
 1737.wav,./raw_data/negative/1737.wav,negative
 1738.wav,./raw_data/negative/1738.wav,negative
 1739.wav,./raw_data/negative/1739.wav,negative
-174.wav,./raw_data/negative/174.wav,negative
 1740.wav,./raw_data/negative/1740.wav,negative
 1741.wav,./raw_data/negative/1741.wav,negative
 1742.wav,./raw_data/negative/1742.wav,negative
@@ -7090,7 +7006,6 @@ name,path,label
 1747.wav,./raw_data/negative/1747.wav,negative
 1748.wav,./raw_data/negative/1748.wav,negative
 1749.wav,./raw_data/negative/1749.wav,negative
-175.wav,./raw_data/negative/175.wav,negative
 1750.wav,./raw_data/negative/1750.wav,negative
 1751.wav,./raw_data/negative/1751.wav,negative
 1752.wav,./raw_data/negative/1752.wav,negative
@@ -7101,7 +7016,6 @@ name,path,label
 1757.wav,./raw_data/negative/1757.wav,negative
 1758.wav,./raw_data/negative/1758.wav,negative
 1759.wav,./raw_data/negative/1759.wav,negative
-176.wav,./raw_data/negative/176.wav,negative
 1760.wav,./raw_data/negative/1760.wav,negative
 1761.wav,./raw_data/negative/1761.wav,negative
 1762.wav,./raw_data/negative/1762.wav,negative
@@ -7112,7 +7026,6 @@ name,path,label
 1767.wav,./raw_data/negative/1767.wav,negative
 1768.wav,./raw_data/negative/1768.wav,negative
 1769.wav,./raw_data/negative/1769.wav,negative
-177.wav,./raw_data/negative/177.wav,negative
 1770.wav,./raw_data/negative/1770.wav,negative
 1771.wav,./raw_data/negative/1771.wav,negative
 1772.wav,./raw_data/negative/1772.wav,negative
@@ -7123,7 +7036,6 @@ name,path,label
 1777.wav,./raw_data/negative/1777.wav,negative
 1778.wav,./raw_data/negative/1778.wav,negative
 1779.wav,./raw_data/negative/1779.wav,negative
-178.wav,./raw_data/negative/178.wav,negative
 1780.wav,./raw_data/negative/1780.wav,negative
 1781.wav,./raw_data/negative/1781.wav,negative
 1782.wav,./raw_data/negative/1782.wav,negative
@@ -7134,7 +7046,6 @@ name,path,label
 1787.wav,./raw_data/negative/1787.wav,negative
 1788.wav,./raw_data/negative/1788.wav,negative
 1789.wav,./raw_data/negative/1789.wav,negative
-179.wav,./raw_data/negative/179.wav,negative
 1790.wav,./raw_data/negative/1790.wav,negative
 1791.wav,./raw_data/negative/1791.wav,negative
 1792.wav,./raw_data/negative/1792.wav,negative
@@ -7145,8 +7056,6 @@ name,path,label
 1797.wav,./raw_data/negative/1797.wav,negative
 1798.wav,./raw_data/negative/1798.wav,negative
 1799.wav,./raw_data/negative/1799.wav,negative
-18.wav,./raw_data/negative/18.wav,negative
-180.wav,./raw_data/negative/180.wav,negative
 1800.wav,./raw_data/negative/1800.wav,negative
 1801.wav,./raw_data/negative/1801.wav,negative
 1802.wav,./raw_data/negative/1802.wav,negative
@@ -7157,7 +7066,6 @@ name,path,label
 1807.wav,./raw_data/negative/1807.wav,negative
 1808.wav,./raw_data/negative/1808.wav,negative
 1809.wav,./raw_data/negative/1809.wav,negative
-181.wav,./raw_data/negative/181.wav,negative
 1810.wav,./raw_data/negative/1810.wav,negative
 1811.wav,./raw_data/negative/1811.wav,negative
 1812.wav,./raw_data/negative/1812.wav,negative
@@ -7168,7 +7076,6 @@ name,path,label
 1817.wav,./raw_data/negative/1817.wav,negative
 1818.wav,./raw_data/negative/1818.wav,negative
 1819.wav,./raw_data/negative/1819.wav,negative
-182.wav,./raw_data/negative/182.wav,negative
 1820.wav,./raw_data/negative/1820.wav,negative
 1821.wav,./raw_data/negative/1821.wav,negative
 1822.wav,./raw_data/negative/1822.wav,negative
@@ -7179,7 +7086,6 @@ name,path,label
 1827.wav,./raw_data/negative/1827.wav,negative
 1828.wav,./raw_data/negative/1828.wav,negative
 1829.wav,./raw_data/negative/1829.wav,negative
-183.wav,./raw_data/negative/183.wav,negative
 1830.wav,./raw_data/negative/1830.wav,negative
 1831.wav,./raw_data/negative/1831.wav,negative
 1832.wav,./raw_data/negative/1832.wav,negative
@@ -7190,7 +7096,6 @@ name,path,label
 1837.wav,./raw_data/negative/1837.wav,negative
 1838.wav,./raw_data/negative/1838.wav,negative
 1839.wav,./raw_data/negative/1839.wav,negative
-184.wav,./raw_data/negative/184.wav,negative
 1840.wav,./raw_data/negative/1840.wav,negative
 1841.wav,./raw_data/negative/1841.wav,negative
 1842.wav,./raw_data/negative/1842.wav,negative
@@ -7201,7 +7106,6 @@ name,path,label
 1847.wav,./raw_data/negative/1847.wav,negative
 1848.wav,./raw_data/negative/1848.wav,negative
 1849.wav,./raw_data/negative/1849.wav,negative
-185.wav,./raw_data/negative/185.wav,negative
 1850.wav,./raw_data/negative/1850.wav,negative
 1851.wav,./raw_data/negative/1851.wav,negative
 1852.wav,./raw_data/negative/1852.wav,negative
@@ -7212,7 +7116,6 @@ name,path,label
 1857.wav,./raw_data/negative/1857.wav,negative
 1858.wav,./raw_data/negative/1858.wav,negative
 1859.wav,./raw_data/negative/1859.wav,negative
-186.wav,./raw_data/negative/186.wav,negative
 1860.wav,./raw_data/negative/1860.wav,negative
 1861.wav,./raw_data/negative/1861.wav,negative
 1862.wav,./raw_data/negative/1862.wav,negative
@@ -7223,7 +7126,6 @@ name,path,label
 1867.wav,./raw_data/negative/1867.wav,negative
 1868.wav,./raw_data/negative/1868.wav,negative
 1869.wav,./raw_data/negative/1869.wav,negative
-187.wav,./raw_data/negative/187.wav,negative
 1870.wav,./raw_data/negative/1870.wav,negative
 1871.wav,./raw_data/negative/1871.wav,negative
 1872.wav,./raw_data/negative/1872.wav,negative
@@ -7234,7 +7136,6 @@ name,path,label
 1877.wav,./raw_data/negative/1877.wav,negative
 1878.wav,./raw_data/negative/1878.wav,negative
 1879.wav,./raw_data/negative/1879.wav,negative
-188.wav,./raw_data/negative/188.wav,negative
 1880.wav,./raw_data/negative/1880.wav,negative
 1881.wav,./raw_data/negative/1881.wav,negative
 1882.wav,./raw_data/negative/1882.wav,negative
@@ -7245,7 +7146,6 @@ name,path,label
 1887.wav,./raw_data/negative/1887.wav,negative
 1888.wav,./raw_data/negative/1888.wav,negative
 1889.wav,./raw_data/negative/1889.wav,negative
-189.wav,./raw_data/negative/189.wav,negative
 1890.wav,./raw_data/negative/1890.wav,negative
 1891.wav,./raw_data/negative/1891.wav,negative
 1892.wav,./raw_data/negative/1892.wav,negative
@@ -7256,8 +7156,6 @@ name,path,label
 1897.wav,./raw_data/negative/1897.wav,negative
 1898.wav,./raw_data/negative/1898.wav,negative
 1899.wav,./raw_data/negative/1899.wav,negative
-19.wav,./raw_data/negative/19.wav,negative
-190.wav,./raw_data/negative/190.wav,negative
 1900.wav,./raw_data/negative/1900.wav,negative
 1901.wav,./raw_data/negative/1901.wav,negative
 1902.wav,./raw_data/negative/1902.wav,negative
@@ -7268,7 +7166,6 @@ name,path,label
 1907.wav,./raw_data/negative/1907.wav,negative
 1908.wav,./raw_data/negative/1908.wav,negative
 1909.wav,./raw_data/negative/1909.wav,negative
-191.wav,./raw_data/negative/191.wav,negative
 1910.wav,./raw_data/negative/1910.wav,negative
 1911.wav,./raw_data/negative/1911.wav,negative
 1912.wav,./raw_data/negative/1912.wav,negative
@@ -7279,7 +7176,6 @@ name,path,label
 1917.wav,./raw_data/negative/1917.wav,negative
 1918.wav,./raw_data/negative/1918.wav,negative
 1919.wav,./raw_data/negative/1919.wav,negative
-192.wav,./raw_data/negative/192.wav,negative
 1920.wav,./raw_data/negative/1920.wav,negative
 1921.wav,./raw_data/negative/1921.wav,negative
 1922.wav,./raw_data/negative/1922.wav,negative
@@ -7290,7 +7186,6 @@ name,path,label
 1927.wav,./raw_data/negative/1927.wav,negative
 1928.wav,./raw_data/negative/1928.wav,negative
 1929.wav,./raw_data/negative/1929.wav,negative
-193.wav,./raw_data/negative/193.wav,negative
 1930.wav,./raw_data/negative/1930.wav,negative
 1931.wav,./raw_data/negative/1931.wav,negative
 1932.wav,./raw_data/negative/1932.wav,negative
@@ -7301,7 +7196,6 @@ name,path,label
 1937.wav,./raw_data/negative/1937.wav,negative
 1938.wav,./raw_data/negative/1938.wav,negative
 1939.wav,./raw_data/negative/1939.wav,negative
-194.wav,./raw_data/negative/194.wav,negative
 1940.wav,./raw_data/negative/1940.wav,negative
 1941.wav,./raw_data/negative/1941.wav,negative
 1942.wav,./raw_data/negative/1942.wav,negative
@@ -7312,7 +7206,6 @@ name,path,label
 1947.wav,./raw_data/negative/1947.wav,negative
 1948.wav,./raw_data/negative/1948.wav,negative
 1949.wav,./raw_data/negative/1949.wav,negative
-195.wav,./raw_data/negative/195.wav,negative
 1950.wav,./raw_data/negative/1950.wav,negative
 1951.wav,./raw_data/negative/1951.wav,negative
 1952.wav,./raw_data/negative/1952.wav,negative
@@ -7323,7 +7216,6 @@ name,path,label
 1957.wav,./raw_data/negative/1957.wav,negative
 1958.wav,./raw_data/negative/1958.wav,negative
 1959.wav,./raw_data/negative/1959.wav,negative
-196.wav,./raw_data/negative/196.wav,negative
 1960.wav,./raw_data/negative/1960.wav,negative
 1961.wav,./raw_data/negative/1961.wav,negative
 1962.wav,./raw_data/negative/1962.wav,negative
@@ -7334,7 +7226,6 @@ name,path,label
 1967.wav,./raw_data/negative/1967.wav,negative
 1968.wav,./raw_data/negative/1968.wav,negative
 1969.wav,./raw_data/negative/1969.wav,negative
-197.wav,./raw_data/negative/197.wav,negative
 1970.wav,./raw_data/negative/1970.wav,negative
 1971.wav,./raw_data/negative/1971.wav,negative
 1972.wav,./raw_data/negative/1972.wav,negative
@@ -7345,7 +7236,6 @@ name,path,label
 1977.wav,./raw_data/negative/1977.wav,negative
 1978.wav,./raw_data/negative/1978.wav,negative
 1979.wav,./raw_data/negative/1979.wav,negative
-198.wav,./raw_data/negative/198.wav,negative
 1980.wav,./raw_data/negative/1980.wav,negative
 1981.wav,./raw_data/negative/1981.wav,negative
 1982.wav,./raw_data/negative/1982.wav,negative
@@ -7356,7 +7246,6 @@ name,path,label
 1987.wav,./raw_data/negative/1987.wav,negative
 1988.wav,./raw_data/negative/1988.wav,negative
 1989.wav,./raw_data/negative/1989.wav,negative
-199.wav,./raw_data/negative/199.wav,negative
 1990.wav,./raw_data/negative/1990.wav,negative
 1991.wav,./raw_data/negative/1991.wav,negative
 1992.wav,./raw_data/negative/1992.wav,negative
@@ -7367,9 +7256,6 @@ name,path,label
 1997.wav,./raw_data/negative/1997.wav,negative
 1998.wav,./raw_data/negative/1998.wav,negative
 1999.wav,./raw_data/negative/1999.wav,negative
-2.wav,./raw_data/negative/2.wav,negative
-20.wav,./raw_data/negative/20.wav,negative
-200.wav,./raw_data/negative/200.wav,negative
 2000.wav,./raw_data/negative/2000.wav,negative
 2001.wav,./raw_data/negative/2001.wav,negative
 2002.wav,./raw_data/negative/2002.wav,negative
@@ -7380,7 +7266,6 @@ name,path,label
 2007.wav,./raw_data/negative/2007.wav,negative
 2008.wav,./raw_data/negative/2008.wav,negative
 2009.wav,./raw_data/negative/2009.wav,negative
-201.wav,./raw_data/negative/201.wav,negative
 2010.wav,./raw_data/negative/2010.wav,negative
 2011.wav,./raw_data/negative/2011.wav,negative
 2012.wav,./raw_data/negative/2012.wav,negative
@@ -7391,7 +7276,6 @@ name,path,label
 2017.wav,./raw_data/negative/2017.wav,negative
 2018.wav,./raw_data/negative/2018.wav,negative
 2019.wav,./raw_data/negative/2019.wav,negative
-202.wav,./raw_data/negative/202.wav,negative
 2020.wav,./raw_data/negative/2020.wav,negative
 2021.wav,./raw_data/negative/2021.wav,negative
 2022.wav,./raw_data/negative/2022.wav,negative
@@ -7402,7 +7286,6 @@ name,path,label
 2027.wav,./raw_data/negative/2027.wav,negative
 2028.wav,./raw_data/negative/2028.wav,negative
 2029.wav,./raw_data/negative/2029.wav,negative
-203.wav,./raw_data/negative/203.wav,negative
 2030.wav,./raw_data/negative/2030.wav,negative
 2031.wav,./raw_data/negative/2031.wav,negative
 2032.wav,./raw_data/negative/2032.wav,negative
@@ -7413,7 +7296,6 @@ name,path,label
 2037.wav,./raw_data/negative/2037.wav,negative
 2038.wav,./raw_data/negative/2038.wav,negative
 2039.wav,./raw_data/negative/2039.wav,negative
-204.wav,./raw_data/negative/204.wav,negative
 2040.wav,./raw_data/negative/2040.wav,negative
 2041.wav,./raw_data/negative/2041.wav,negative
 2042.wav,./raw_data/negative/2042.wav,negative
@@ -7424,7 +7306,6 @@ name,path,label
 2047.wav,./raw_data/negative/2047.wav,negative
 2048.wav,./raw_data/negative/2048.wav,negative
 2049.wav,./raw_data/negative/2049.wav,negative
-205.wav,./raw_data/negative/205.wav,negative
 2050.wav,./raw_data/negative/2050.wav,negative
 2051.wav,./raw_data/negative/2051.wav,negative
 2052.wav,./raw_data/negative/2052.wav,negative
@@ -7435,7 +7316,6 @@ name,path,label
 2057.wav,./raw_data/negative/2057.wav,negative
 2058.wav,./raw_data/negative/2058.wav,negative
 2059.wav,./raw_data/negative/2059.wav,negative
-206.wav,./raw_data/negative/206.wav,negative
 2060.wav,./raw_data/negative/2060.wav,negative
 2061.wav,./raw_data/negative/2061.wav,negative
 2062.wav,./raw_data/negative/2062.wav,negative
@@ -7446,7 +7326,6 @@ name,path,label
 2067.wav,./raw_data/negative/2067.wav,negative
 2068.wav,./raw_data/negative/2068.wav,negative
 2069.wav,./raw_data/negative/2069.wav,negative
-207.wav,./raw_data/negative/207.wav,negative
 2070.wav,./raw_data/negative/2070.wav,negative
 2071.wav,./raw_data/negative/2071.wav,negative
 2072.wav,./raw_data/negative/2072.wav,negative
@@ -7457,7 +7336,6 @@ name,path,label
 2077.wav,./raw_data/negative/2077.wav,negative
 2078.wav,./raw_data/negative/2078.wav,negative
 2079.wav,./raw_data/negative/2079.wav,negative
-208.wav,./raw_data/negative/208.wav,negative
 2080.wav,./raw_data/negative/2080.wav,negative
 2081.wav,./raw_data/negative/2081.wav,negative
 2082.wav,./raw_data/negative/2082.wav,negative
@@ -7468,7 +7346,6 @@ name,path,label
 2087.wav,./raw_data/negative/2087.wav,negative
 2088.wav,./raw_data/negative/2088.wav,negative
 2089.wav,./raw_data/negative/2089.wav,negative
-209.wav,./raw_data/negative/209.wav,negative
 2090.wav,./raw_data/negative/2090.wav,negative
 2091.wav,./raw_data/negative/2091.wav,negative
 2092.wav,./raw_data/negative/2092.wav,negative
@@ -7479,8 +7356,6 @@ name,path,label
 2097.wav,./raw_data/negative/2097.wav,negative
 2098.wav,./raw_data/negative/2098.wav,negative
 2099.wav,./raw_data/negative/2099.wav,negative
-21.wav,./raw_data/negative/21.wav,negative
-210.wav,./raw_data/negative/210.wav,negative
 2100.wav,./raw_data/negative/2100.wav,negative
 2101.wav,./raw_data/negative/2101.wav,negative
 2102.wav,./raw_data/negative/2102.wav,negative
@@ -7491,7 +7366,6 @@ name,path,label
 2107.wav,./raw_data/negative/2107.wav,negative
 2108.wav,./raw_data/negative/2108.wav,negative
 2109.wav,./raw_data/negative/2109.wav,negative
-211.wav,./raw_data/negative/211.wav,negative
 2110.wav,./raw_data/negative/2110.wav,negative
 2111.wav,./raw_data/negative/2111.wav,negative
 2112.wav,./raw_data/negative/2112.wav,negative
@@ -7502,7 +7376,6 @@ name,path,label
 2117.wav,./raw_data/negative/2117.wav,negative
 2118.wav,./raw_data/negative/2118.wav,negative
 2119.wav,./raw_data/negative/2119.wav,negative
-212.wav,./raw_data/negative/212.wav,negative
 2120.wav,./raw_data/negative/2120.wav,negative
 2121.wav,./raw_data/negative/2121.wav,negative
 2122.wav,./raw_data/negative/2122.wav,negative
@@ -7513,7 +7386,6 @@ name,path,label
 2127.wav,./raw_data/negative/2127.wav,negative
 2128.wav,./raw_data/negative/2128.wav,negative
 2129.wav,./raw_data/negative/2129.wav,negative
-213.wav,./raw_data/negative/213.wav,negative
 2130.wav,./raw_data/negative/2130.wav,negative
 2131.wav,./raw_data/negative/2131.wav,negative
 2132.wav,./raw_data/negative/2132.wav,negative
@@ -7524,7 +7396,6 @@ name,path,label
 2137.wav,./raw_data/negative/2137.wav,negative
 2138.wav,./raw_data/negative/2138.wav,negative
 2139.wav,./raw_data/negative/2139.wav,negative
-214.wav,./raw_data/negative/214.wav,negative
 2140.wav,./raw_data/negative/2140.wav,negative
 2141.wav,./raw_data/negative/2141.wav,negative
 2142.wav,./raw_data/negative/2142.wav,negative
@@ -7535,7 +7406,6 @@ name,path,label
 2147.wav,./raw_data/negative/2147.wav,negative
 2148.wav,./raw_data/negative/2148.wav,negative
 2149.wav,./raw_data/negative/2149.wav,negative
-215.wav,./raw_data/negative/215.wav,negative
 2150.wav,./raw_data/negative/2150.wav,negative
 2151.wav,./raw_data/negative/2151.wav,negative
 2152.wav,./raw_data/negative/2152.wav,negative
@@ -7546,7 +7416,6 @@ name,path,label
 2157.wav,./raw_data/negative/2157.wav,negative
 2158.wav,./raw_data/negative/2158.wav,negative
 2159.wav,./raw_data/negative/2159.wav,negative
-216.wav,./raw_data/negative/216.wav,negative
 2160.wav,./raw_data/negative/2160.wav,negative
 2161.wav,./raw_data/negative/2161.wav,negative
 2162.wav,./raw_data/negative/2162.wav,negative
@@ -7557,7 +7426,6 @@ name,path,label
 2167.wav,./raw_data/negative/2167.wav,negative
 2168.wav,./raw_data/negative/2168.wav,negative
 2169.wav,./raw_data/negative/2169.wav,negative
-217.wav,./raw_data/negative/217.wav,negative
 2170.wav,./raw_data/negative/2170.wav,negative
 2171.wav,./raw_data/negative/2171.wav,negative
 2172.wav,./raw_data/negative/2172.wav,negative
@@ -7568,7 +7436,6 @@ name,path,label
 2177.wav,./raw_data/negative/2177.wav,negative
 2178.wav,./raw_data/negative/2178.wav,negative
 2179.wav,./raw_data/negative/2179.wav,negative
-218.wav,./raw_data/negative/218.wav,negative
 2180.wav,./raw_data/negative/2180.wav,negative
 2181.wav,./raw_data/negative/2181.wav,negative
 2182.wav,./raw_data/negative/2182.wav,negative
@@ -7579,7 +7446,6 @@ name,path,label
 2187.wav,./raw_data/negative/2187.wav,negative
 2188.wav,./raw_data/negative/2188.wav,negative
 2189.wav,./raw_data/negative/2189.wav,negative
-219.wav,./raw_data/negative/219.wav,negative
 2190.wav,./raw_data/negative/2190.wav,negative
 2191.wav,./raw_data/negative/2191.wav,negative
 2192.wav,./raw_data/negative/2192.wav,negative
@@ -7590,8 +7456,6 @@ name,path,label
 2197.wav,./raw_data/negative/2197.wav,negative
 2198.wav,./raw_data/negative/2198.wav,negative
 2199.wav,./raw_data/negative/2199.wav,negative
-22.wav,./raw_data/negative/22.wav,negative
-220.wav,./raw_data/negative/220.wav,negative
 2200.wav,./raw_data/negative/2200.wav,negative
 2201.wav,./raw_data/negative/2201.wav,negative
 2202.wav,./raw_data/negative/2202.wav,negative
@@ -7602,7 +7466,6 @@ name,path,label
 2207.wav,./raw_data/negative/2207.wav,negative
 2208.wav,./raw_data/negative/2208.wav,negative
 2209.wav,./raw_data/negative/2209.wav,negative
-221.wav,./raw_data/negative/221.wav,negative
 2210.wav,./raw_data/negative/2210.wav,negative
 2211.wav,./raw_data/negative/2211.wav,negative
 2212.wav,./raw_data/negative/2212.wav,negative
@@ -7613,7 +7476,6 @@ name,path,label
 2217.wav,./raw_data/negative/2217.wav,negative
 2218.wav,./raw_data/negative/2218.wav,negative
 2219.wav,./raw_data/negative/2219.wav,negative
-222.wav,./raw_data/negative/222.wav,negative
 2220.wav,./raw_data/negative/2220.wav,negative
 2221.wav,./raw_data/negative/2221.wav,negative
 2222.wav,./raw_data/negative/2222.wav,negative
@@ -7624,7 +7486,6 @@ name,path,label
 2227.wav,./raw_data/negative/2227.wav,negative
 2228.wav,./raw_data/negative/2228.wav,negative
 2229.wav,./raw_data/negative/2229.wav,negative
-223.wav,./raw_data/negative/223.wav,negative
 2230.wav,./raw_data/negative/2230.wav,negative
 2231.wav,./raw_data/negative/2231.wav,negative
 2232.wav,./raw_data/negative/2232.wav,negative
@@ -7635,7 +7496,6 @@ name,path,label
 2237.wav,./raw_data/negative/2237.wav,negative
 2238.wav,./raw_data/negative/2238.wav,negative
 2239.wav,./raw_data/negative/2239.wav,negative
-224.wav,./raw_data/negative/224.wav,negative
 2240.wav,./raw_data/negative/2240.wav,negative
 2241.wav,./raw_data/negative/2241.wav,negative
 2242.wav,./raw_data/negative/2242.wav,negative
@@ -7646,7 +7506,6 @@ name,path,label
 2247.wav,./raw_data/negative/2247.wav,negative
 2248.wav,./raw_data/negative/2248.wav,negative
 2249.wav,./raw_data/negative/2249.wav,negative
-225.wav,./raw_data/negative/225.wav,negative
 2250.wav,./raw_data/negative/2250.wav,negative
 2251.wav,./raw_data/negative/2251.wav,negative
 2252.wav,./raw_data/negative/2252.wav,negative
@@ -7657,7 +7516,6 @@ name,path,label
 2257.wav,./raw_data/negative/2257.wav,negative
 2258.wav,./raw_data/negative/2258.wav,negative
 2259.wav,./raw_data/negative/2259.wav,negative
-226.wav,./raw_data/negative/226.wav,negative
 2260.wav,./raw_data/negative/2260.wav,negative
 2261.wav,./raw_data/negative/2261.wav,negative
 2262.wav,./raw_data/negative/2262.wav,negative
@@ -7668,7 +7526,6 @@ name,path,label
 2267.wav,./raw_data/negative/2267.wav,negative
 2268.wav,./raw_data/negative/2268.wav,negative
 2269.wav,./raw_data/negative/2269.wav,negative
-227.wav,./raw_data/negative/227.wav,negative
 2270.wav,./raw_data/negative/2270.wav,negative
 2271.wav,./raw_data/negative/2271.wav,negative
 2272.wav,./raw_data/negative/2272.wav,negative
@@ -7679,7 +7536,6 @@ name,path,label
 2277.wav,./raw_data/negative/2277.wav,negative
 2278.wav,./raw_data/negative/2278.wav,negative
 2279.wav,./raw_data/negative/2279.wav,negative
-228.wav,./raw_data/negative/228.wav,negative
 2280.wav,./raw_data/negative/2280.wav,negative
 2281.wav,./raw_data/negative/2281.wav,negative
 2282.wav,./raw_data/negative/2282.wav,negative
@@ -7690,7 +7546,6 @@ name,path,label
 2287.wav,./raw_data/negative/2287.wav,negative
 2288.wav,./raw_data/negative/2288.wav,negative
 2289.wav,./raw_data/negative/2289.wav,negative
-229.wav,./raw_data/negative/229.wav,negative
 2290.wav,./raw_data/negative/2290.wav,negative
 2291.wav,./raw_data/negative/2291.wav,negative
 2292.wav,./raw_data/negative/2292.wav,negative
@@ -7701,8 +7556,6 @@ name,path,label
 2297.wav,./raw_data/negative/2297.wav,negative
 2298.wav,./raw_data/negative/2298.wav,negative
 2299.wav,./raw_data/negative/2299.wav,negative
-23.wav,./raw_data/negative/23.wav,negative
-230.wav,./raw_data/negative/230.wav,negative
 2300.wav,./raw_data/negative/2300.wav,negative
 2301.wav,./raw_data/negative/2301.wav,negative
 2302.wav,./raw_data/negative/2302.wav,negative
@@ -7713,7 +7566,6 @@ name,path,label
 2307.wav,./raw_data/negative/2307.wav,negative
 2308.wav,./raw_data/negative/2308.wav,negative
 2309.wav,./raw_data/negative/2309.wav,negative
-231.wav,./raw_data/negative/231.wav,negative
 2310.wav,./raw_data/negative/2310.wav,negative
 2311.wav,./raw_data/negative/2311.wav,negative
 2312.wav,./raw_data/negative/2312.wav,negative
@@ -7724,7 +7576,6 @@ name,path,label
 2317.wav,./raw_data/negative/2317.wav,negative
 2318.wav,./raw_data/negative/2318.wav,negative
 2319.wav,./raw_data/negative/2319.wav,negative
-232.wav,./raw_data/negative/232.wav,negative
 2320.wav,./raw_data/negative/2320.wav,negative
 2321.wav,./raw_data/negative/2321.wav,negative
 2322.wav,./raw_data/negative/2322.wav,negative
@@ -7735,7 +7586,6 @@ name,path,label
 2327.wav,./raw_data/negative/2327.wav,negative
 2328.wav,./raw_data/negative/2328.wav,negative
 2329.wav,./raw_data/negative/2329.wav,negative
-233.wav,./raw_data/negative/233.wav,negative
 2330.wav,./raw_data/negative/2330.wav,negative
 2331.wav,./raw_data/negative/2331.wav,negative
 2332.wav,./raw_data/negative/2332.wav,negative
@@ -7746,7 +7596,6 @@ name,path,label
 2337.wav,./raw_data/negative/2337.wav,negative
 2338.wav,./raw_data/negative/2338.wav,negative
 2339.wav,./raw_data/negative/2339.wav,negative
-234.wav,./raw_data/negative/234.wav,negative
 2340.wav,./raw_data/negative/2340.wav,negative
 2341.wav,./raw_data/negative/2341.wav,negative
 2342.wav,./raw_data/negative/2342.wav,negative
@@ -7757,7 +7606,6 @@ name,path,label
 2347.wav,./raw_data/negative/2347.wav,negative
 2348.wav,./raw_data/negative/2348.wav,negative
 2349.wav,./raw_data/negative/2349.wav,negative
-235.wav,./raw_data/negative/235.wav,negative
 2350.wav,./raw_data/negative/2350.wav,negative
 2351.wav,./raw_data/negative/2351.wav,negative
 2352.wav,./raw_data/negative/2352.wav,negative
@@ -7768,7 +7616,6 @@ name,path,label
 2357.wav,./raw_data/negative/2357.wav,negative
 2358.wav,./raw_data/negative/2358.wav,negative
 2359.wav,./raw_data/negative/2359.wav,negative
-236.wav,./raw_data/negative/236.wav,negative
 2360.wav,./raw_data/negative/2360.wav,negative
 2361.wav,./raw_data/negative/2361.wav,negative
 2362.wav,./raw_data/negative/2362.wav,negative
@@ -7779,7 +7626,6 @@ name,path,label
 2367.wav,./raw_data/negative/2367.wav,negative
 2368.wav,./raw_data/negative/2368.wav,negative
 2369.wav,./raw_data/negative/2369.wav,negative
-237.wav,./raw_data/negative/237.wav,negative
 2370.wav,./raw_data/negative/2370.wav,negative
 2371.wav,./raw_data/negative/2371.wav,negative
 2372.wav,./raw_data/negative/2372.wav,negative
@@ -7790,7 +7636,6 @@ name,path,label
 2377.wav,./raw_data/negative/2377.wav,negative
 2378.wav,./raw_data/negative/2378.wav,negative
 2379.wav,./raw_data/negative/2379.wav,negative
-238.wav,./raw_data/negative/238.wav,negative
 2380.wav,./raw_data/negative/2380.wav,negative
 2381.wav,./raw_data/negative/2381.wav,negative
 2382.wav,./raw_data/negative/2382.wav,negative
@@ -7801,7 +7646,6 @@ name,path,label
 2387.wav,./raw_data/negative/2387.wav,negative
 2388.wav,./raw_data/negative/2388.wav,negative
 2389.wav,./raw_data/negative/2389.wav,negative
-239.wav,./raw_data/negative/239.wav,negative
 2390.wav,./raw_data/negative/2390.wav,negative
 2391.wav,./raw_data/negative/2391.wav,negative
 2392.wav,./raw_data/negative/2392.wav,negative
@@ -7812,8 +7656,6 @@ name,path,label
 2397.wav,./raw_data/negative/2397.wav,negative
 2398.wav,./raw_data/negative/2398.wav,negative
 2399.wav,./raw_data/negative/2399.wav,negative
-24.wav,./raw_data/negative/24.wav,negative
-240.wav,./raw_data/negative/240.wav,negative
 2400.wav,./raw_data/negative/2400.wav,negative
 2401.wav,./raw_data/negative/2401.wav,negative
 2402.wav,./raw_data/negative/2402.wav,negative
@@ -7824,7 +7666,6 @@ name,path,label
 2407.wav,./raw_data/negative/2407.wav,negative
 2408.wav,./raw_data/negative/2408.wav,negative
 2409.wav,./raw_data/negative/2409.wav,negative
-241.wav,./raw_data/negative/241.wav,negative
 2410.wav,./raw_data/negative/2410.wav,negative
 2411.wav,./raw_data/negative/2411.wav,negative
 2412.wav,./raw_data/negative/2412.wav,negative
@@ -7835,7 +7676,6 @@ name,path,label
 2417.wav,./raw_data/negative/2417.wav,negative
 2418.wav,./raw_data/negative/2418.wav,negative
 2419.wav,./raw_data/negative/2419.wav,negative
-242.wav,./raw_data/negative/242.wav,negative
 2420.wav,./raw_data/negative/2420.wav,negative
 2421.wav,./raw_data/negative/2421.wav,negative
 2422.wav,./raw_data/negative/2422.wav,negative
@@ -7846,7 +7686,6 @@ name,path,label
 2427.wav,./raw_data/negative/2427.wav,negative
 2428.wav,./raw_data/negative/2428.wav,negative
 2429.wav,./raw_data/negative/2429.wav,negative
-243.wav,./raw_data/negative/243.wav,negative
 2430.wav,./raw_data/negative/2430.wav,negative
 2431.wav,./raw_data/negative/2431.wav,negative
 2432.wav,./raw_data/negative/2432.wav,negative
@@ -7857,7 +7696,6 @@ name,path,label
 2437.wav,./raw_data/negative/2437.wav,negative
 2438.wav,./raw_data/negative/2438.wav,negative
 2439.wav,./raw_data/negative/2439.wav,negative
-244.wav,./raw_data/negative/244.wav,negative
 2440.wav,./raw_data/negative/2440.wav,negative
 2441.wav,./raw_data/negative/2441.wav,negative
 2442.wav,./raw_data/negative/2442.wav,negative
@@ -7868,7 +7706,6 @@ name,path,label
 2447.wav,./raw_data/negative/2447.wav,negative
 2448.wav,./raw_data/negative/2448.wav,negative
 2449.wav,./raw_data/negative/2449.wav,negative
-245.wav,./raw_data/negative/245.wav,negative
 2450.wav,./raw_data/negative/2450.wav,negative
 2451.wav,./raw_data/negative/2451.wav,negative
 2452.wav,./raw_data/negative/2452.wav,negative
@@ -7879,7 +7716,6 @@ name,path,label
 2457.wav,./raw_data/negative/2457.wav,negative
 2458.wav,./raw_data/negative/2458.wav,negative
 2459.wav,./raw_data/negative/2459.wav,negative
-246.wav,./raw_data/negative/246.wav,negative
 2460.wav,./raw_data/negative/2460.wav,negative
 2461.wav,./raw_data/negative/2461.wav,negative
 2462.wav,./raw_data/negative/2462.wav,negative
@@ -7890,7 +7726,6 @@ name,path,label
 2467.wav,./raw_data/negative/2467.wav,negative
 2468.wav,./raw_data/negative/2468.wav,negative
 2469.wav,./raw_data/negative/2469.wav,negative
-247.wav,./raw_data/negative/247.wav,negative
 2470.wav,./raw_data/negative/2470.wav,negative
 2471.wav,./raw_data/negative/2471.wav,negative
 2472.wav,./raw_data/negative/2472.wav,negative
@@ -7901,7 +7736,6 @@ name,path,label
 2477.wav,./raw_data/negative/2477.wav,negative
 2478.wav,./raw_data/negative/2478.wav,negative
 2479.wav,./raw_data/negative/2479.wav,negative
-248.wav,./raw_data/negative/248.wav,negative
 2480.wav,./raw_data/negative/2480.wav,negative
 2481.wav,./raw_data/negative/2481.wav,negative
 2482.wav,./raw_data/negative/2482.wav,negative
@@ -7912,7 +7746,6 @@ name,path,label
 2487.wav,./raw_data/negative/2487.wav,negative
 2488.wav,./raw_data/negative/2488.wav,negative
 2489.wav,./raw_data/negative/2489.wav,negative
-249.wav,./raw_data/negative/249.wav,negative
 2490.wav,./raw_data/negative/2490.wav,negative
 2491.wav,./raw_data/negative/2491.wav,negative
 2492.wav,./raw_data/negative/2492.wav,negative
@@ -7923,8 +7756,6 @@ name,path,label
 2497.wav,./raw_data/negative/2497.wav,negative
 2498.wav,./raw_data/negative/2498.wav,negative
 2499.wav,./raw_data/negative/2499.wav,negative
-25.wav,./raw_data/negative/25.wav,negative
-250.wav,./raw_data/negative/250.wav,negative
 2500.wav,./raw_data/negative/2500.wav,negative
 2501.wav,./raw_data/negative/2501.wav,negative
 2502.wav,./raw_data/negative/2502.wav,negative
@@ -7935,7 +7766,6 @@ name,path,label
 2507.wav,./raw_data/negative/2507.wav,negative
 2508.wav,./raw_data/negative/2508.wav,negative
 2509.wav,./raw_data/negative/2509.wav,negative
-251.wav,./raw_data/negative/251.wav,negative
 2510.wav,./raw_data/negative/2510.wav,negative
 2511.wav,./raw_data/negative/2511.wav,negative
 2512.wav,./raw_data/negative/2512.wav,negative
@@ -7946,7 +7776,6 @@ name,path,label
 2517.wav,./raw_data/negative/2517.wav,negative
 2518.wav,./raw_data/negative/2518.wav,negative
 2519.wav,./raw_data/negative/2519.wav,negative
-252.wav,./raw_data/negative/252.wav,negative
 2520.wav,./raw_data/negative/2520.wav,negative
 2521.wav,./raw_data/negative/2521.wav,negative
 2522.wav,./raw_data/negative/2522.wav,negative
@@ -7957,7 +7786,6 @@ name,path,label
 2527.wav,./raw_data/negative/2527.wav,negative
 2528.wav,./raw_data/negative/2528.wav,negative
 2529.wav,./raw_data/negative/2529.wav,negative
-253.wav,./raw_data/negative/253.wav,negative
 2530.wav,./raw_data/negative/2530.wav,negative
 2531.wav,./raw_data/negative/2531.wav,negative
 2532.wav,./raw_data/negative/2532.wav,negative
@@ -7968,7 +7796,6 @@ name,path,label
 2537.wav,./raw_data/negative/2537.wav,negative
 2538.wav,./raw_data/negative/2538.wav,negative
 2539.wav,./raw_data/negative/2539.wav,negative
-254.wav,./raw_data/negative/254.wav,negative
 2540.wav,./raw_data/negative/2540.wav,negative
 2541.wav,./raw_data/negative/2541.wav,negative
 2542.wav,./raw_data/negative/2542.wav,negative
@@ -7979,7 +7806,6 @@ name,path,label
 2547.wav,./raw_data/negative/2547.wav,negative
 2548.wav,./raw_data/negative/2548.wav,negative
 2549.wav,./raw_data/negative/2549.wav,negative
-255.wav,./raw_data/negative/255.wav,negative
 2550.wav,./raw_data/negative/2550.wav,negative
 2551.wav,./raw_data/negative/2551.wav,negative
 2552.wav,./raw_data/negative/2552.wav,negative
@@ -7990,7 +7816,6 @@ name,path,label
 2557.wav,./raw_data/negative/2557.wav,negative
 2558.wav,./raw_data/negative/2558.wav,negative
 2559.wav,./raw_data/negative/2559.wav,negative
-256.wav,./raw_data/negative/256.wav,negative
 2560.wav,./raw_data/negative/2560.wav,negative
 2561.wav,./raw_data/negative/2561.wav,negative
 2562.wav,./raw_data/negative/2562.wav,negative
@@ -8001,7 +7826,6 @@ name,path,label
 2567.wav,./raw_data/negative/2567.wav,negative
 2568.wav,./raw_data/negative/2568.wav,negative
 2569.wav,./raw_data/negative/2569.wav,negative
-257.wav,./raw_data/negative/257.wav,negative
 2570.wav,./raw_data/negative/2570.wav,negative
 2571.wav,./raw_data/negative/2571.wav,negative
 2572.wav,./raw_data/negative/2572.wav,negative
@@ -8012,7 +7836,6 @@ name,path,label
 2577.wav,./raw_data/negative/2577.wav,negative
 2578.wav,./raw_data/negative/2578.wav,negative
 2579.wav,./raw_data/negative/2579.wav,negative
-258.wav,./raw_data/negative/258.wav,negative
 2580.wav,./raw_data/negative/2580.wav,negative
 2581.wav,./raw_data/negative/2581.wav,negative
 2582.wav,./raw_data/negative/2582.wav,negative
@@ -8023,7 +7846,6 @@ name,path,label
 2587.wav,./raw_data/negative/2587.wav,negative
 2588.wav,./raw_data/negative/2588.wav,negative
 2589.wav,./raw_data/negative/2589.wav,negative
-259.wav,./raw_data/negative/259.wav,negative
 2590.wav,./raw_data/negative/2590.wav,negative
 2591.wav,./raw_data/negative/2591.wav,negative
 2592.wav,./raw_data/negative/2592.wav,negative
@@ -8034,8 +7856,6 @@ name,path,label
 2597.wav,./raw_data/negative/2597.wav,negative
 2598.wav,./raw_data/negative/2598.wav,negative
 2599.wav,./raw_data/negative/2599.wav,negative
-26.wav,./raw_data/negative/26.wav,negative
-260.wav,./raw_data/negative/260.wav,negative
 2600.wav,./raw_data/negative/2600.wav,negative
 2601.wav,./raw_data/negative/2601.wav,negative
 2602.wav,./raw_data/negative/2602.wav,negative
@@ -8046,7 +7866,6 @@ name,path,label
 2607.wav,./raw_data/negative/2607.wav,negative
 2608.wav,./raw_data/negative/2608.wav,negative
 2609.wav,./raw_data/negative/2609.wav,negative
-261.wav,./raw_data/negative/261.wav,negative
 2610.wav,./raw_data/negative/2610.wav,negative
 2611.wav,./raw_data/negative/2611.wav,negative
 2612.wav,./raw_data/negative/2612.wav,negative
@@ -8057,7 +7876,6 @@ name,path,label
 2617.wav,./raw_data/negative/2617.wav,negative
 2618.wav,./raw_data/negative/2618.wav,negative
 2619.wav,./raw_data/negative/2619.wav,negative
-262.wav,./raw_data/negative/262.wav,negative
 2620.wav,./raw_data/negative/2620.wav,negative
 2621.wav,./raw_data/negative/2621.wav,negative
 2622.wav,./raw_data/negative/2622.wav,negative
@@ -8068,7 +7886,6 @@ name,path,label
 2627.wav,./raw_data/negative/2627.wav,negative
 2628.wav,./raw_data/negative/2628.wav,negative
 2629.wav,./raw_data/negative/2629.wav,negative
-263.wav,./raw_data/negative/263.wav,negative
 2630.wav,./raw_data/negative/2630.wav,negative
 2631.wav,./raw_data/negative/2631.wav,negative
 2632.wav,./raw_data/negative/2632.wav,negative
@@ -8079,7 +7896,6 @@ name,path,label
 2637.wav,./raw_data/negative/2637.wav,negative
 2638.wav,./raw_data/negative/2638.wav,negative
 2639.wav,./raw_data/negative/2639.wav,negative
-264.wav,./raw_data/negative/264.wav,negative
 2640.wav,./raw_data/negative/2640.wav,negative
 2641.wav,./raw_data/negative/2641.wav,negative
 2642.wav,./raw_data/negative/2642.wav,negative
@@ -8090,7 +7906,6 @@ name,path,label
 2647.wav,./raw_data/negative/2647.wav,negative
 2648.wav,./raw_data/negative/2648.wav,negative
 2649.wav,./raw_data/negative/2649.wav,negative
-265.wav,./raw_data/negative/265.wav,negative
 2650.wav,./raw_data/negative/2650.wav,negative
 2651.wav,./raw_data/negative/2651.wav,negative
 2652.wav,./raw_data/negative/2652.wav,negative
@@ -8101,7 +7916,6 @@ name,path,label
 2657.wav,./raw_data/negative/2657.wav,negative
 2658.wav,./raw_data/negative/2658.wav,negative
 2659.wav,./raw_data/negative/2659.wav,negative
-266.wav,./raw_data/negative/266.wav,negative
 2660.wav,./raw_data/negative/2660.wav,negative
 2661.wav,./raw_data/negative/2661.wav,negative
 2662.wav,./raw_data/negative/2662.wav,negative
@@ -8112,7 +7926,6 @@ name,path,label
 2667.wav,./raw_data/negative/2667.wav,negative
 2668.wav,./raw_data/negative/2668.wav,negative
 2669.wav,./raw_data/negative/2669.wav,negative
-267.wav,./raw_data/negative/267.wav,negative
 2670.wav,./raw_data/negative/2670.wav,negative
 2671.wav,./raw_data/negative/2671.wav,negative
 2672.wav,./raw_data/negative/2672.wav,negative
@@ -8123,7 +7936,6 @@ name,path,label
 2677.wav,./raw_data/negative/2677.wav,negative
 2678.wav,./raw_data/negative/2678.wav,negative
 2679.wav,./raw_data/negative/2679.wav,negative
-268.wav,./raw_data/negative/268.wav,negative
 2680.wav,./raw_data/negative/2680.wav,negative
 2681.wav,./raw_data/negative/2681.wav,negative
 2682.wav,./raw_data/negative/2682.wav,negative
@@ -8134,7 +7946,6 @@ name,path,label
 2687.wav,./raw_data/negative/2687.wav,negative
 2688.wav,./raw_data/negative/2688.wav,negative
 2689.wav,./raw_data/negative/2689.wav,negative
-269.wav,./raw_data/negative/269.wav,negative
 2690.wav,./raw_data/negative/2690.wav,negative
 2691.wav,./raw_data/negative/2691.wav,negative
 2692.wav,./raw_data/negative/2692.wav,negative
@@ -8145,8 +7956,6 @@ name,path,label
 2697.wav,./raw_data/negative/2697.wav,negative
 2698.wav,./raw_data/negative/2698.wav,negative
 2699.wav,./raw_data/negative/2699.wav,negative
-27.wav,./raw_data/negative/27.wav,negative
-270.wav,./raw_data/negative/270.wav,negative
 2700.wav,./raw_data/negative/2700.wav,negative
 2701.wav,./raw_data/negative/2701.wav,negative
 2702.wav,./raw_data/negative/2702.wav,negative
@@ -8157,7 +7966,6 @@ name,path,label
 2707.wav,./raw_data/negative/2707.wav,negative
 2708.wav,./raw_data/negative/2708.wav,negative
 2709.wav,./raw_data/negative/2709.wav,negative
-271.wav,./raw_data/negative/271.wav,negative
 2710.wav,./raw_data/negative/2710.wav,negative
 2711.wav,./raw_data/negative/2711.wav,negative
 2712.wav,./raw_data/negative/2712.wav,negative
@@ -8168,7 +7976,6 @@ name,path,label
 2717.wav,./raw_data/negative/2717.wav,negative
 2718.wav,./raw_data/negative/2718.wav,negative
 2719.wav,./raw_data/negative/2719.wav,negative
-272.wav,./raw_data/negative/272.wav,negative
 2720.wav,./raw_data/negative/2720.wav,negative
 2721.wav,./raw_data/negative/2721.wav,negative
 2722.wav,./raw_data/negative/2722.wav,negative
@@ -8179,7 +7986,6 @@ name,path,label
 2727.wav,./raw_data/negative/2727.wav,negative
 2728.wav,./raw_data/negative/2728.wav,negative
 2729.wav,./raw_data/negative/2729.wav,negative
-273.wav,./raw_data/negative/273.wav,negative
 2730.wav,./raw_data/negative/2730.wav,negative
 2731.wav,./raw_data/negative/2731.wav,negative
 2732.wav,./raw_data/negative/2732.wav,negative
@@ -8190,7 +7996,6 @@ name,path,label
 2737.wav,./raw_data/negative/2737.wav,negative
 2738.wav,./raw_data/negative/2738.wav,negative
 2739.wav,./raw_data/negative/2739.wav,negative
-274.wav,./raw_data/negative/274.wav,negative
 2740.wav,./raw_data/negative/2740.wav,negative
 2741.wav,./raw_data/negative/2741.wav,negative
 2742.wav,./raw_data/negative/2742.wav,negative
@@ -8201,7 +8006,6 @@ name,path,label
 2747.wav,./raw_data/negative/2747.wav,negative
 2748.wav,./raw_data/negative/2748.wav,negative
 2749.wav,./raw_data/negative/2749.wav,negative
-275.wav,./raw_data/negative/275.wav,negative
 2750.wav,./raw_data/negative/2750.wav,negative
 2751.wav,./raw_data/negative/2751.wav,negative
 2752.wav,./raw_data/negative/2752.wav,negative
@@ -8212,7 +8016,6 @@ name,path,label
 2757.wav,./raw_data/negative/2757.wav,negative
 2758.wav,./raw_data/negative/2758.wav,negative
 2759.wav,./raw_data/negative/2759.wav,negative
-276.wav,./raw_data/negative/276.wav,negative
 2760.wav,./raw_data/negative/2760.wav,negative
 2761.wav,./raw_data/negative/2761.wav,negative
 2762.wav,./raw_data/negative/2762.wav,negative
@@ -8223,7 +8026,6 @@ name,path,label
 2767.wav,./raw_data/negative/2767.wav,negative
 2768.wav,./raw_data/negative/2768.wav,negative
 2769.wav,./raw_data/negative/2769.wav,negative
-277.wav,./raw_data/negative/277.wav,negative
 2770.wav,./raw_data/negative/2770.wav,negative
 2771.wav,./raw_data/negative/2771.wav,negative
 2772.wav,./raw_data/negative/2772.wav,negative
@@ -8234,7 +8036,6 @@ name,path,label
 2777.wav,./raw_data/negative/2777.wav,negative
 2778.wav,./raw_data/negative/2778.wav,negative
 2779.wav,./raw_data/negative/2779.wav,negative
-278.wav,./raw_data/negative/278.wav,negative
 2780.wav,./raw_data/negative/2780.wav,negative
 2781.wav,./raw_data/negative/2781.wav,negative
 2782.wav,./raw_data/negative/2782.wav,negative
@@ -8245,7 +8046,6 @@ name,path,label
 2787.wav,./raw_data/negative/2787.wav,negative
 2788.wav,./raw_data/negative/2788.wav,negative
 2789.wav,./raw_data/negative/2789.wav,negative
-279.wav,./raw_data/negative/279.wav,negative
 2790.wav,./raw_data/negative/2790.wav,negative
 2791.wav,./raw_data/negative/2791.wav,negative
 2792.wav,./raw_data/negative/2792.wav,negative
@@ -8256,8 +8056,6 @@ name,path,label
 2797.wav,./raw_data/negative/2797.wav,negative
 2798.wav,./raw_data/negative/2798.wav,negative
 2799.wav,./raw_data/negative/2799.wav,negative
-28.wav,./raw_data/negative/28.wav,negative
-280.wav,./raw_data/negative/280.wav,negative
 2800.wav,./raw_data/negative/2800.wav,negative
 2801.wav,./raw_data/negative/2801.wav,negative
 2802.wav,./raw_data/negative/2802.wav,negative
@@ -8268,7 +8066,6 @@ name,path,label
 2807.wav,./raw_data/negative/2807.wav,negative
 2808.wav,./raw_data/negative/2808.wav,negative
 2809.wav,./raw_data/negative/2809.wav,negative
-281.wav,./raw_data/negative/281.wav,negative
 2810.wav,./raw_data/negative/2810.wav,negative
 2811.wav,./raw_data/negative/2811.wav,negative
 2812.wav,./raw_data/negative/2812.wav,negative
@@ -8279,7 +8076,6 @@ name,path,label
 2817.wav,./raw_data/negative/2817.wav,negative
 2818.wav,./raw_data/negative/2818.wav,negative
 2819.wav,./raw_data/negative/2819.wav,negative
-282.wav,./raw_data/negative/282.wav,negative
 2820.wav,./raw_data/negative/2820.wav,negative
 2821.wav,./raw_data/negative/2821.wav,negative
 2822.wav,./raw_data/negative/2822.wav,negative
@@ -8290,7 +8086,6 @@ name,path,label
 2827.wav,./raw_data/negative/2827.wav,negative
 2828.wav,./raw_data/negative/2828.wav,negative
 2829.wav,./raw_data/negative/2829.wav,negative
-283.wav,./raw_data/negative/283.wav,negative
 2830.wav,./raw_data/negative/2830.wav,negative
 2831.wav,./raw_data/negative/2831.wav,negative
 2832.wav,./raw_data/negative/2832.wav,negative
@@ -8301,7 +8096,6 @@ name,path,label
 2837.wav,./raw_data/negative/2837.wav,negative
 2838.wav,./raw_data/negative/2838.wav,negative
 2839.wav,./raw_data/negative/2839.wav,negative
-284.wav,./raw_data/negative/284.wav,negative
 2840.wav,./raw_data/negative/2840.wav,negative
 2841.wav,./raw_data/negative/2841.wav,negative
 2842.wav,./raw_data/negative/2842.wav,negative
@@ -8312,7 +8106,6 @@ name,path,label
 2847.wav,./raw_data/negative/2847.wav,negative
 2848.wav,./raw_data/negative/2848.wav,negative
 2849.wav,./raw_data/negative/2849.wav,negative
-285.wav,./raw_data/negative/285.wav,negative
 2850.wav,./raw_data/negative/2850.wav,negative
 2851.wav,./raw_data/negative/2851.wav,negative
 2852.wav,./raw_data/negative/2852.wav,negative
@@ -8323,7 +8116,6 @@ name,path,label
 2857.wav,./raw_data/negative/2857.wav,negative
 2858.wav,./raw_data/negative/2858.wav,negative
 2859.wav,./raw_data/negative/2859.wav,negative
-286.wav,./raw_data/negative/286.wav,negative
 2860.wav,./raw_data/negative/2860.wav,negative
 2861.wav,./raw_data/negative/2861.wav,negative
 2862.wav,./raw_data/negative/2862.wav,negative
@@ -8334,7 +8126,6 @@ name,path,label
 2867.wav,./raw_data/negative/2867.wav,negative
 2868.wav,./raw_data/negative/2868.wav,negative
 2869.wav,./raw_data/negative/2869.wav,negative
-287.wav,./raw_data/negative/287.wav,negative
 2870.wav,./raw_data/negative/2870.wav,negative
 2871.wav,./raw_data/negative/2871.wav,negative
 2872.wav,./raw_data/negative/2872.wav,negative
@@ -8345,7 +8136,6 @@ name,path,label
 2877.wav,./raw_data/negative/2877.wav,negative
 2878.wav,./raw_data/negative/2878.wav,negative
 2879.wav,./raw_data/negative/2879.wav,negative
-288.wav,./raw_data/negative/288.wav,negative
 2880.wav,./raw_data/negative/2880.wav,negative
 2881.wav,./raw_data/negative/2881.wav,negative
 2882.wav,./raw_data/negative/2882.wav,negative
@@ -8356,7 +8146,6 @@ name,path,label
 2887.wav,./raw_data/negative/2887.wav,negative
 2888.wav,./raw_data/negative/2888.wav,negative
 2889.wav,./raw_data/negative/2889.wav,negative
-289.wav,./raw_data/negative/289.wav,negative
 2890.wav,./raw_data/negative/2890.wav,negative
 2891.wav,./raw_data/negative/2891.wav,negative
 2892.wav,./raw_data/negative/2892.wav,negative
@@ -8367,8 +8156,6 @@ name,path,label
 2897.wav,./raw_data/negative/2897.wav,negative
 2898.wav,./raw_data/negative/2898.wav,negative
 2899.wav,./raw_data/negative/2899.wav,negative
-29.wav,./raw_data/negative/29.wav,negative
-290.wav,./raw_data/negative/290.wav,negative
 2900.wav,./raw_data/negative/2900.wav,negative
 2901.wav,./raw_data/negative/2901.wav,negative
 2902.wav,./raw_data/negative/2902.wav,negative
@@ -8379,7 +8166,6 @@ name,path,label
 2907.wav,./raw_data/negative/2907.wav,negative
 2908.wav,./raw_data/negative/2908.wav,negative
 2909.wav,./raw_data/negative/2909.wav,negative
-291.wav,./raw_data/negative/291.wav,negative
 2910.wav,./raw_data/negative/2910.wav,negative
 2911.wav,./raw_data/negative/2911.wav,negative
 2912.wav,./raw_data/negative/2912.wav,negative
@@ -8390,7 +8176,6 @@ name,path,label
 2917.wav,./raw_data/negative/2917.wav,negative
 2918.wav,./raw_data/negative/2918.wav,negative
 2919.wav,./raw_data/negative/2919.wav,negative
-292.wav,./raw_data/negative/292.wav,negative
 2920.wav,./raw_data/negative/2920.wav,negative
 2921.wav,./raw_data/negative/2921.wav,negative
 2922.wav,./raw_data/negative/2922.wav,negative
@@ -8401,7 +8186,6 @@ name,path,label
 2927.wav,./raw_data/negative/2927.wav,negative
 2928.wav,./raw_data/negative/2928.wav,negative
 2929.wav,./raw_data/negative/2929.wav,negative
-293.wav,./raw_data/negative/293.wav,negative
 2930.wav,./raw_data/negative/2930.wav,negative
 2931.wav,./raw_data/negative/2931.wav,negative
 2932.wav,./raw_data/negative/2932.wav,negative
@@ -8412,7 +8196,6 @@ name,path,label
 2937.wav,./raw_data/negative/2937.wav,negative
 2938.wav,./raw_data/negative/2938.wav,negative
 2939.wav,./raw_data/negative/2939.wav,negative
-294.wav,./raw_data/negative/294.wav,negative
 2940.wav,./raw_data/negative/2940.wav,negative
 2941.wav,./raw_data/negative/2941.wav,negative
 2942.wav,./raw_data/negative/2942.wav,negative
@@ -8423,7 +8206,6 @@ name,path,label
 2947.wav,./raw_data/negative/2947.wav,negative
 2948.wav,./raw_data/negative/2948.wav,negative
 2949.wav,./raw_data/negative/2949.wav,negative
-295.wav,./raw_data/negative/295.wav,negative
 2950.wav,./raw_data/negative/2950.wav,negative
 2951.wav,./raw_data/negative/2951.wav,negative
 2952.wav,./raw_data/negative/2952.wav,negative
@@ -8434,7 +8216,6 @@ name,path,label
 2957.wav,./raw_data/negative/2957.wav,negative
 2958.wav,./raw_data/negative/2958.wav,negative
 2959.wav,./raw_data/negative/2959.wav,negative
-296.wav,./raw_data/negative/296.wav,negative
 2960.wav,./raw_data/negative/2960.wav,negative
 2961.wav,./raw_data/negative/2961.wav,negative
 2962.wav,./raw_data/negative/2962.wav,negative
@@ -8445,7 +8226,6 @@ name,path,label
 2967.wav,./raw_data/negative/2967.wav,negative
 2968.wav,./raw_data/negative/2968.wav,negative
 2969.wav,./raw_data/negative/2969.wav,negative
-297.wav,./raw_data/negative/297.wav,negative
 2970.wav,./raw_data/negative/2970.wav,negative
 2971.wav,./raw_data/negative/2971.wav,negative
 2972.wav,./raw_data/negative/2972.wav,negative
@@ -8456,7 +8236,6 @@ name,path,label
 2977.wav,./raw_data/negative/2977.wav,negative
 2978.wav,./raw_data/negative/2978.wav,negative
 2979.wav,./raw_data/negative/2979.wav,negative
-298.wav,./raw_data/negative/298.wav,negative
 2980.wav,./raw_data/negative/2980.wav,negative
 2981.wav,./raw_data/negative/2981.wav,negative
 2982.wav,./raw_data/negative/2982.wav,negative
@@ -8467,7 +8246,6 @@ name,path,label
 2987.wav,./raw_data/negative/2987.wav,negative
 2988.wav,./raw_data/negative/2988.wav,negative
 2989.wav,./raw_data/negative/2989.wav,negative
-299.wav,./raw_data/negative/299.wav,negative
 2990.wav,./raw_data/negative/2990.wav,negative
 2991.wav,./raw_data/negative/2991.wav,negative
 2992.wav,./raw_data/negative/2992.wav,negative
@@ -8478,9 +8256,6 @@ name,path,label
 2997.wav,./raw_data/negative/2997.wav,negative
 2998.wav,./raw_data/negative/2998.wav,negative
 2999.wav,./raw_data/negative/2999.wav,negative
-3.wav,./raw_data/negative/3.wav,negative
-30.wav,./raw_data/negative/30.wav,negative
-300.wav,./raw_data/negative/300.wav,negative
 3000.wav,./raw_data/negative/3000.wav,negative
 3001.wav,./raw_data/negative/3001.wav,negative
 3002.wav,./raw_data/negative/3002.wav,negative
@@ -8491,7 +8266,6 @@ name,path,label
 3007.wav,./raw_data/negative/3007.wav,negative
 3008.wav,./raw_data/negative/3008.wav,negative
 3009.wav,./raw_data/negative/3009.wav,negative
-301.wav,./raw_data/negative/301.wav,negative
 3010.wav,./raw_data/negative/3010.wav,negative
 3011.wav,./raw_data/negative/3011.wav,negative
 3012.wav,./raw_data/negative/3012.wav,negative
@@ -8502,7 +8276,6 @@ name,path,label
 3017.wav,./raw_data/negative/3017.wav,negative
 3018.wav,./raw_data/negative/3018.wav,negative
 3019.wav,./raw_data/negative/3019.wav,negative
-302.wav,./raw_data/negative/302.wav,negative
 3020.wav,./raw_data/negative/3020.wav,negative
 3021.wav,./raw_data/negative/3021.wav,negative
 3022.wav,./raw_data/negative/3022.wav,negative
@@ -8513,7 +8286,6 @@ name,path,label
 3027.wav,./raw_data/negative/3027.wav,negative
 3028.wav,./raw_data/negative/3028.wav,negative
 3029.wav,./raw_data/negative/3029.wav,negative
-303.wav,./raw_data/negative/303.wav,negative
 3030.wav,./raw_data/negative/3030.wav,negative
 3031.wav,./raw_data/negative/3031.wav,negative
 3032.wav,./raw_data/negative/3032.wav,negative
@@ -8524,7 +8296,6 @@ name,path,label
 3037.wav,./raw_data/negative/3037.wav,negative
 3038.wav,./raw_data/negative/3038.wav,negative
 3039.wav,./raw_data/negative/3039.wav,negative
-304.wav,./raw_data/negative/304.wav,negative
 3040.wav,./raw_data/negative/3040.wav,negative
 3041.wav,./raw_data/negative/3041.wav,negative
 3042.wav,./raw_data/negative/3042.wav,negative
@@ -8535,7 +8306,6 @@ name,path,label
 3047.wav,./raw_data/negative/3047.wav,negative
 3048.wav,./raw_data/negative/3048.wav,negative
 3049.wav,./raw_data/negative/3049.wav,negative
-305.wav,./raw_data/negative/305.wav,negative
 3050.wav,./raw_data/negative/3050.wav,negative
 3051.wav,./raw_data/negative/3051.wav,negative
 3052.wav,./raw_data/negative/3052.wav,negative
@@ -8546,7 +8316,6 @@ name,path,label
 3057.wav,./raw_data/negative/3057.wav,negative
 3058.wav,./raw_data/negative/3058.wav,negative
 3059.wav,./raw_data/negative/3059.wav,negative
-306.wav,./raw_data/negative/306.wav,negative
 3060.wav,./raw_data/negative/3060.wav,negative
 3061.wav,./raw_data/negative/3061.wav,negative
 3062.wav,./raw_data/negative/3062.wav,negative
@@ -8557,7 +8326,6 @@ name,path,label
 3067.wav,./raw_data/negative/3067.wav,negative
 3068.wav,./raw_data/negative/3068.wav,negative
 3069.wav,./raw_data/negative/3069.wav,negative
-307.wav,./raw_data/negative/307.wav,negative
 3070.wav,./raw_data/negative/3070.wav,negative
 3071.wav,./raw_data/negative/3071.wav,negative
 3072.wav,./raw_data/negative/3072.wav,negative
@@ -8568,7 +8336,6 @@ name,path,label
 3077.wav,./raw_data/negative/3077.wav,negative
 3078.wav,./raw_data/negative/3078.wav,negative
 3079.wav,./raw_data/negative/3079.wav,negative
-308.wav,./raw_data/negative/308.wav,negative
 3080.wav,./raw_data/negative/3080.wav,negative
 3081.wav,./raw_data/negative/3081.wav,negative
 3082.wav,./raw_data/negative/3082.wav,negative
@@ -8579,7 +8346,6 @@ name,path,label
 3087.wav,./raw_data/negative/3087.wav,negative
 3088.wav,./raw_data/negative/3088.wav,negative
 3089.wav,./raw_data/negative/3089.wav,negative
-309.wav,./raw_data/negative/309.wav,negative
 3090.wav,./raw_data/negative/3090.wav,negative
 3091.wav,./raw_data/negative/3091.wav,negative
 3092.wav,./raw_data/negative/3092.wav,negative
@@ -8590,8 +8356,6 @@ name,path,label
 3097.wav,./raw_data/negative/3097.wav,negative
 3098.wav,./raw_data/negative/3098.wav,negative
 3099.wav,./raw_data/negative/3099.wav,negative
-31.wav,./raw_data/negative/31.wav,negative
-310.wav,./raw_data/negative/310.wav,negative
 3100.wav,./raw_data/negative/3100.wav,negative
 3101.wav,./raw_data/negative/3101.wav,negative
 3102.wav,./raw_data/negative/3102.wav,negative
@@ -8602,7 +8366,6 @@ name,path,label
 3107.wav,./raw_data/negative/3107.wav,negative
 3108.wav,./raw_data/negative/3108.wav,negative
 3109.wav,./raw_data/negative/3109.wav,negative
-311.wav,./raw_data/negative/311.wav,negative
 3110.wav,./raw_data/negative/3110.wav,negative
 3111.wav,./raw_data/negative/3111.wav,negative
 3112.wav,./raw_data/negative/3112.wav,negative
@@ -8613,7 +8376,6 @@ name,path,label
 3117.wav,./raw_data/negative/3117.wav,negative
 3118.wav,./raw_data/negative/3118.wav,negative
 3119.wav,./raw_data/negative/3119.wav,negative
-312.wav,./raw_data/negative/312.wav,negative
 3120.wav,./raw_data/negative/3120.wav,negative
 3121.wav,./raw_data/negative/3121.wav,negative
 3122.wav,./raw_data/negative/3122.wav,negative
@@ -8624,7 +8386,6 @@ name,path,label
 3127.wav,./raw_data/negative/3127.wav,negative
 3128.wav,./raw_data/negative/3128.wav,negative
 3129.wav,./raw_data/negative/3129.wav,negative
-313.wav,./raw_data/negative/313.wav,negative
 3130.wav,./raw_data/negative/3130.wav,negative
 3131.wav,./raw_data/negative/3131.wav,negative
 3132.wav,./raw_data/negative/3132.wav,negative
@@ -8635,7 +8396,6 @@ name,path,label
 3137.wav,./raw_data/negative/3137.wav,negative
 3138.wav,./raw_data/negative/3138.wav,negative
 3139.wav,./raw_data/negative/3139.wav,negative
-314.wav,./raw_data/negative/314.wav,negative
 3140.wav,./raw_data/negative/3140.wav,negative
 3141.wav,./raw_data/negative/3141.wav,negative
 3142.wav,./raw_data/negative/3142.wav,negative
@@ -8646,7 +8406,6 @@ name,path,label
 3147.wav,./raw_data/negative/3147.wav,negative
 3148.wav,./raw_data/negative/3148.wav,negative
 3149.wav,./raw_data/negative/3149.wav,negative
-315.wav,./raw_data/negative/315.wav,negative
 3150.wav,./raw_data/negative/3150.wav,negative
 3151.wav,./raw_data/negative/3151.wav,negative
 3152.wav,./raw_data/negative/3152.wav,negative
@@ -8657,7 +8416,6 @@ name,path,label
 3157.wav,./raw_data/negative/3157.wav,negative
 3158.wav,./raw_data/negative/3158.wav,negative
 3159.wav,./raw_data/negative/3159.wav,negative
-316.wav,./raw_data/negative/316.wav,negative
 3160.wav,./raw_data/negative/3160.wav,negative
 3161.wav,./raw_data/negative/3161.wav,negative
 3162.wav,./raw_data/negative/3162.wav,negative
@@ -8668,7 +8426,6 @@ name,path,label
 3167.wav,./raw_data/negative/3167.wav,negative
 3168.wav,./raw_data/negative/3168.wav,negative
 3169.wav,./raw_data/negative/3169.wav,negative
-317.wav,./raw_data/negative/317.wav,negative
 3170.wav,./raw_data/negative/3170.wav,negative
 3171.wav,./raw_data/negative/3171.wav,negative
 3172.wav,./raw_data/negative/3172.wav,negative
@@ -8679,7 +8436,6 @@ name,path,label
 3177.wav,./raw_data/negative/3177.wav,negative
 3178.wav,./raw_data/negative/3178.wav,negative
 3179.wav,./raw_data/negative/3179.wav,negative
-318.wav,./raw_data/negative/318.wav,negative
 3180.wav,./raw_data/negative/3180.wav,negative
 3181.wav,./raw_data/negative/3181.wav,negative
 3182.wav,./raw_data/negative/3182.wav,negative
@@ -8690,7 +8446,6 @@ name,path,label
 3187.wav,./raw_data/negative/3187.wav,negative
 3188.wav,./raw_data/negative/3188.wav,negative
 3189.wav,./raw_data/negative/3189.wav,negative
-319.wav,./raw_data/negative/319.wav,negative
 3190.wav,./raw_data/negative/3190.wav,negative
 3191.wav,./raw_data/negative/3191.wav,negative
 3192.wav,./raw_data/negative/3192.wav,negative
@@ -8701,8 +8456,6 @@ name,path,label
 3197.wav,./raw_data/negative/3197.wav,negative
 3198.wav,./raw_data/negative/3198.wav,negative
 3199.wav,./raw_data/negative/3199.wav,negative
-32.wav,./raw_data/negative/32.wav,negative
-320.wav,./raw_data/negative/320.wav,negative
 3200.wav,./raw_data/negative/3200.wav,negative
 3201.wav,./raw_data/negative/3201.wav,negative
 3202.wav,./raw_data/negative/3202.wav,negative
@@ -8713,7 +8466,6 @@ name,path,label
 3207.wav,./raw_data/negative/3207.wav,negative
 3208.wav,./raw_data/negative/3208.wav,negative
 3209.wav,./raw_data/negative/3209.wav,negative
-321.wav,./raw_data/negative/321.wav,negative
 3210.wav,./raw_data/negative/3210.wav,negative
 3211.wav,./raw_data/negative/3211.wav,negative
 3212.wav,./raw_data/negative/3212.wav,negative
@@ -8724,7 +8476,6 @@ name,path,label
 3217.wav,./raw_data/negative/3217.wav,negative
 3218.wav,./raw_data/negative/3218.wav,negative
 3219.wav,./raw_data/negative/3219.wav,negative
-322.wav,./raw_data/negative/322.wav,negative
 3220.wav,./raw_data/negative/3220.wav,negative
 3221.wav,./raw_data/negative/3221.wav,negative
 3222.wav,./raw_data/negative/3222.wav,negative
@@ -8735,7 +8486,6 @@ name,path,label
 3227.wav,./raw_data/negative/3227.wav,negative
 3228.wav,./raw_data/negative/3228.wav,negative
 3229.wav,./raw_data/negative/3229.wav,negative
-323.wav,./raw_data/negative/323.wav,negative
 3230.wav,./raw_data/negative/3230.wav,negative
 3231.wav,./raw_data/negative/3231.wav,negative
 3232.wav,./raw_data/negative/3232.wav,negative
@@ -8746,7 +8496,6 @@ name,path,label
 3237.wav,./raw_data/negative/3237.wav,negative
 3238.wav,./raw_data/negative/3238.wav,negative
 3239.wav,./raw_data/negative/3239.wav,negative
-324.wav,./raw_data/negative/324.wav,negative
 3240.wav,./raw_data/negative/3240.wav,negative
 3241.wav,./raw_data/negative/3241.wav,negative
 3242.wav,./raw_data/negative/3242.wav,negative
@@ -8757,7 +8506,6 @@ name,path,label
 3247.wav,./raw_data/negative/3247.wav,negative
 3248.wav,./raw_data/negative/3248.wav,negative
 3249.wav,./raw_data/negative/3249.wav,negative
-325.wav,./raw_data/negative/325.wav,negative
 3250.wav,./raw_data/negative/3250.wav,negative
 3251.wav,./raw_data/negative/3251.wav,negative
 3252.wav,./raw_data/negative/3252.wav,negative
@@ -8768,7 +8516,6 @@ name,path,label
 3257.wav,./raw_data/negative/3257.wav,negative
 3258.wav,./raw_data/negative/3258.wav,negative
 3259.wav,./raw_data/negative/3259.wav,negative
-326.wav,./raw_data/negative/326.wav,negative
 3260.wav,./raw_data/negative/3260.wav,negative
 3261.wav,./raw_data/negative/3261.wav,negative
 3262.wav,./raw_data/negative/3262.wav,negative
@@ -8779,7 +8526,6 @@ name,path,label
 3267.wav,./raw_data/negative/3267.wav,negative
 3268.wav,./raw_data/negative/3268.wav,negative
 3269.wav,./raw_data/negative/3269.wav,negative
-327.wav,./raw_data/negative/327.wav,negative
 3270.wav,./raw_data/negative/3270.wav,negative
 3271.wav,./raw_data/negative/3271.wav,negative
 3272.wav,./raw_data/negative/3272.wav,negative
@@ -8790,7 +8536,6 @@ name,path,label
 3277.wav,./raw_data/negative/3277.wav,negative
 3278.wav,./raw_data/negative/3278.wav,negative
 3279.wav,./raw_data/negative/3279.wav,negative
-328.wav,./raw_data/negative/328.wav,negative
 3280.wav,./raw_data/negative/3280.wav,negative
 3281.wav,./raw_data/negative/3281.wav,negative
 3282.wav,./raw_data/negative/3282.wav,negative
@@ -8801,7 +8546,6 @@ name,path,label
 3287.wav,./raw_data/negative/3287.wav,negative
 3288.wav,./raw_data/negative/3288.wav,negative
 3289.wav,./raw_data/negative/3289.wav,negative
-329.wav,./raw_data/negative/329.wav,negative
 3290.wav,./raw_data/negative/3290.wav,negative
 3291.wav,./raw_data/negative/3291.wav,negative
 3292.wav,./raw_data/negative/3292.wav,negative
@@ -8812,8 +8556,6 @@ name,path,label
 3297.wav,./raw_data/negative/3297.wav,negative
 3298.wav,./raw_data/negative/3298.wav,negative
 3299.wav,./raw_data/negative/3299.wav,negative
-33.wav,./raw_data/negative/33.wav,negative
-330.wav,./raw_data/negative/330.wav,negative
 3300.wav,./raw_data/negative/3300.wav,negative
 3301.wav,./raw_data/negative/3301.wav,negative
 3302.wav,./raw_data/negative/3302.wav,negative
@@ -8824,7 +8566,6 @@ name,path,label
 3307.wav,./raw_data/negative/3307.wav,negative
 3308.wav,./raw_data/negative/3308.wav,negative
 3309.wav,./raw_data/negative/3309.wav,negative
-331.wav,./raw_data/negative/331.wav,negative
 3310.wav,./raw_data/negative/3310.wav,negative
 3311.wav,./raw_data/negative/3311.wav,negative
 3312.wav,./raw_data/negative/3312.wav,negative
@@ -8835,7 +8576,6 @@ name,path,label
 3317.wav,./raw_data/negative/3317.wav,negative
 3318.wav,./raw_data/negative/3318.wav,negative
 3319.wav,./raw_data/negative/3319.wav,negative
-332.wav,./raw_data/negative/332.wav,negative
 3320.wav,./raw_data/negative/3320.wav,negative
 3321.wav,./raw_data/negative/3321.wav,negative
 3322.wav,./raw_data/negative/3322.wav,negative
@@ -8846,7 +8586,6 @@ name,path,label
 3327.wav,./raw_data/negative/3327.wav,negative
 3328.wav,./raw_data/negative/3328.wav,negative
 3329.wav,./raw_data/negative/3329.wav,negative
-333.wav,./raw_data/negative/333.wav,negative
 3330.wav,./raw_data/negative/3330.wav,negative
 3331.wav,./raw_data/negative/3331.wav,negative
 3332.wav,./raw_data/negative/3332.wav,negative
@@ -8857,7 +8596,6 @@ name,path,label
 3337.wav,./raw_data/negative/3337.wav,negative
 3338.wav,./raw_data/negative/3338.wav,negative
 3339.wav,./raw_data/negative/3339.wav,negative
-334.wav,./raw_data/negative/334.wav,negative
 3340.wav,./raw_data/negative/3340.wav,negative
 3341.wav,./raw_data/negative/3341.wav,negative
 3342.wav,./raw_data/negative/3342.wav,negative
@@ -8868,7 +8606,6 @@ name,path,label
 3347.wav,./raw_data/negative/3347.wav,negative
 3348.wav,./raw_data/negative/3348.wav,negative
 3349.wav,./raw_data/negative/3349.wav,negative
-335.wav,./raw_data/negative/335.wav,negative
 3350.wav,./raw_data/negative/3350.wav,negative
 3351.wav,./raw_data/negative/3351.wav,negative
 3352.wav,./raw_data/negative/3352.wav,negative
@@ -8879,7 +8616,6 @@ name,path,label
 3357.wav,./raw_data/negative/3357.wav,negative
 3358.wav,./raw_data/negative/3358.wav,negative
 3359.wav,./raw_data/negative/3359.wav,negative
-336.wav,./raw_data/negative/336.wav,negative
 3360.wav,./raw_data/negative/3360.wav,negative
 3361.wav,./raw_data/negative/3361.wav,negative
 3362.wav,./raw_data/negative/3362.wav,negative
@@ -8890,7 +8626,6 @@ name,path,label
 3367.wav,./raw_data/negative/3367.wav,negative
 3368.wav,./raw_data/negative/3368.wav,negative
 3369.wav,./raw_data/negative/3369.wav,negative
-337.wav,./raw_data/negative/337.wav,negative
 3370.wav,./raw_data/negative/3370.wav,negative
 3371.wav,./raw_data/negative/3371.wav,negative
 3372.wav,./raw_data/negative/3372.wav,negative
@@ -8901,7 +8636,6 @@ name,path,label
 3377.wav,./raw_data/negative/3377.wav,negative
 3378.wav,./raw_data/negative/3378.wav,negative
 3379.wav,./raw_data/negative/3379.wav,negative
-338.wav,./raw_data/negative/338.wav,negative
 3380.wav,./raw_data/negative/3380.wav,negative
 3381.wav,./raw_data/negative/3381.wav,negative
 3382.wav,./raw_data/negative/3382.wav,negative
@@ -8912,7 +8646,6 @@ name,path,label
 3387.wav,./raw_data/negative/3387.wav,negative
 3388.wav,./raw_data/negative/3388.wav,negative
 3389.wav,./raw_data/negative/3389.wav,negative
-339.wav,./raw_data/negative/339.wav,negative
 3390.wav,./raw_data/negative/3390.wav,negative
 3391.wav,./raw_data/negative/3391.wav,negative
 3392.wav,./raw_data/negative/3392.wav,negative
@@ -8923,8 +8656,6 @@ name,path,label
 3397.wav,./raw_data/negative/3397.wav,negative
 3398.wav,./raw_data/negative/3398.wav,negative
 3399.wav,./raw_data/negative/3399.wav,negative
-34.wav,./raw_data/negative/34.wav,negative
-340.wav,./raw_data/negative/340.wav,negative
 3400.wav,./raw_data/negative/3400.wav,negative
 3401.wav,./raw_data/negative/3401.wav,negative
 3402.wav,./raw_data/negative/3402.wav,negative
@@ -8935,7 +8666,6 @@ name,path,label
 3407.wav,./raw_data/negative/3407.wav,negative
 3408.wav,./raw_data/negative/3408.wav,negative
 3409.wav,./raw_data/negative/3409.wav,negative
-341.wav,./raw_data/negative/341.wav,negative
 3410.wav,./raw_data/negative/3410.wav,negative
 3411.wav,./raw_data/negative/3411.wav,negative
 3412.wav,./raw_data/negative/3412.wav,negative
@@ -8946,7 +8676,6 @@ name,path,label
 3417.wav,./raw_data/negative/3417.wav,negative
 3418.wav,./raw_data/negative/3418.wav,negative
 3419.wav,./raw_data/negative/3419.wav,negative
-342.wav,./raw_data/negative/342.wav,negative
 3420.wav,./raw_data/negative/3420.wav,negative
 3421.wav,./raw_data/negative/3421.wav,negative
 3422.wav,./raw_data/negative/3422.wav,negative
@@ -8957,7 +8686,6 @@ name,path,label
 3427.wav,./raw_data/negative/3427.wav,negative
 3428.wav,./raw_data/negative/3428.wav,negative
 3429.wav,./raw_data/negative/3429.wav,negative
-343.wav,./raw_data/negative/343.wav,negative
 3430.wav,./raw_data/negative/3430.wav,negative
 3431.wav,./raw_data/negative/3431.wav,negative
 3432.wav,./raw_data/negative/3432.wav,negative
@@ -8968,7 +8696,6 @@ name,path,label
 3437.wav,./raw_data/negative/3437.wav,negative
 3438.wav,./raw_data/negative/3438.wav,negative
 3439.wav,./raw_data/negative/3439.wav,negative
-344.wav,./raw_data/negative/344.wav,negative
 3440.wav,./raw_data/negative/3440.wav,negative
 3441.wav,./raw_data/negative/3441.wav,negative
 3442.wav,./raw_data/negative/3442.wav,negative
@@ -8979,7 +8706,6 @@ name,path,label
 3447.wav,./raw_data/negative/3447.wav,negative
 3448.wav,./raw_data/negative/3448.wav,negative
 3449.wav,./raw_data/negative/3449.wav,negative
-345.wav,./raw_data/negative/345.wav,negative
 3450.wav,./raw_data/negative/3450.wav,negative
 3451.wav,./raw_data/negative/3451.wav,negative
 3452.wav,./raw_data/negative/3452.wav,negative
@@ -8990,7 +8716,6 @@ name,path,label
 3457.wav,./raw_data/negative/3457.wav,negative
 3458.wav,./raw_data/negative/3458.wav,negative
 3459.wav,./raw_data/negative/3459.wav,negative
-346.wav,./raw_data/negative/346.wav,negative
 3460.wav,./raw_data/negative/3460.wav,negative
 3461.wav,./raw_data/negative/3461.wav,negative
 3462.wav,./raw_data/negative/3462.wav,negative
@@ -9001,7 +8726,6 @@ name,path,label
 3467.wav,./raw_data/negative/3467.wav,negative
 3468.wav,./raw_data/negative/3468.wav,negative
 3469.wav,./raw_data/negative/3469.wav,negative
-347.wav,./raw_data/negative/347.wav,negative
 3470.wav,./raw_data/negative/3470.wav,negative
 3471.wav,./raw_data/negative/3471.wav,negative
 3472.wav,./raw_data/negative/3472.wav,negative
@@ -9012,7 +8736,6 @@ name,path,label
 3477.wav,./raw_data/negative/3477.wav,negative
 3478.wav,./raw_data/negative/3478.wav,negative
 3479.wav,./raw_data/negative/3479.wav,negative
-348.wav,./raw_data/negative/348.wav,negative
 3480.wav,./raw_data/negative/3480.wav,negative
 3481.wav,./raw_data/negative/3481.wav,negative
 3482.wav,./raw_data/negative/3482.wav,negative
@@ -9023,7 +8746,6 @@ name,path,label
 3487.wav,./raw_data/negative/3487.wav,negative
 3488.wav,./raw_data/negative/3488.wav,negative
 3489.wav,./raw_data/negative/3489.wav,negative
-349.wav,./raw_data/negative/349.wav,negative
 3490.wav,./raw_data/negative/3490.wav,negative
 3491.wav,./raw_data/negative/3491.wav,negative
 3492.wav,./raw_data/negative/3492.wav,negative
@@ -9034,8 +8756,6 @@ name,path,label
 3497.wav,./raw_data/negative/3497.wav,negative
 3498.wav,./raw_data/negative/3498.wav,negative
 3499.wav,./raw_data/negative/3499.wav,negative
-35.wav,./raw_data/negative/35.wav,negative
-350.wav,./raw_data/negative/350.wav,negative
 3500.wav,./raw_data/negative/3500.wav,negative
 3501.wav,./raw_data/negative/3501.wav,negative
 3502.wav,./raw_data/negative/3502.wav,negative
@@ -9046,7 +8766,6 @@ name,path,label
 3507.wav,./raw_data/negative/3507.wav,negative
 3508.wav,./raw_data/negative/3508.wav,negative
 3509.wav,./raw_data/negative/3509.wav,negative
-351.wav,./raw_data/negative/351.wav,negative
 3510.wav,./raw_data/negative/3510.wav,negative
 3511.wav,./raw_data/negative/3511.wav,negative
 3512.wav,./raw_data/negative/3512.wav,negative
@@ -9057,7 +8776,6 @@ name,path,label
 3517.wav,./raw_data/negative/3517.wav,negative
 3518.wav,./raw_data/negative/3518.wav,negative
 3519.wav,./raw_data/negative/3519.wav,negative
-352.wav,./raw_data/negative/352.wav,negative
 3520.wav,./raw_data/negative/3520.wav,negative
 3521.wav,./raw_data/negative/3521.wav,negative
 3522.wav,./raw_data/negative/3522.wav,negative
@@ -9068,7 +8786,6 @@ name,path,label
 3527.wav,./raw_data/negative/3527.wav,negative
 3528.wav,./raw_data/negative/3528.wav,negative
 3529.wav,./raw_data/negative/3529.wav,negative
-353.wav,./raw_data/negative/353.wav,negative
 3530.wav,./raw_data/negative/3530.wav,negative
 3531.wav,./raw_data/negative/3531.wav,negative
 3532.wav,./raw_data/negative/3532.wav,negative
@@ -9079,7 +8796,6 @@ name,path,label
 3537.wav,./raw_data/negative/3537.wav,negative
 3538.wav,./raw_data/negative/3538.wav,negative
 3539.wav,./raw_data/negative/3539.wav,negative
-354.wav,./raw_data/negative/354.wav,negative
 3540.wav,./raw_data/negative/3540.wav,negative
 3541.wav,./raw_data/negative/3541.wav,negative
 3542.wav,./raw_data/negative/3542.wav,negative
@@ -9090,7 +8806,6 @@ name,path,label
 3547.wav,./raw_data/negative/3547.wav,negative
 3548.wav,./raw_data/negative/3548.wav,negative
 3549.wav,./raw_data/negative/3549.wav,negative
-355.wav,./raw_data/negative/355.wav,negative
 3550.wav,./raw_data/negative/3550.wav,negative
 3551.wav,./raw_data/negative/3551.wav,negative
 3552.wav,./raw_data/negative/3552.wav,negative
@@ -9101,7 +8816,6 @@ name,path,label
 3557.wav,./raw_data/negative/3557.wav,negative
 3558.wav,./raw_data/negative/3558.wav,negative
 3559.wav,./raw_data/negative/3559.wav,negative
-356.wav,./raw_data/negative/356.wav,negative
 3560.wav,./raw_data/negative/3560.wav,negative
 3561.wav,./raw_data/negative/3561.wav,negative
 3562.wav,./raw_data/negative/3562.wav,negative
@@ -9112,7 +8826,6 @@ name,path,label
 3567.wav,./raw_data/negative/3567.wav,negative
 3568.wav,./raw_data/negative/3568.wav,negative
 3569.wav,./raw_data/negative/3569.wav,negative
-357.wav,./raw_data/negative/357.wav,negative
 3570.wav,./raw_data/negative/3570.wav,negative
 3571.wav,./raw_data/negative/3571.wav,negative
 3572.wav,./raw_data/negative/3572.wav,negative
@@ -9123,7 +8836,6 @@ name,path,label
 3577.wav,./raw_data/negative/3577.wav,negative
 3578.wav,./raw_data/negative/3578.wav,negative
 3579.wav,./raw_data/negative/3579.wav,negative
-358.wav,./raw_data/negative/358.wav,negative
 3580.wav,./raw_data/negative/3580.wav,negative
 3581.wav,./raw_data/negative/3581.wav,negative
 3582.wav,./raw_data/negative/3582.wav,negative
@@ -9134,7 +8846,6 @@ name,path,label
 3587.wav,./raw_data/negative/3587.wav,negative
 3588.wav,./raw_data/negative/3588.wav,negative
 3589.wav,./raw_data/negative/3589.wav,negative
-359.wav,./raw_data/negative/359.wav,negative
 3590.wav,./raw_data/negative/3590.wav,negative
 3591.wav,./raw_data/negative/3591.wav,negative
 3592.wav,./raw_data/negative/3592.wav,negative
@@ -9145,8 +8856,6 @@ name,path,label
 3597.wav,./raw_data/negative/3597.wav,negative
 3598.wav,./raw_data/negative/3598.wav,negative
 3599.wav,./raw_data/negative/3599.wav,negative
-36.wav,./raw_data/negative/36.wav,negative
-360.wav,./raw_data/negative/360.wav,negative
 3600.wav,./raw_data/negative/3600.wav,negative
 3601.wav,./raw_data/negative/3601.wav,negative
 3602.wav,./raw_data/negative/3602.wav,negative
@@ -9157,7 +8866,6 @@ name,path,label
 3607.wav,./raw_data/negative/3607.wav,negative
 3608.wav,./raw_data/negative/3608.wav,negative
 3609.wav,./raw_data/negative/3609.wav,negative
-361.wav,./raw_data/negative/361.wav,negative
 3610.wav,./raw_data/negative/3610.wav,negative
 3611.wav,./raw_data/negative/3611.wav,negative
 3612.wav,./raw_data/negative/3612.wav,negative
@@ -9168,7 +8876,6 @@ name,path,label
 3617.wav,./raw_data/negative/3617.wav,negative
 3618.wav,./raw_data/negative/3618.wav,negative
 3619.wav,./raw_data/negative/3619.wav,negative
-362.wav,./raw_data/negative/362.wav,negative
 3620.wav,./raw_data/negative/3620.wav,negative
 3621.wav,./raw_data/negative/3621.wav,negative
 3622.wav,./raw_data/negative/3622.wav,negative
@@ -9179,7 +8886,6 @@ name,path,label
 3627.wav,./raw_data/negative/3627.wav,negative
 3628.wav,./raw_data/negative/3628.wav,negative
 3629.wav,./raw_data/negative/3629.wav,negative
-363.wav,./raw_data/negative/363.wav,negative
 3630.wav,./raw_data/negative/3630.wav,negative
 3631.wav,./raw_data/negative/3631.wav,negative
 3632.wav,./raw_data/negative/3632.wav,negative
@@ -9190,7 +8896,6 @@ name,path,label
 3637.wav,./raw_data/negative/3637.wav,negative
 3638.wav,./raw_data/negative/3638.wav,negative
 3639.wav,./raw_data/negative/3639.wav,negative
-364.wav,./raw_data/negative/364.wav,negative
 3640.wav,./raw_data/negative/3640.wav,negative
 3641.wav,./raw_data/negative/3641.wav,negative
 3642.wav,./raw_data/negative/3642.wav,negative
@@ -9201,7 +8906,6 @@ name,path,label
 3647.wav,./raw_data/negative/3647.wav,negative
 3648.wav,./raw_data/negative/3648.wav,negative
 3649.wav,./raw_data/negative/3649.wav,negative
-365.wav,./raw_data/negative/365.wav,negative
 3650.wav,./raw_data/negative/3650.wav,negative
 3651.wav,./raw_data/negative/3651.wav,negative
 3652.wav,./raw_data/negative/3652.wav,negative
@@ -9212,7 +8916,6 @@ name,path,label
 3657.wav,./raw_data/negative/3657.wav,negative
 3658.wav,./raw_data/negative/3658.wav,negative
 3659.wav,./raw_data/negative/3659.wav,negative
-366.wav,./raw_data/negative/366.wav,negative
 3660.wav,./raw_data/negative/3660.wav,negative
 3661.wav,./raw_data/negative/3661.wav,negative
 3662.wav,./raw_data/negative/3662.wav,negative
@@ -9223,7 +8926,6 @@ name,path,label
 3667.wav,./raw_data/negative/3667.wav,negative
 3668.wav,./raw_data/negative/3668.wav,negative
 3669.wav,./raw_data/negative/3669.wav,negative
-367.wav,./raw_data/negative/367.wav,negative
 3670.wav,./raw_data/negative/3670.wav,negative
 3671.wav,./raw_data/negative/3671.wav,negative
 3672.wav,./raw_data/negative/3672.wav,negative
@@ -9234,7 +8936,6 @@ name,path,label
 3677.wav,./raw_data/negative/3677.wav,negative
 3678.wav,./raw_data/negative/3678.wav,negative
 3679.wav,./raw_data/negative/3679.wav,negative
-368.wav,./raw_data/negative/368.wav,negative
 3680.wav,./raw_data/negative/3680.wav,negative
 3681.wav,./raw_data/negative/3681.wav,negative
 3682.wav,./raw_data/negative/3682.wav,negative
@@ -9245,7 +8946,6 @@ name,path,label
 3687.wav,./raw_data/negative/3687.wav,negative
 3688.wav,./raw_data/negative/3688.wav,negative
 3689.wav,./raw_data/negative/3689.wav,negative
-369.wav,./raw_data/negative/369.wav,negative
 3690.wav,./raw_data/negative/3690.wav,negative
 3691.wav,./raw_data/negative/3691.wav,negative
 3692.wav,./raw_data/negative/3692.wav,negative
@@ -9256,8 +8956,6 @@ name,path,label
 3697.wav,./raw_data/negative/3697.wav,negative
 3698.wav,./raw_data/negative/3698.wav,negative
 3699.wav,./raw_data/negative/3699.wav,negative
-37.wav,./raw_data/negative/37.wav,negative
-370.wav,./raw_data/negative/370.wav,negative
 3700.wav,./raw_data/negative/3700.wav,negative
 3701.wav,./raw_data/negative/3701.wav,negative
 3702.wav,./raw_data/negative/3702.wav,negative
@@ -9268,7 +8966,6 @@ name,path,label
 3707.wav,./raw_data/negative/3707.wav,negative
 3708.wav,./raw_data/negative/3708.wav,negative
 3709.wav,./raw_data/negative/3709.wav,negative
-371.wav,./raw_data/negative/371.wav,negative
 3710.wav,./raw_data/negative/3710.wav,negative
 3711.wav,./raw_data/negative/3711.wav,negative
 3712.wav,./raw_data/negative/3712.wav,negative
@@ -9279,7 +8976,6 @@ name,path,label
 3717.wav,./raw_data/negative/3717.wav,negative
 3718.wav,./raw_data/negative/3718.wav,negative
 3719.wav,./raw_data/negative/3719.wav,negative
-372.wav,./raw_data/negative/372.wav,negative
 3720.wav,./raw_data/negative/3720.wav,negative
 3721.wav,./raw_data/negative/3721.wav,negative
 3722.wav,./raw_data/negative/3722.wav,negative
@@ -9290,7 +8986,6 @@ name,path,label
 3727.wav,./raw_data/negative/3727.wav,negative
 3728.wav,./raw_data/negative/3728.wav,negative
 3729.wav,./raw_data/negative/3729.wav,negative
-373.wav,./raw_data/negative/373.wav,negative
 3730.wav,./raw_data/negative/3730.wav,negative
 3731.wav,./raw_data/negative/3731.wav,negative
 3732.wav,./raw_data/negative/3732.wav,negative
@@ -9301,7 +8996,6 @@ name,path,label
 3737.wav,./raw_data/negative/3737.wav,negative
 3738.wav,./raw_data/negative/3738.wav,negative
 3739.wav,./raw_data/negative/3739.wav,negative
-374.wav,./raw_data/negative/374.wav,negative
 3740.wav,./raw_data/negative/3740.wav,negative
 3741.wav,./raw_data/negative/3741.wav,negative
 3742.wav,./raw_data/negative/3742.wav,negative
@@ -9312,7 +9006,6 @@ name,path,label
 3747.wav,./raw_data/negative/3747.wav,negative
 3748.wav,./raw_data/negative/3748.wav,negative
 3749.wav,./raw_data/negative/3749.wav,negative
-375.wav,./raw_data/negative/375.wav,negative
 3750.wav,./raw_data/negative/3750.wav,negative
 3751.wav,./raw_data/negative/3751.wav,negative
 3752.wav,./raw_data/negative/3752.wav,negative
@@ -9323,7 +9016,6 @@ name,path,label
 3757.wav,./raw_data/negative/3757.wav,negative
 3758.wav,./raw_data/negative/3758.wav,negative
 3759.wav,./raw_data/negative/3759.wav,negative
-376.wav,./raw_data/negative/376.wav,negative
 3760.wav,./raw_data/negative/3760.wav,negative
 3761.wav,./raw_data/negative/3761.wav,negative
 3762.wav,./raw_data/negative/3762.wav,negative
@@ -9334,7 +9026,6 @@ name,path,label
 3767.wav,./raw_data/negative/3767.wav,negative
 3768.wav,./raw_data/negative/3768.wav,negative
 3769.wav,./raw_data/negative/3769.wav,negative
-377.wav,./raw_data/negative/377.wav,negative
 3770.wav,./raw_data/negative/3770.wav,negative
 3771.wav,./raw_data/negative/3771.wav,negative
 3772.wav,./raw_data/negative/3772.wav,negative
@@ -9345,7 +9036,6 @@ name,path,label
 3777.wav,./raw_data/negative/3777.wav,negative
 3778.wav,./raw_data/negative/3778.wav,negative
 3779.wav,./raw_data/negative/3779.wav,negative
-378.wav,./raw_data/negative/378.wav,negative
 3780.wav,./raw_data/negative/3780.wav,negative
 3781.wav,./raw_data/negative/3781.wav,negative
 3782.wav,./raw_data/negative/3782.wav,negative
@@ -9356,7 +9046,6 @@ name,path,label
 3787.wav,./raw_data/negative/3787.wav,negative
 3788.wav,./raw_data/negative/3788.wav,negative
 3789.wav,./raw_data/negative/3789.wav,negative
-379.wav,./raw_data/negative/379.wav,negative
 3790.wav,./raw_data/negative/3790.wav,negative
 3791.wav,./raw_data/negative/3791.wav,negative
 3792.wav,./raw_data/negative/3792.wav,negative
@@ -9367,8 +9056,6 @@ name,path,label
 3797.wav,./raw_data/negative/3797.wav,negative
 3798.wav,./raw_data/negative/3798.wav,negative
 3799.wav,./raw_data/negative/3799.wav,negative
-38.wav,./raw_data/negative/38.wav,negative
-380.wav,./raw_data/negative/380.wav,negative
 3800.wav,./raw_data/negative/3800.wav,negative
 3801.wav,./raw_data/negative/3801.wav,negative
 3802.wav,./raw_data/negative/3802.wav,negative
@@ -9379,7 +9066,6 @@ name,path,label
 3807.wav,./raw_data/negative/3807.wav,negative
 3808.wav,./raw_data/negative/3808.wav,negative
 3809.wav,./raw_data/negative/3809.wav,negative
-381.wav,./raw_data/negative/381.wav,negative
 3810.wav,./raw_data/negative/3810.wav,negative
 3811.wav,./raw_data/negative/3811.wav,negative
 3812.wav,./raw_data/negative/3812.wav,negative
@@ -9390,7 +9076,6 @@ name,path,label
 3817.wav,./raw_data/negative/3817.wav,negative
 3818.wav,./raw_data/negative/3818.wav,negative
 3819.wav,./raw_data/negative/3819.wav,negative
-382.wav,./raw_data/negative/382.wav,negative
 3820.wav,./raw_data/negative/3820.wav,negative
 3821.wav,./raw_data/negative/3821.wav,negative
 3822.wav,./raw_data/negative/3822.wav,negative
@@ -9401,7 +9086,6 @@ name,path,label
 3827.wav,./raw_data/negative/3827.wav,negative
 3828.wav,./raw_data/negative/3828.wav,negative
 3829.wav,./raw_data/negative/3829.wav,negative
-383.wav,./raw_data/negative/383.wav,negative
 3830.wav,./raw_data/negative/3830.wav,negative
 3831.wav,./raw_data/negative/3831.wav,negative
 3832.wav,./raw_data/negative/3832.wav,negative
@@ -9412,7 +9096,6 @@ name,path,label
 3837.wav,./raw_data/negative/3837.wav,negative
 3838.wav,./raw_data/negative/3838.wav,negative
 3839.wav,./raw_data/negative/3839.wav,negative
-384.wav,./raw_data/negative/384.wav,negative
 3840.wav,./raw_data/negative/3840.wav,negative
 3841.wav,./raw_data/negative/3841.wav,negative
 3842.wav,./raw_data/negative/3842.wav,negative
@@ -9423,7 +9106,6 @@ name,path,label
 3847.wav,./raw_data/negative/3847.wav,negative
 3848.wav,./raw_data/negative/3848.wav,negative
 3849.wav,./raw_data/negative/3849.wav,negative
-385.wav,./raw_data/negative/385.wav,negative
 3850.wav,./raw_data/negative/3850.wav,negative
 3851.wav,./raw_data/negative/3851.wav,negative
 3852.wav,./raw_data/negative/3852.wav,negative
@@ -9434,7 +9116,6 @@ name,path,label
 3857.wav,./raw_data/negative/3857.wav,negative
 3858.wav,./raw_data/negative/3858.wav,negative
 3859.wav,./raw_data/negative/3859.wav,negative
-386.wav,./raw_data/negative/386.wav,negative
 3860.wav,./raw_data/negative/3860.wav,negative
 3861.wav,./raw_data/negative/3861.wav,negative
 3862.wav,./raw_data/negative/3862.wav,negative
@@ -9445,7 +9126,6 @@ name,path,label
 3867.wav,./raw_data/negative/3867.wav,negative
 3868.wav,./raw_data/negative/3868.wav,negative
 3869.wav,./raw_data/negative/3869.wav,negative
-387.wav,./raw_data/negative/387.wav,negative
 3870.wav,./raw_data/negative/3870.wav,negative
 3871.wav,./raw_data/negative/3871.wav,negative
 3872.wav,./raw_data/negative/3872.wav,negative
@@ -9456,7 +9136,6 @@ name,path,label
 3877.wav,./raw_data/negative/3877.wav,negative
 3878.wav,./raw_data/negative/3878.wav,negative
 3879.wav,./raw_data/negative/3879.wav,negative
-388.wav,./raw_data/negative/388.wav,negative
 3880.wav,./raw_data/negative/3880.wav,negative
 3881.wav,./raw_data/negative/3881.wav,negative
 3882.wav,./raw_data/negative/3882.wav,negative
@@ -9467,7 +9146,6 @@ name,path,label
 3887.wav,./raw_data/negative/3887.wav,negative
 3888.wav,./raw_data/negative/3888.wav,negative
 3889.wav,./raw_data/negative/3889.wav,negative
-389.wav,./raw_data/negative/389.wav,negative
 3890.wav,./raw_data/negative/3890.wav,negative
 3891.wav,./raw_data/negative/3891.wav,negative
 3892.wav,./raw_data/negative/3892.wav,negative
@@ -9478,8 +9156,6 @@ name,path,label
 3897.wav,./raw_data/negative/3897.wav,negative
 3898.wav,./raw_data/negative/3898.wav,negative
 3899.wav,./raw_data/negative/3899.wav,negative
-39.wav,./raw_data/negative/39.wav,negative
-390.wav,./raw_data/negative/390.wav,negative
 3900.wav,./raw_data/negative/3900.wav,negative
 3901.wav,./raw_data/negative/3901.wav,negative
 3902.wav,./raw_data/negative/3902.wav,negative
@@ -9490,7 +9166,6 @@ name,path,label
 3907.wav,./raw_data/negative/3907.wav,negative
 3908.wav,./raw_data/negative/3908.wav,negative
 3909.wav,./raw_data/negative/3909.wav,negative
-391.wav,./raw_data/negative/391.wav,negative
 3910.wav,./raw_data/negative/3910.wav,negative
 3911.wav,./raw_data/negative/3911.wav,negative
 3912.wav,./raw_data/negative/3912.wav,negative
@@ -9501,7 +9176,6 @@ name,path,label
 3917.wav,./raw_data/negative/3917.wav,negative
 3918.wav,./raw_data/negative/3918.wav,negative
 3919.wav,./raw_data/negative/3919.wav,negative
-392.wav,./raw_data/negative/392.wav,negative
 3920.wav,./raw_data/negative/3920.wav,negative
 3921.wav,./raw_data/negative/3921.wav,negative
 3922.wav,./raw_data/negative/3922.wav,negative
@@ -9512,7 +9186,6 @@ name,path,label
 3927.wav,./raw_data/negative/3927.wav,negative
 3928.wav,./raw_data/negative/3928.wav,negative
 3929.wav,./raw_data/negative/3929.wav,negative
-393.wav,./raw_data/negative/393.wav,negative
 3930.wav,./raw_data/negative/3930.wav,negative
 3931.wav,./raw_data/negative/3931.wav,negative
 3932.wav,./raw_data/negative/3932.wav,negative
@@ -9523,7 +9196,6 @@ name,path,label
 3937.wav,./raw_data/negative/3937.wav,negative
 3938.wav,./raw_data/negative/3938.wav,negative
 3939.wav,./raw_data/negative/3939.wav,negative
-394.wav,./raw_data/negative/394.wav,negative
 3940.wav,./raw_data/negative/3940.wav,negative
 3941.wav,./raw_data/negative/3941.wav,negative
 3942.wav,./raw_data/negative/3942.wav,negative
@@ -9534,7 +9206,6 @@ name,path,label
 3947.wav,./raw_data/negative/3947.wav,negative
 3948.wav,./raw_data/negative/3948.wav,negative
 3949.wav,./raw_data/negative/3949.wav,negative
-395.wav,./raw_data/negative/395.wav,negative
 3950.wav,./raw_data/negative/3950.wav,negative
 3951.wav,./raw_data/negative/3951.wav,negative
 3952.wav,./raw_data/negative/3952.wav,negative
@@ -9545,7 +9216,6 @@ name,path,label
 3957.wav,./raw_data/negative/3957.wav,negative
 3958.wav,./raw_data/negative/3958.wav,negative
 3959.wav,./raw_data/negative/3959.wav,negative
-396.wav,./raw_data/negative/396.wav,negative
 3960.wav,./raw_data/negative/3960.wav,negative
 3961.wav,./raw_data/negative/3961.wav,negative
 3962.wav,./raw_data/negative/3962.wav,negative
@@ -9556,7 +9226,6 @@ name,path,label
 3967.wav,./raw_data/negative/3967.wav,negative
 3968.wav,./raw_data/negative/3968.wav,negative
 3969.wav,./raw_data/negative/3969.wav,negative
-397.wav,./raw_data/negative/397.wav,negative
 3970.wav,./raw_data/negative/3970.wav,negative
 3971.wav,./raw_data/negative/3971.wav,negative
 3972.wav,./raw_data/negative/3972.wav,negative
@@ -9567,7 +9236,6 @@ name,path,label
 3977.wav,./raw_data/negative/3977.wav,negative
 3978.wav,./raw_data/negative/3978.wav,negative
 3979.wav,./raw_data/negative/3979.wav,negative
-398.wav,./raw_data/negative/398.wav,negative
 3980.wav,./raw_data/negative/3980.wav,negative
 3981.wav,./raw_data/negative/3981.wav,negative
 3982.wav,./raw_data/negative/3982.wav,negative
@@ -9578,7 +9246,6 @@ name,path,label
 3987.wav,./raw_data/negative/3987.wav,negative
 3988.wav,./raw_data/negative/3988.wav,negative
 3989.wav,./raw_data/negative/3989.wav,negative
-399.wav,./raw_data/negative/399.wav,negative
 3990.wav,./raw_data/negative/3990.wav,negative
 3991.wav,./raw_data/negative/3991.wav,negative
 3992.wav,./raw_data/negative/3992.wav,negative
@@ -9589,9 +9256,6 @@ name,path,label
 3997.wav,./raw_data/negative/3997.wav,negative
 3998.wav,./raw_data/negative/3998.wav,negative
 3999.wav,./raw_data/negative/3999.wav,negative
-4.wav,./raw_data/negative/4.wav,negative
-40.wav,./raw_data/negative/40.wav,negative
-400.wav,./raw_data/negative/400.wav,negative
 4000.wav,./raw_data/negative/4000.wav,negative
 4001.wav,./raw_data/negative/4001.wav,negative
 4002.wav,./raw_data/negative/4002.wav,negative
@@ -9602,7 +9266,6 @@ name,path,label
 4007.wav,./raw_data/negative/4007.wav,negative
 4008.wav,./raw_data/negative/4008.wav,negative
 4009.wav,./raw_data/negative/4009.wav,negative
-401.wav,./raw_data/negative/401.wav,negative
 4010.wav,./raw_data/negative/4010.wav,negative
 4011.wav,./raw_data/negative/4011.wav,negative
 4012.wav,./raw_data/negative/4012.wav,negative
@@ -9613,7 +9276,6 @@ name,path,label
 4017.wav,./raw_data/negative/4017.wav,negative
 4018.wav,./raw_data/negative/4018.wav,negative
 4019.wav,./raw_data/negative/4019.wav,negative
-402.wav,./raw_data/negative/402.wav,negative
 4020.wav,./raw_data/negative/4020.wav,negative
 4021.wav,./raw_data/negative/4021.wav,negative
 4022.wav,./raw_data/negative/4022.wav,negative
@@ -9624,7 +9286,6 @@ name,path,label
 4027.wav,./raw_data/negative/4027.wav,negative
 4028.wav,./raw_data/negative/4028.wav,negative
 4029.wav,./raw_data/negative/4029.wav,negative
-403.wav,./raw_data/negative/403.wav,negative
 4030.wav,./raw_data/negative/4030.wav,negative
 4031.wav,./raw_data/negative/4031.wav,negative
 4032.wav,./raw_data/negative/4032.wav,negative
@@ -9635,7 +9296,6 @@ name,path,label
 4037.wav,./raw_data/negative/4037.wav,negative
 4038.wav,./raw_data/negative/4038.wav,negative
 4039.wav,./raw_data/negative/4039.wav,negative
-404.wav,./raw_data/negative/404.wav,negative
 4040.wav,./raw_data/negative/4040.wav,negative
 4041.wav,./raw_data/negative/4041.wav,negative
 4042.wav,./raw_data/negative/4042.wav,negative
@@ -9646,7 +9306,6 @@ name,path,label
 4047.wav,./raw_data/negative/4047.wav,negative
 4048.wav,./raw_data/negative/4048.wav,negative
 4049.wav,./raw_data/negative/4049.wav,negative
-405.wav,./raw_data/negative/405.wav,negative
 4050.wav,./raw_data/negative/4050.wav,negative
 4051.wav,./raw_data/negative/4051.wav,negative
 4052.wav,./raw_data/negative/4052.wav,negative
@@ -9657,7 +9316,6 @@ name,path,label
 4057.wav,./raw_data/negative/4057.wav,negative
 4058.wav,./raw_data/negative/4058.wav,negative
 4059.wav,./raw_data/negative/4059.wav,negative
-406.wav,./raw_data/negative/406.wav,negative
 4060.wav,./raw_data/negative/4060.wav,negative
 4061.wav,./raw_data/negative/4061.wav,negative
 4062.wav,./raw_data/negative/4062.wav,negative
@@ -9668,7 +9326,6 @@ name,path,label
 4067.wav,./raw_data/negative/4067.wav,negative
 4068.wav,./raw_data/negative/4068.wav,negative
 4069.wav,./raw_data/negative/4069.wav,negative
-407.wav,./raw_data/negative/407.wav,negative
 4070.wav,./raw_data/negative/4070.wav,negative
 4071.wav,./raw_data/negative/4071.wav,negative
 4072.wav,./raw_data/negative/4072.wav,negative
@@ -9679,7 +9336,6 @@ name,path,label
 4077.wav,./raw_data/negative/4077.wav,negative
 4078.wav,./raw_data/negative/4078.wav,negative
 4079.wav,./raw_data/negative/4079.wav,negative
-408.wav,./raw_data/negative/408.wav,negative
 4080.wav,./raw_data/negative/4080.wav,negative
 4081.wav,./raw_data/negative/4081.wav,negative
 4082.wav,./raw_data/negative/4082.wav,negative
@@ -9690,7 +9346,6 @@ name,path,label
 4087.wav,./raw_data/negative/4087.wav,negative
 4088.wav,./raw_data/negative/4088.wav,negative
 4089.wav,./raw_data/negative/4089.wav,negative
-409.wav,./raw_data/negative/409.wav,negative
 4090.wav,./raw_data/negative/4090.wav,negative
 4091.wav,./raw_data/negative/4091.wav,negative
 4092.wav,./raw_data/negative/4092.wav,negative
@@ -9701,8 +9356,6 @@ name,path,label
 4097.wav,./raw_data/negative/4097.wav,negative
 4098.wav,./raw_data/negative/4098.wav,negative
 4099.wav,./raw_data/negative/4099.wav,negative
-41.wav,./raw_data/negative/41.wav,negative
-410.wav,./raw_data/negative/410.wav,negative
 4100.wav,./raw_data/negative/4100.wav,negative
 4101.wav,./raw_data/negative/4101.wav,negative
 4102.wav,./raw_data/negative/4102.wav,negative
@@ -9713,7 +9366,6 @@ name,path,label
 4107.wav,./raw_data/negative/4107.wav,negative
 4108.wav,./raw_data/negative/4108.wav,negative
 4109.wav,./raw_data/negative/4109.wav,negative
-411.wav,./raw_data/negative/411.wav,negative
 4110.wav,./raw_data/negative/4110.wav,negative
 4111.wav,./raw_data/negative/4111.wav,negative
 4112.wav,./raw_data/negative/4112.wav,negative
@@ -9724,7 +9376,6 @@ name,path,label
 4117.wav,./raw_data/negative/4117.wav,negative
 4118.wav,./raw_data/negative/4118.wav,negative
 4119.wav,./raw_data/negative/4119.wav,negative
-412.wav,./raw_data/negative/412.wav,negative
 4120.wav,./raw_data/negative/4120.wav,negative
 4121.wav,./raw_data/negative/4121.wav,negative
 4122.wav,./raw_data/negative/4122.wav,negative
@@ -9735,7 +9386,6 @@ name,path,label
 4127.wav,./raw_data/negative/4127.wav,negative
 4128.wav,./raw_data/negative/4128.wav,negative
 4129.wav,./raw_data/negative/4129.wav,negative
-413.wav,./raw_data/negative/413.wav,negative
 4130.wav,./raw_data/negative/4130.wav,negative
 4131.wav,./raw_data/negative/4131.wav,negative
 4132.wav,./raw_data/negative/4132.wav,negative
@@ -9746,7 +9396,6 @@ name,path,label
 4137.wav,./raw_data/negative/4137.wav,negative
 4138.wav,./raw_data/negative/4138.wav,negative
 4139.wav,./raw_data/negative/4139.wav,negative
-414.wav,./raw_data/negative/414.wav,negative
 4140.wav,./raw_data/negative/4140.wav,negative
 4141.wav,./raw_data/negative/4141.wav,negative
 4142.wav,./raw_data/negative/4142.wav,negative
@@ -9757,7 +9406,6 @@ name,path,label
 4147.wav,./raw_data/negative/4147.wav,negative
 4148.wav,./raw_data/negative/4148.wav,negative
 4149.wav,./raw_data/negative/4149.wav,negative
-415.wav,./raw_data/negative/415.wav,negative
 4150.wav,./raw_data/negative/4150.wav,negative
 4151.wav,./raw_data/negative/4151.wav,negative
 4152.wav,./raw_data/negative/4152.wav,negative
@@ -9768,7 +9416,6 @@ name,path,label
 4157.wav,./raw_data/negative/4157.wav,negative
 4158.wav,./raw_data/negative/4158.wav,negative
 4159.wav,./raw_data/negative/4159.wav,negative
-416.wav,./raw_data/negative/416.wav,negative
 4160.wav,./raw_data/negative/4160.wav,negative
 4161.wav,./raw_data/negative/4161.wav,negative
 4162.wav,./raw_data/negative/4162.wav,negative
@@ -9779,7 +9426,6 @@ name,path,label
 4167.wav,./raw_data/negative/4167.wav,negative
 4168.wav,./raw_data/negative/4168.wav,negative
 4169.wav,./raw_data/negative/4169.wav,negative
-417.wav,./raw_data/negative/417.wav,negative
 4170.wav,./raw_data/negative/4170.wav,negative
 4171.wav,./raw_data/negative/4171.wav,negative
 4172.wav,./raw_data/negative/4172.wav,negative
@@ -9790,7 +9436,6 @@ name,path,label
 4177.wav,./raw_data/negative/4177.wav,negative
 4178.wav,./raw_data/negative/4178.wav,negative
 4179.wav,./raw_data/negative/4179.wav,negative
-418.wav,./raw_data/negative/418.wav,negative
 4180.wav,./raw_data/negative/4180.wav,negative
 4181.wav,./raw_data/negative/4181.wav,negative
 4182.wav,./raw_data/negative/4182.wav,negative
@@ -9801,7 +9446,6 @@ name,path,label
 4187.wav,./raw_data/negative/4187.wav,negative
 4188.wav,./raw_data/negative/4188.wav,negative
 4189.wav,./raw_data/negative/4189.wav,negative
-419.wav,./raw_data/negative/419.wav,negative
 4190.wav,./raw_data/negative/4190.wav,negative
 4191.wav,./raw_data/negative/4191.wav,negative
 4192.wav,./raw_data/negative/4192.wav,negative
@@ -9812,8 +9456,6 @@ name,path,label
 4197.wav,./raw_data/negative/4197.wav,negative
 4198.wav,./raw_data/negative/4198.wav,negative
 4199.wav,./raw_data/negative/4199.wav,negative
-42.wav,./raw_data/negative/42.wav,negative
-420.wav,./raw_data/negative/420.wav,negative
 4200.wav,./raw_data/negative/4200.wav,negative
 4201.wav,./raw_data/negative/4201.wav,negative
 4202.wav,./raw_data/negative/4202.wav,negative
@@ -9824,7 +9466,6 @@ name,path,label
 4207.wav,./raw_data/negative/4207.wav,negative
 4208.wav,./raw_data/negative/4208.wav,negative
 4209.wav,./raw_data/negative/4209.wav,negative
-421.wav,./raw_data/negative/421.wav,negative
 4210.wav,./raw_data/negative/4210.wav,negative
 4211.wav,./raw_data/negative/4211.wav,negative
 4212.wav,./raw_data/negative/4212.wav,negative
@@ -9835,7 +9476,6 @@ name,path,label
 4217.wav,./raw_data/negative/4217.wav,negative
 4218.wav,./raw_data/negative/4218.wav,negative
 4219.wav,./raw_data/negative/4219.wav,negative
-422.wav,./raw_data/negative/422.wav,negative
 4220.wav,./raw_data/negative/4220.wav,negative
 4221.wav,./raw_data/negative/4221.wav,negative
 4222.wav,./raw_data/negative/4222.wav,negative
@@ -9846,7 +9486,6 @@ name,path,label
 4227.wav,./raw_data/negative/4227.wav,negative
 4228.wav,./raw_data/negative/4228.wav,negative
 4229.wav,./raw_data/negative/4229.wav,negative
-423.wav,./raw_data/negative/423.wav,negative
 4230.wav,./raw_data/negative/4230.wav,negative
 4231.wav,./raw_data/negative/4231.wav,negative
 4232.wav,./raw_data/negative/4232.wav,negative
@@ -9857,7 +9496,6 @@ name,path,label
 4237.wav,./raw_data/negative/4237.wav,negative
 4238.wav,./raw_data/negative/4238.wav,negative
 4239.wav,./raw_data/negative/4239.wav,negative
-424.wav,./raw_data/negative/424.wav,negative
 4240.wav,./raw_data/negative/4240.wav,negative
 4241.wav,./raw_data/negative/4241.wav,negative
 4242.wav,./raw_data/negative/4242.wav,negative
@@ -9868,7 +9506,6 @@ name,path,label
 4247.wav,./raw_data/negative/4247.wav,negative
 4248.wav,./raw_data/negative/4248.wav,negative
 4249.wav,./raw_data/negative/4249.wav,negative
-425.wav,./raw_data/negative/425.wav,negative
 4250.wav,./raw_data/negative/4250.wav,negative
 4251.wav,./raw_data/negative/4251.wav,negative
 4252.wav,./raw_data/negative/4252.wav,negative
@@ -9879,7 +9516,6 @@ name,path,label
 4257.wav,./raw_data/negative/4257.wav,negative
 4258.wav,./raw_data/negative/4258.wav,negative
 4259.wav,./raw_data/negative/4259.wav,negative
-426.wav,./raw_data/negative/426.wav,negative
 4260.wav,./raw_data/negative/4260.wav,negative
 4261.wav,./raw_data/negative/4261.wav,negative
 4262.wav,./raw_data/negative/4262.wav,negative
@@ -9890,7 +9526,6 @@ name,path,label
 4267.wav,./raw_data/negative/4267.wav,negative
 4268.wav,./raw_data/negative/4268.wav,negative
 4269.wav,./raw_data/negative/4269.wav,negative
-427.wav,./raw_data/negative/427.wav,negative
 4270.wav,./raw_data/negative/4270.wav,negative
 4271.wav,./raw_data/negative/4271.wav,negative
 4272.wav,./raw_data/negative/4272.wav,negative
@@ -9901,7 +9536,6 @@ name,path,label
 4277.wav,./raw_data/negative/4277.wav,negative
 4278.wav,./raw_data/negative/4278.wav,negative
 4279.wav,./raw_data/negative/4279.wav,negative
-428.wav,./raw_data/negative/428.wav,negative
 4280.wav,./raw_data/negative/4280.wav,negative
 4281.wav,./raw_data/negative/4281.wav,negative
 4282.wav,./raw_data/negative/4282.wav,negative
@@ -9912,7 +9546,6 @@ name,path,label
 4287.wav,./raw_data/negative/4287.wav,negative
 4288.wav,./raw_data/negative/4288.wav,negative
 4289.wav,./raw_data/negative/4289.wav,negative
-429.wav,./raw_data/negative/429.wav,negative
 4290.wav,./raw_data/negative/4290.wav,negative
 4291.wav,./raw_data/negative/4291.wav,negative
 4292.wav,./raw_data/negative/4292.wav,negative
@@ -9923,8 +9556,6 @@ name,path,label
 4297.wav,./raw_data/negative/4297.wav,negative
 4298.wav,./raw_data/negative/4298.wav,negative
 4299.wav,./raw_data/negative/4299.wav,negative
-43.wav,./raw_data/negative/43.wav,negative
-430.wav,./raw_data/negative/430.wav,negative
 4300.wav,./raw_data/negative/4300.wav,negative
 4301.wav,./raw_data/negative/4301.wav,negative
 4302.wav,./raw_data/negative/4302.wav,negative
@@ -9935,7 +9566,6 @@ name,path,label
 4307.wav,./raw_data/negative/4307.wav,negative
 4308.wav,./raw_data/negative/4308.wav,negative
 4309.wav,./raw_data/negative/4309.wav,negative
-431.wav,./raw_data/negative/431.wav,negative
 4310.wav,./raw_data/negative/4310.wav,negative
 4311.wav,./raw_data/negative/4311.wav,negative
 4312.wav,./raw_data/negative/4312.wav,negative
@@ -9946,7 +9576,6 @@ name,path,label
 4317.wav,./raw_data/negative/4317.wav,negative
 4318.wav,./raw_data/negative/4318.wav,negative
 4319.wav,./raw_data/negative/4319.wav,negative
-432.wav,./raw_data/negative/432.wav,negative
 4320.wav,./raw_data/negative/4320.wav,negative
 4321.wav,./raw_data/negative/4321.wav,negative
 4322.wav,./raw_data/negative/4322.wav,negative
@@ -9957,7 +9586,6 @@ name,path,label
 4327.wav,./raw_data/negative/4327.wav,negative
 4328.wav,./raw_data/negative/4328.wav,negative
 4329.wav,./raw_data/negative/4329.wav,negative
-433.wav,./raw_data/negative/433.wav,negative
 4330.wav,./raw_data/negative/4330.wav,negative
 4331.wav,./raw_data/negative/4331.wav,negative
 4332.wav,./raw_data/negative/4332.wav,negative
@@ -9968,7 +9596,6 @@ name,path,label
 4337.wav,./raw_data/negative/4337.wav,negative
 4338.wav,./raw_data/negative/4338.wav,negative
 4339.wav,./raw_data/negative/4339.wav,negative
-434.wav,./raw_data/negative/434.wav,negative
 4340.wav,./raw_data/negative/4340.wav,negative
 4341.wav,./raw_data/negative/4341.wav,negative
 4342.wav,./raw_data/negative/4342.wav,negative
@@ -9979,7 +9606,6 @@ name,path,label
 4347.wav,./raw_data/negative/4347.wav,negative
 4348.wav,./raw_data/negative/4348.wav,negative
 4349.wav,./raw_data/negative/4349.wav,negative
-435.wav,./raw_data/negative/435.wav,negative
 4350.wav,./raw_data/negative/4350.wav,negative
 4351.wav,./raw_data/negative/4351.wav,negative
 4352.wav,./raw_data/negative/4352.wav,negative
@@ -9990,7 +9616,6 @@ name,path,label
 4357.wav,./raw_data/negative/4357.wav,negative
 4358.wav,./raw_data/negative/4358.wav,negative
 4359.wav,./raw_data/negative/4359.wav,negative
-436.wav,./raw_data/negative/436.wav,negative
 4360.wav,./raw_data/negative/4360.wav,negative
 4361.wav,./raw_data/negative/4361.wav,negative
 4362.wav,./raw_data/negative/4362.wav,negative
@@ -10001,7 +9626,6 @@ name,path,label
 4367.wav,./raw_data/negative/4367.wav,negative
 4368.wav,./raw_data/negative/4368.wav,negative
 4369.wav,./raw_data/negative/4369.wav,negative
-437.wav,./raw_data/negative/437.wav,negative
 4370.wav,./raw_data/negative/4370.wav,negative
 4371.wav,./raw_data/negative/4371.wav,negative
 4372.wav,./raw_data/negative/4372.wav,negative
@@ -10012,7 +9636,6 @@ name,path,label
 4377.wav,./raw_data/negative/4377.wav,negative
 4378.wav,./raw_data/negative/4378.wav,negative
 4379.wav,./raw_data/negative/4379.wav,negative
-438.wav,./raw_data/negative/438.wav,negative
 4380.wav,./raw_data/negative/4380.wav,negative
 4381.wav,./raw_data/negative/4381.wav,negative
 4382.wav,./raw_data/negative/4382.wav,negative
@@ -10023,7 +9646,6 @@ name,path,label
 4387.wav,./raw_data/negative/4387.wav,negative
 4388.wav,./raw_data/negative/4388.wav,negative
 4389.wav,./raw_data/negative/4389.wav,negative
-439.wav,./raw_data/negative/439.wav,negative
 4390.wav,./raw_data/negative/4390.wav,negative
 4391.wav,./raw_data/negative/4391.wav,negative
 4392.wav,./raw_data/negative/4392.wav,negative
@@ -10034,8 +9656,6 @@ name,path,label
 4397.wav,./raw_data/negative/4397.wav,negative
 4398.wav,./raw_data/negative/4398.wav,negative
 4399.wav,./raw_data/negative/4399.wav,negative
-44.wav,./raw_data/negative/44.wav,negative
-440.wav,./raw_data/negative/440.wav,negative
 4400.wav,./raw_data/negative/4400.wav,negative
 4401.wav,./raw_data/negative/4401.wav,negative
 4402.wav,./raw_data/negative/4402.wav,negative
@@ -10046,7 +9666,6 @@ name,path,label
 4407.wav,./raw_data/negative/4407.wav,negative
 4408.wav,./raw_data/negative/4408.wav,negative
 4409.wav,./raw_data/negative/4409.wav,negative
-441.wav,./raw_data/negative/441.wav,negative
 4410.wav,./raw_data/negative/4410.wav,negative
 4411.wav,./raw_data/negative/4411.wav,negative
 4412.wav,./raw_data/negative/4412.wav,negative
@@ -10057,7 +9676,6 @@ name,path,label
 4417.wav,./raw_data/negative/4417.wav,negative
 4418.wav,./raw_data/negative/4418.wav,negative
 4419.wav,./raw_data/negative/4419.wav,negative
-442.wav,./raw_data/negative/442.wav,negative
 4420.wav,./raw_data/negative/4420.wav,negative
 4421.wav,./raw_data/negative/4421.wav,negative
 4422.wav,./raw_data/negative/4422.wav,negative
@@ -10068,7 +9686,6 @@ name,path,label
 4427.wav,./raw_data/negative/4427.wav,negative
 4428.wav,./raw_data/negative/4428.wav,negative
 4429.wav,./raw_data/negative/4429.wav,negative
-443.wav,./raw_data/negative/443.wav,negative
 4430.wav,./raw_data/negative/4430.wav,negative
 4431.wav,./raw_data/negative/4431.wav,negative
 4432.wav,./raw_data/negative/4432.wav,negative
@@ -10079,7 +9696,6 @@ name,path,label
 4437.wav,./raw_data/negative/4437.wav,negative
 4438.wav,./raw_data/negative/4438.wav,negative
 4439.wav,./raw_data/negative/4439.wav,negative
-444.wav,./raw_data/negative/444.wav,negative
 4440.wav,./raw_data/negative/4440.wav,negative
 4441.wav,./raw_data/negative/4441.wav,negative
 4442.wav,./raw_data/negative/4442.wav,negative
@@ -10090,7 +9706,6 @@ name,path,label
 4447.wav,./raw_data/negative/4447.wav,negative
 4448.wav,./raw_data/negative/4448.wav,negative
 4449.wav,./raw_data/negative/4449.wav,negative
-445.wav,./raw_data/negative/445.wav,negative
 4450.wav,./raw_data/negative/4450.wav,negative
 4451.wav,./raw_data/negative/4451.wav,negative
 4452.wav,./raw_data/negative/4452.wav,negative
@@ -10101,7 +9716,6 @@ name,path,label
 4457.wav,./raw_data/negative/4457.wav,negative
 4458.wav,./raw_data/negative/4458.wav,negative
 4459.wav,./raw_data/negative/4459.wav,negative
-446.wav,./raw_data/negative/446.wav,negative
 4460.wav,./raw_data/negative/4460.wav,negative
 4461.wav,./raw_data/negative/4461.wav,negative
 4462.wav,./raw_data/negative/4462.wav,negative
@@ -10112,7 +9726,6 @@ name,path,label
 4467.wav,./raw_data/negative/4467.wav,negative
 4468.wav,./raw_data/negative/4468.wav,negative
 4469.wav,./raw_data/negative/4469.wav,negative
-447.wav,./raw_data/negative/447.wav,negative
 4470.wav,./raw_data/negative/4470.wav,negative
 4471.wav,./raw_data/negative/4471.wav,negative
 4472.wav,./raw_data/negative/4472.wav,negative
@@ -10123,7 +9736,6 @@ name,path,label
 4477.wav,./raw_data/negative/4477.wav,negative
 4478.wav,./raw_data/negative/4478.wav,negative
 4479.wav,./raw_data/negative/4479.wav,negative
-448.wav,./raw_data/negative/448.wav,negative
 4480.wav,./raw_data/negative/4480.wav,negative
 4481.wav,./raw_data/negative/4481.wav,negative
 4482.wav,./raw_data/negative/4482.wav,negative
@@ -10134,7 +9746,6 @@ name,path,label
 4487.wav,./raw_data/negative/4487.wav,negative
 4488.wav,./raw_data/negative/4488.wav,negative
 4489.wav,./raw_data/negative/4489.wav,negative
-449.wav,./raw_data/negative/449.wav,negative
 4490.wav,./raw_data/negative/4490.wav,negative
 4491.wav,./raw_data/negative/4491.wav,negative
 4492.wav,./raw_data/negative/4492.wav,negative
@@ -10145,8 +9756,6 @@ name,path,label
 4497.wav,./raw_data/negative/4497.wav,negative
 4498.wav,./raw_data/negative/4498.wav,negative
 4499.wav,./raw_data/negative/4499.wav,negative
-45.wav,./raw_data/negative/45.wav,negative
-450.wav,./raw_data/negative/450.wav,negative
 4500.wav,./raw_data/negative/4500.wav,negative
 4501.wav,./raw_data/negative/4501.wav,negative
 4502.wav,./raw_data/negative/4502.wav,negative
@@ -10157,7 +9766,6 @@ name,path,label
 4507.wav,./raw_data/negative/4507.wav,negative
 4508.wav,./raw_data/negative/4508.wav,negative
 4509.wav,./raw_data/negative/4509.wav,negative
-451.wav,./raw_data/negative/451.wav,negative
 4510.wav,./raw_data/negative/4510.wav,negative
 4511.wav,./raw_data/negative/4511.wav,negative
 4512.wav,./raw_data/negative/4512.wav,negative
@@ -10168,7 +9776,6 @@ name,path,label
 4517.wav,./raw_data/negative/4517.wav,negative
 4518.wav,./raw_data/negative/4518.wav,negative
 4519.wav,./raw_data/negative/4519.wav,negative
-452.wav,./raw_data/negative/452.wav,negative
 4520.wav,./raw_data/negative/4520.wav,negative
 4521.wav,./raw_data/negative/4521.wav,negative
 4522.wav,./raw_data/negative/4522.wav,negative
@@ -10179,7 +9786,6 @@ name,path,label
 4527.wav,./raw_data/negative/4527.wav,negative
 4528.wav,./raw_data/negative/4528.wav,negative
 4529.wav,./raw_data/negative/4529.wav,negative
-453.wav,./raw_data/negative/453.wav,negative
 4530.wav,./raw_data/negative/4530.wav,negative
 4531.wav,./raw_data/negative/4531.wav,negative
 4532.wav,./raw_data/negative/4532.wav,negative
@@ -10190,7 +9796,6 @@ name,path,label
 4537.wav,./raw_data/negative/4537.wav,negative
 4538.wav,./raw_data/negative/4538.wav,negative
 4539.wav,./raw_data/negative/4539.wav,negative
-454.wav,./raw_data/negative/454.wav,negative
 4540.wav,./raw_data/negative/4540.wav,negative
 4541.wav,./raw_data/negative/4541.wav,negative
 4542.wav,./raw_data/negative/4542.wav,negative
@@ -10201,7 +9806,6 @@ name,path,label
 4547.wav,./raw_data/negative/4547.wav,negative
 4548.wav,./raw_data/negative/4548.wav,negative
 4549.wav,./raw_data/negative/4549.wav,negative
-455.wav,./raw_data/negative/455.wav,negative
 4550.wav,./raw_data/negative/4550.wav,negative
 4551.wav,./raw_data/negative/4551.wav,negative
 4552.wav,./raw_data/negative/4552.wav,negative
@@ -10212,7 +9816,6 @@ name,path,label
 4557.wav,./raw_data/negative/4557.wav,negative
 4558.wav,./raw_data/negative/4558.wav,negative
 4559.wav,./raw_data/negative/4559.wav,negative
-456.wav,./raw_data/negative/456.wav,negative
 4560.wav,./raw_data/negative/4560.wav,negative
 4561.wav,./raw_data/negative/4561.wav,negative
 4562.wav,./raw_data/negative/4562.wav,negative
@@ -10223,7 +9826,6 @@ name,path,label
 4567.wav,./raw_data/negative/4567.wav,negative
 4568.wav,./raw_data/negative/4568.wav,negative
 4569.wav,./raw_data/negative/4569.wav,negative
-457.wav,./raw_data/negative/457.wav,negative
 4570.wav,./raw_data/negative/4570.wav,negative
 4571.wav,./raw_data/negative/4571.wav,negative
 4572.wav,./raw_data/negative/4572.wav,negative
@@ -10234,7 +9836,6 @@ name,path,label
 4577.wav,./raw_data/negative/4577.wav,negative
 4578.wav,./raw_data/negative/4578.wav,negative
 4579.wav,./raw_data/negative/4579.wav,negative
-458.wav,./raw_data/negative/458.wav,negative
 4580.wav,./raw_data/negative/4580.wav,negative
 4581.wav,./raw_data/negative/4581.wav,negative
 4582.wav,./raw_data/negative/4582.wav,negative
@@ -10245,7 +9846,6 @@ name,path,label
 4587.wav,./raw_data/negative/4587.wav,negative
 4588.wav,./raw_data/negative/4588.wav,negative
 4589.wav,./raw_data/negative/4589.wav,negative
-459.wav,./raw_data/negative/459.wav,negative
 4590.wav,./raw_data/negative/4590.wav,negative
 4591.wav,./raw_data/negative/4591.wav,negative
 4592.wav,./raw_data/negative/4592.wav,negative
@@ -10256,8 +9856,6 @@ name,path,label
 4597.wav,./raw_data/negative/4597.wav,negative
 4598.wav,./raw_data/negative/4598.wav,negative
 4599.wav,./raw_data/negative/4599.wav,negative
-46.wav,./raw_data/negative/46.wav,negative
-460.wav,./raw_data/negative/460.wav,negative
 4600.wav,./raw_data/negative/4600.wav,negative
 4601.wav,./raw_data/negative/4601.wav,negative
 4602.wav,./raw_data/negative/4602.wav,negative
@@ -10268,7 +9866,6 @@ name,path,label
 4607.wav,./raw_data/negative/4607.wav,negative
 4608.wav,./raw_data/negative/4608.wav,negative
 4609.wav,./raw_data/negative/4609.wav,negative
-461.wav,./raw_data/negative/461.wav,negative
 4610.wav,./raw_data/negative/4610.wav,negative
 4611.wav,./raw_data/negative/4611.wav,negative
 4612.wav,./raw_data/negative/4612.wav,negative
@@ -10279,7 +9876,6 @@ name,path,label
 4617.wav,./raw_data/negative/4617.wav,negative
 4618.wav,./raw_data/negative/4618.wav,negative
 4619.wav,./raw_data/negative/4619.wav,negative
-462.wav,./raw_data/negative/462.wav,negative
 4620.wav,./raw_data/negative/4620.wav,negative
 4621.wav,./raw_data/negative/4621.wav,negative
 4622.wav,./raw_data/negative/4622.wav,negative
@@ -10290,7 +9886,6 @@ name,path,label
 4627.wav,./raw_data/negative/4627.wav,negative
 4628.wav,./raw_data/negative/4628.wav,negative
 4629.wav,./raw_data/negative/4629.wav,negative
-463.wav,./raw_data/negative/463.wav,negative
 4630.wav,./raw_data/negative/4630.wav,negative
 4631.wav,./raw_data/negative/4631.wav,negative
 4632.wav,./raw_data/negative/4632.wav,negative
@@ -10301,7 +9896,6 @@ name,path,label
 4637.wav,./raw_data/negative/4637.wav,negative
 4638.wav,./raw_data/negative/4638.wav,negative
 4639.wav,./raw_data/negative/4639.wav,negative
-464.wav,./raw_data/negative/464.wav,negative
 4640.wav,./raw_data/negative/4640.wav,negative
 4641.wav,./raw_data/negative/4641.wav,negative
 4642.wav,./raw_data/negative/4642.wav,negative
@@ -10312,7 +9906,6 @@ name,path,label
 4647.wav,./raw_data/negative/4647.wav,negative
 4648.wav,./raw_data/negative/4648.wav,negative
 4649.wav,./raw_data/negative/4649.wav,negative
-465.wav,./raw_data/negative/465.wav,negative
 4650.wav,./raw_data/negative/4650.wav,negative
 4651.wav,./raw_data/negative/4651.wav,negative
 4652.wav,./raw_data/negative/4652.wav,negative
@@ -10323,7 +9916,6 @@ name,path,label
 4657.wav,./raw_data/negative/4657.wav,negative
 4658.wav,./raw_data/negative/4658.wav,negative
 4659.wav,./raw_data/negative/4659.wav,negative
-466.wav,./raw_data/negative/466.wav,negative
 4660.wav,./raw_data/negative/4660.wav,negative
 4661.wav,./raw_data/negative/4661.wav,negative
 4662.wav,./raw_data/negative/4662.wav,negative
@@ -10334,7 +9926,6 @@ name,path,label
 4667.wav,./raw_data/negative/4667.wav,negative
 4668.wav,./raw_data/negative/4668.wav,negative
 4669.wav,./raw_data/negative/4669.wav,negative
-467.wav,./raw_data/negative/467.wav,negative
 4670.wav,./raw_data/negative/4670.wav,negative
 4671.wav,./raw_data/negative/4671.wav,negative
 4672.wav,./raw_data/negative/4672.wav,negative
@@ -10345,7 +9936,6 @@ name,path,label
 4677.wav,./raw_data/negative/4677.wav,negative
 4678.wav,./raw_data/negative/4678.wav,negative
 4679.wav,./raw_data/negative/4679.wav,negative
-468.wav,./raw_data/negative/468.wav,negative
 4680.wav,./raw_data/negative/4680.wav,negative
 4681.wav,./raw_data/negative/4681.wav,negative
 4682.wav,./raw_data/negative/4682.wav,negative
@@ -10356,7 +9946,6 @@ name,path,label
 4687.wav,./raw_data/negative/4687.wav,negative
 4688.wav,./raw_data/negative/4688.wav,negative
 4689.wav,./raw_data/negative/4689.wav,negative
-469.wav,./raw_data/negative/469.wav,negative
 4690.wav,./raw_data/negative/4690.wav,negative
 4691.wav,./raw_data/negative/4691.wav,negative
 4692.wav,./raw_data/negative/4692.wav,negative
@@ -10367,8 +9956,6 @@ name,path,label
 4697.wav,./raw_data/negative/4697.wav,negative
 4698.wav,./raw_data/negative/4698.wav,negative
 4699.wav,./raw_data/negative/4699.wav,negative
-47.wav,./raw_data/negative/47.wav,negative
-470.wav,./raw_data/negative/470.wav,negative
 4700.wav,./raw_data/negative/4700.wav,negative
 4701.wav,./raw_data/negative/4701.wav,negative
 4702.wav,./raw_data/negative/4702.wav,negative
@@ -10379,7 +9966,6 @@ name,path,label
 4707.wav,./raw_data/negative/4707.wav,negative
 4708.wav,./raw_data/negative/4708.wav,negative
 4709.wav,./raw_data/negative/4709.wav,negative
-471.wav,./raw_data/negative/471.wav,negative
 4710.wav,./raw_data/negative/4710.wav,negative
 4711.wav,./raw_data/negative/4711.wav,negative
 4712.wav,./raw_data/negative/4712.wav,negative
@@ -10390,7 +9976,6 @@ name,path,label
 4717.wav,./raw_data/negative/4717.wav,negative
 4718.wav,./raw_data/negative/4718.wav,negative
 4719.wav,./raw_data/negative/4719.wav,negative
-472.wav,./raw_data/negative/472.wav,negative
 4720.wav,./raw_data/negative/4720.wav,negative
 4721.wav,./raw_data/negative/4721.wav,negative
 4722.wav,./raw_data/negative/4722.wav,negative
@@ -10401,7 +9986,6 @@ name,path,label
 4727.wav,./raw_data/negative/4727.wav,negative
 4728.wav,./raw_data/negative/4728.wav,negative
 4729.wav,./raw_data/negative/4729.wav,negative
-473.wav,./raw_data/negative/473.wav,negative
 4730.wav,./raw_data/negative/4730.wav,negative
 4731.wav,./raw_data/negative/4731.wav,negative
 4732.wav,./raw_data/negative/4732.wav,negative
@@ -10412,7 +9996,6 @@ name,path,label
 4737.wav,./raw_data/negative/4737.wav,negative
 4738.wav,./raw_data/negative/4738.wav,negative
 4739.wav,./raw_data/negative/4739.wav,negative
-474.wav,./raw_data/negative/474.wav,negative
 4740.wav,./raw_data/negative/4740.wav,negative
 4741.wav,./raw_data/negative/4741.wav,negative
 4742.wav,./raw_data/negative/4742.wav,negative
@@ -10423,7 +10006,6 @@ name,path,label
 4747.wav,./raw_data/negative/4747.wav,negative
 4748.wav,./raw_data/negative/4748.wav,negative
 4749.wav,./raw_data/negative/4749.wav,negative
-475.wav,./raw_data/negative/475.wav,negative
 4750.wav,./raw_data/negative/4750.wav,negative
 4751.wav,./raw_data/negative/4751.wav,negative
 4752.wav,./raw_data/negative/4752.wav,negative
@@ -10434,7 +10016,6 @@ name,path,label
 4757.wav,./raw_data/negative/4757.wav,negative
 4758.wav,./raw_data/negative/4758.wav,negative
 4759.wav,./raw_data/negative/4759.wav,negative
-476.wav,./raw_data/negative/476.wav,negative
 4760.wav,./raw_data/negative/4760.wav,negative
 4761.wav,./raw_data/negative/4761.wav,negative
 4762.wav,./raw_data/negative/4762.wav,negative
@@ -10445,7 +10026,6 @@ name,path,label
 4767.wav,./raw_data/negative/4767.wav,negative
 4768.wav,./raw_data/negative/4768.wav,negative
 4769.wav,./raw_data/negative/4769.wav,negative
-477.wav,./raw_data/negative/477.wav,negative
 4770.wav,./raw_data/negative/4770.wav,negative
 4771.wav,./raw_data/negative/4771.wav,negative
 4772.wav,./raw_data/negative/4772.wav,negative
@@ -10456,7 +10036,6 @@ name,path,label
 4777.wav,./raw_data/negative/4777.wav,negative
 4778.wav,./raw_data/negative/4778.wav,negative
 4779.wav,./raw_data/negative/4779.wav,negative
-478.wav,./raw_data/negative/478.wav,negative
 4780.wav,./raw_data/negative/4780.wav,negative
 4781.wav,./raw_data/negative/4781.wav,negative
 4782.wav,./raw_data/negative/4782.wav,negative
@@ -10467,7 +10046,6 @@ name,path,label
 4787.wav,./raw_data/negative/4787.wav,negative
 4788.wav,./raw_data/negative/4788.wav,negative
 4789.wav,./raw_data/negative/4789.wav,negative
-479.wav,./raw_data/negative/479.wav,negative
 4790.wav,./raw_data/negative/4790.wav,negative
 4791.wav,./raw_data/negative/4791.wav,negative
 4792.wav,./raw_data/negative/4792.wav,negative
@@ -10478,8 +10056,6 @@ name,path,label
 4797.wav,./raw_data/negative/4797.wav,negative
 4798.wav,./raw_data/negative/4798.wav,negative
 4799.wav,./raw_data/negative/4799.wav,negative
-48.wav,./raw_data/negative/48.wav,negative
-480.wav,./raw_data/negative/480.wav,negative
 4800.wav,./raw_data/negative/4800.wav,negative
 4801.wav,./raw_data/negative/4801.wav,negative
 4802.wav,./raw_data/negative/4802.wav,negative
@@ -10490,7 +10066,6 @@ name,path,label
 4807.wav,./raw_data/negative/4807.wav,negative
 4808.wav,./raw_data/negative/4808.wav,negative
 4809.wav,./raw_data/negative/4809.wav,negative
-481.wav,./raw_data/negative/481.wav,negative
 4810.wav,./raw_data/negative/4810.wav,negative
 4811.wav,./raw_data/negative/4811.wav,negative
 4812.wav,./raw_data/negative/4812.wav,negative
@@ -10501,7 +10076,6 @@ name,path,label
 4817.wav,./raw_data/negative/4817.wav,negative
 4818.wav,./raw_data/negative/4818.wav,negative
 4819.wav,./raw_data/negative/4819.wav,negative
-482.wav,./raw_data/negative/482.wav,negative
 4820.wav,./raw_data/negative/4820.wav,negative
 4821.wav,./raw_data/negative/4821.wav,negative
 4822.wav,./raw_data/negative/4822.wav,negative
@@ -10512,7 +10086,6 @@ name,path,label
 4827.wav,./raw_data/negative/4827.wav,negative
 4828.wav,./raw_data/negative/4828.wav,negative
 4829.wav,./raw_data/negative/4829.wav,negative
-483.wav,./raw_data/negative/483.wav,negative
 4830.wav,./raw_data/negative/4830.wav,negative
 4831.wav,./raw_data/negative/4831.wav,negative
 4832.wav,./raw_data/negative/4832.wav,negative
@@ -10523,7 +10096,6 @@ name,path,label
 4837.wav,./raw_data/negative/4837.wav,negative
 4838.wav,./raw_data/negative/4838.wav,negative
 4839.wav,./raw_data/negative/4839.wav,negative
-484.wav,./raw_data/negative/484.wav,negative
 4840.wav,./raw_data/negative/4840.wav,negative
 4841.wav,./raw_data/negative/4841.wav,negative
 4842.wav,./raw_data/negative/4842.wav,negative
@@ -10534,7 +10106,6 @@ name,path,label
 4847.wav,./raw_data/negative/4847.wav,negative
 4848.wav,./raw_data/negative/4848.wav,negative
 4849.wav,./raw_data/negative/4849.wav,negative
-485.wav,./raw_data/negative/485.wav,negative
 4850.wav,./raw_data/negative/4850.wav,negative
 4851.wav,./raw_data/negative/4851.wav,negative
 4852.wav,./raw_data/negative/4852.wav,negative
@@ -10545,7 +10116,6 @@ name,path,label
 4857.wav,./raw_data/negative/4857.wav,negative
 4858.wav,./raw_data/negative/4858.wav,negative
 4859.wav,./raw_data/negative/4859.wav,negative
-486.wav,./raw_data/negative/486.wav,negative
 4860.wav,./raw_data/negative/4860.wav,negative
 4861.wav,./raw_data/negative/4861.wav,negative
 4862.wav,./raw_data/negative/4862.wav,negative
@@ -10556,7 +10126,6 @@ name,path,label
 4867.wav,./raw_data/negative/4867.wav,negative
 4868.wav,./raw_data/negative/4868.wav,negative
 4869.wav,./raw_data/negative/4869.wav,negative
-487.wav,./raw_data/negative/487.wav,negative
 4870.wav,./raw_data/negative/4870.wav,negative
 4871.wav,./raw_data/negative/4871.wav,negative
 4872.wav,./raw_data/negative/4872.wav,negative
@@ -10567,7 +10136,6 @@ name,path,label
 4877.wav,./raw_data/negative/4877.wav,negative
 4878.wav,./raw_data/negative/4878.wav,negative
 4879.wav,./raw_data/negative/4879.wav,negative
-488.wav,./raw_data/negative/488.wav,negative
 4880.wav,./raw_data/negative/4880.wav,negative
 4881.wav,./raw_data/negative/4881.wav,negative
 4882.wav,./raw_data/negative/4882.wav,negative
@@ -10578,7 +10146,6 @@ name,path,label
 4887.wav,./raw_data/negative/4887.wav,negative
 4888.wav,./raw_data/negative/4888.wav,negative
 4889.wav,./raw_data/negative/4889.wav,negative
-489.wav,./raw_data/negative/489.wav,negative
 4890.wav,./raw_data/negative/4890.wav,negative
 4891.wav,./raw_data/negative/4891.wav,negative
 4892.wav,./raw_data/negative/4892.wav,negative
@@ -10589,8 +10156,6 @@ name,path,label
 4897.wav,./raw_data/negative/4897.wav,negative
 4898.wav,./raw_data/negative/4898.wav,negative
 4899.wav,./raw_data/negative/4899.wav,negative
-49.wav,./raw_data/negative/49.wav,negative
-490.wav,./raw_data/negative/490.wav,negative
 4900.wav,./raw_data/negative/4900.wav,negative
 4901.wav,./raw_data/negative/4901.wav,negative
 4902.wav,./raw_data/negative/4902.wav,negative
@@ -10601,7 +10166,6 @@ name,path,label
 4907.wav,./raw_data/negative/4907.wav,negative
 4908.wav,./raw_data/negative/4908.wav,negative
 4909.wav,./raw_data/negative/4909.wav,negative
-491.wav,./raw_data/negative/491.wav,negative
 4910.wav,./raw_data/negative/4910.wav,negative
 4911.wav,./raw_data/negative/4911.wav,negative
 4912.wav,./raw_data/negative/4912.wav,negative
@@ -10612,7 +10176,6 @@ name,path,label
 4917.wav,./raw_data/negative/4917.wav,negative
 4918.wav,./raw_data/negative/4918.wav,negative
 4919.wav,./raw_data/negative/4919.wav,negative
-492.wav,./raw_data/negative/492.wav,negative
 4920.wav,./raw_data/negative/4920.wav,negative
 4921.wav,./raw_data/negative/4921.wav,negative
 4922.wav,./raw_data/negative/4922.wav,negative
@@ -10623,7 +10186,6 @@ name,path,label
 4927.wav,./raw_data/negative/4927.wav,negative
 4928.wav,./raw_data/negative/4928.wav,negative
 4929.wav,./raw_data/negative/4929.wav,negative
-493.wav,./raw_data/negative/493.wav,negative
 4930.wav,./raw_data/negative/4930.wav,negative
 4931.wav,./raw_data/negative/4931.wav,negative
 4932.wav,./raw_data/negative/4932.wav,negative
@@ -10634,7 +10196,6 @@ name,path,label
 4937.wav,./raw_data/negative/4937.wav,negative
 4938.wav,./raw_data/negative/4938.wav,negative
 4939.wav,./raw_data/negative/4939.wav,negative
-494.wav,./raw_data/negative/494.wav,negative
 4940.wav,./raw_data/negative/4940.wav,negative
 4941.wav,./raw_data/negative/4941.wav,negative
 4942.wav,./raw_data/negative/4942.wav,negative
@@ -10645,7 +10206,6 @@ name,path,label
 4947.wav,./raw_data/negative/4947.wav,negative
 4948.wav,./raw_data/negative/4948.wav,negative
 4949.wav,./raw_data/negative/4949.wav,negative
-495.wav,./raw_data/negative/495.wav,negative
 4950.wav,./raw_data/negative/4950.wav,negative
 4951.wav,./raw_data/negative/4951.wav,negative
 4952.wav,./raw_data/negative/4952.wav,negative
@@ -10656,7 +10216,6 @@ name,path,label
 4957.wav,./raw_data/negative/4957.wav,negative
 4958.wav,./raw_data/negative/4958.wav,negative
 4959.wav,./raw_data/negative/4959.wav,negative
-496.wav,./raw_data/negative/496.wav,negative
 4960.wav,./raw_data/negative/4960.wav,negative
 4961.wav,./raw_data/negative/4961.wav,negative
 4962.wav,./raw_data/negative/4962.wav,negative
@@ -10667,7 +10226,6 @@ name,path,label
 4967.wav,./raw_data/negative/4967.wav,negative
 4968.wav,./raw_data/negative/4968.wav,negative
 4969.wav,./raw_data/negative/4969.wav,negative
-497.wav,./raw_data/negative/497.wav,negative
 4970.wav,./raw_data/negative/4970.wav,negative
 4971.wav,./raw_data/negative/4971.wav,negative
 4972.wav,./raw_data/negative/4972.wav,negative
@@ -10678,7 +10236,6 @@ name,path,label
 4977.wav,./raw_data/negative/4977.wav,negative
 4978.wav,./raw_data/negative/4978.wav,negative
 4979.wav,./raw_data/negative/4979.wav,negative
-498.wav,./raw_data/negative/498.wav,negative
 4980.wav,./raw_data/negative/4980.wav,negative
 4981.wav,./raw_data/negative/4981.wav,negative
 4982.wav,./raw_data/negative/4982.wav,negative
@@ -10689,7 +10246,6 @@ name,path,label
 4987.wav,./raw_data/negative/4987.wav,negative
 4988.wav,./raw_data/negative/4988.wav,negative
 4989.wav,./raw_data/negative/4989.wav,negative
-499.wav,./raw_data/negative/499.wav,negative
 4990.wav,./raw_data/negative/4990.wav,negative
 4991.wav,./raw_data/negative/4991.wav,negative
 4992.wav,./raw_data/negative/4992.wav,negative
@@ -10700,72 +10256,7 @@ name,path,label
 4997.wav,./raw_data/negative/4997.wav,negative
 4998.wav,./raw_data/negative/4998.wav,negative
 4999.wav,./raw_data/negative/4999.wav,negative
-5.wav,./raw_data/negative/5.wav,negative
-50.wav,./raw_data/negative/50.wav,negative
-500.wav,./raw_data/negative/500.wav,negative
 5000.wav,./raw_data/negative/5000.wav,negative
-501.wav,./raw_data/negative/501.wav,negative
-502.wav,./raw_data/negative/502.wav,negative
-503.wav,./raw_data/negative/503.wav,negative
-504.wav,./raw_data/negative/504.wav,negative
-505.wav,./raw_data/negative/505.wav,negative
-506.wav,./raw_data/negative/506.wav,negative
-507.wav,./raw_data/negative/507.wav,negative
-508.wav,./raw_data/negative/508.wav,negative
-509.wav,./raw_data/negative/509.wav,negative
-51.wav,./raw_data/negative/51.wav,negative
-52.wav,./raw_data/negative/52.wav,negative
-53.wav,./raw_data/negative/53.wav,negative
-54.wav,./raw_data/negative/54.wav,negative
-55.wav,./raw_data/negative/55.wav,negative
-56.wav,./raw_data/negative/56.wav,negative
-57.wav,./raw_data/negative/57.wav,negative
-58.wav,./raw_data/negative/58.wav,negative
-59.wav,./raw_data/negative/59.wav,negative
-6.wav,./raw_data/negative/6.wav,negative
-60.wav,./raw_data/negative/60.wav,negative
-61.wav,./raw_data/negative/61.wav,negative
-62.wav,./raw_data/negative/62.wav,negative
-63.wav,./raw_data/negative/63.wav,negative
-64.wav,./raw_data/negative/64.wav,negative
-65.wav,./raw_data/negative/65.wav,negative
-66.wav,./raw_data/negative/66.wav,negative
-67.wav,./raw_data/negative/67.wav,negative
-68.wav,./raw_data/negative/68.wav,negative
-69.wav,./raw_data/negative/69.wav,negative
-7.wav,./raw_data/negative/7.wav,negative
-70.wav,./raw_data/negative/70.wav,negative
-71.wav,./raw_data/negative/71.wav,negative
-72.wav,./raw_data/negative/72.wav,negative
-73.wav,./raw_data/negative/73.wav,negative
-74.wav,./raw_data/negative/74.wav,negative
-75.wav,./raw_data/negative/75.wav,negative
-76.wav,./raw_data/negative/76.wav,negative
-77.wav,./raw_data/negative/77.wav,negative
-78.wav,./raw_data/negative/78.wav,negative
-79.wav,./raw_data/negative/79.wav,negative
-8.wav,./raw_data/negative/8.wav,negative
-80.wav,./raw_data/negative/80.wav,negative
-81.wav,./raw_data/negative/81.wav,negative
-82.wav,./raw_data/negative/82.wav,negative
-83.wav,./raw_data/negative/83.wav,negative
-84.wav,./raw_data/negative/84.wav,negative
-85.wav,./raw_data/negative/85.wav,negative
-86.wav,./raw_data/negative/86.wav,negative
-87.wav,./raw_data/negative/87.wav,negative
-88.wav,./raw_data/negative/88.wav,negative
-89.wav,./raw_data/negative/89.wav,negative
-9.wav,./raw_data/negative/9.wav,negative
-90.wav,./raw_data/negative/90.wav,negative
-91.wav,./raw_data/negative/91.wav,negative
-92.wav,./raw_data/negative/92.wav,negative
-93.wav,./raw_data/negative/93.wav,negative
-94.wav,./raw_data/negative/94.wav,negative
-95.wav,./raw_data/negative/95.wav,negative
-96.wav,./raw_data/negative/96.wav,negative
-97.wav,./raw_data/negative/97.wav,negative
-98.wav,./raw_data/negative/98.wav,negative
-99.wav,./raw_data/negative/99.wav,negative
 001.wav,./raw_data/background/001.wav,background
 002.wav,./raw_data/background/002.wav,background
 003.wav,./raw_data/background/003.wav,background
