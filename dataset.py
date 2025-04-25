@@ -17,7 +17,7 @@ class TriggerWordDataset(Dataset):
         self.ddf = self.df[:int(len(self.df)*0.8)] if self.train else self.df[int(len(self.df)*0.2):]
         self.labels = ['positive', 'negative', 'background']
         self.target_length = 500000
-        self.resr = 44100
+        self.resr = 22050
         self.agm = AudioAugmenter(sample_rate=self.resr)
         
     def __len__(self):
@@ -33,10 +33,6 @@ class TriggerWordDataset(Dataset):
             waveform = waveform.mean(dim=0, keepdim=True)
 
         waveform = self._trim_or_pad_waveform(waveform)
-
-        if self.train:
-            
-            waveform = self.agm.apply_random_augmentations(audio=waveform)
         
         transform = nn.Sequential(
             # transforms.Resample(
