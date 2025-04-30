@@ -136,7 +136,7 @@ def audio_to_mfcc(ds, path : str):
     if waveform.ndim > 1 and waveform.shape[0] > 1:
         waveform = waveform.mean(dim=0, keepdim=True)
 
-    resr = 44100
+    resr = 22050
     waveform = ds._trim_or_pad_waveform(waveform)
     transform = nn.Sequential(
             # transforms.Resample(
@@ -212,5 +212,5 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     # train(dataset=ds, cfg=cfg)
 
-    print(classify(ds, "./models/me18l8.pth", "./custom_data/positive/Arman.mp3", cfg))
+    print(classify(ds, "./me2l2.pth", "./custom_data/background/2.mp3", cfg))
     # reform_model(path="./models/me94l56.pth", device=device, model_name="me94l56.pth")
