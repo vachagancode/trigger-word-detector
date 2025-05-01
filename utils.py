@@ -41,13 +41,13 @@ def train(
 
     loss_fn = nn.NLLLoss()
 
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
+    
 
     # data setup
     train_data, test_data = create_dataset()
     train_dataloader, test_dataloader = create_dataloaders(train_data, test_data)
 
-    scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
+    
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
@@ -61,8 +61,16 @@ def train(
         scheduler_state_dict["total_steps"] = scheduler_state_dict["total_steps"] + cfg["epochs"]*int(len(train_dataloader))
         scheduler.load_state_dict(scheduler_state_dict)
         start_epoch = data["epoch"]
+
+        new_lr_max = data["lr"] + 0.03e-05
+        print(f"Previous Learning Rate: {data["lr"]}")
+        print(f"New Learning Rate: {new_lr_max}")
+        optimizer = torch.optim.Adam(model.parameters(), lr={data["lr"]})
+        scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=new_lr_max, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
     else:
         start_epoch = 0
+        optimizer = torch.optim.Adam(model.parameters(), lr=0.00009)
+        scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.00015, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
 
     print(f"Using: {device}\nEpochs to train: {cfg['epochs']}")
 
@@ -85,6 +93,8 @@ def train(
             train_loss += loss.item()
             step += 1
 
+            batch_loader.set_postfix({"Loss": f"{loss.item():.3f}"})
+
             # optimizer zero grad
             optimizer.zero_grad()
 
@@ -96,7 +106,7 @@ def train(
             scheduler.step()
 
         test_step = 0
-        if epoch % 2 == 0:
+        if epoch % 1 == 0:
             model.eval()
             with torch.inference_mode():
                 test_batch_loader = (test_dataloader)
