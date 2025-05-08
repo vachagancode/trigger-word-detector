@@ -138,7 +138,7 @@ class TriggerWordDetector(nn.Module):
         hidden, final_hidden_states = self.gru(x, None)
 
         # Pass the input through the classifier
-        classifier_output = self.classifier(hidden)
+        classifier_output = self.classifier(hidden[:, -1, :])
 
         return classifier_output
 
