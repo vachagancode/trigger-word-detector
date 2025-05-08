@@ -63,7 +63,7 @@ def train(
         start_epoch = data["epoch"]
 
         new_lr_max = data["lr"] + 0.03e-05
-        print(f"Previous Learning Rate: {data["lr"]}")
+        print(f"Previous Learning Rate: {data['lr']}")
         print(f"New Learning Rate: {new_lr_max}")
         optimizer = torch.optim.Adam(model.parameters(), lr={data["lr"]})
         scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=new_lr_max, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
@@ -86,9 +86,10 @@ def train(
 
             # forward pass 
             y_logits = model(X)
-            y_logits = torch.mean(log_softmax(y_logits, dim=2), dim=1)
+            y_preds = log_softmax(y_logits, dim=1)
+            print(y_preds.shape)
             # calculate the loss 
-            loss = loss_fn(y_logits, y)
+            loss = loss_fn(y_preds, y)
             assert loss >= 0, f"Loss should be non-negative, got {loss.item()}"
             train_loss += loss.item()
             step += 1
