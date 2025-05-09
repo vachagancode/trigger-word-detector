@@ -115,7 +115,7 @@ def train(
 
                     # forward pass 
                     y_test_logits = model(X_test)
-                    y_test_logits = tlog_softmax(y_test_logits, dim=-1)
+                    y_test_logits = log_softmax(y_test_logits, dim=-1)
                     # calculate the loss 
                     loss_test = loss_fn(y_test_logits, y_test)
                     test_loss += loss_test.item()
