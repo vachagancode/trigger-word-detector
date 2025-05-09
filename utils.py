@@ -87,7 +87,6 @@ def train(
             # forward pass 
             y_logits = model(X)
             y_preds = log_softmax(y_logits, dim=1)
-            print(y_preds.shape)
             # calculate the loss 
             loss = loss_fn(y_preds, y)
             assert loss >= 0, f"Loss should be non-negative, got {loss.item()}"
