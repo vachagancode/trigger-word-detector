@@ -76,7 +76,7 @@ def train(
 
     previous_test_loss = float('inf')
     for epoch in range(start_epoch, start_epoch + cfg["epochs"]+1):
-        batch_loader = tqdm(train_dataloader)
+        batch_loader = tqdm(test_dataloader)
         test_loss, train_loss = 0, 0
         step = 0
         for X, y, _ in batch_loader:
@@ -86,7 +86,7 @@ def train(
 
             # forward pass 
             y_logits = model(X)
-            y_preds = log_softmax(y_logits, dim=1)
+            y_preds = log_softmax(y_logits, dim=-1)
             # calculate the loss 
             loss = loss_fn(y_preds, y)
             assert loss >= 0, f"Loss should be non-negative, got {loss.item()}"
