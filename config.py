@@ -4,7 +4,7 @@ def get_config():
         "conv_out_features" : 128,
         "hidden_size" : 1024,
         "out_features": 3,
-        "num_layers" : 2,
+        "num_layers" : 1,
         "dropout": 0.5,
 
         "epochs" : 30
