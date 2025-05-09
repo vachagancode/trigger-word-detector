@@ -76,7 +76,7 @@ def train(
 
     previous_test_loss = float('inf')
     for epoch in range(start_epoch, start_epoch + cfg["epochs"]+1):
-        batch_loader = tqdm(test_dataloader)
+        batch_loader = tqdm(train_dataloader)
         test_loss, train_loss = 0, 0
         step = 0
         for X, y, _ in batch_loader:
@@ -115,7 +115,7 @@ def train(
 
                     # forward pass 
                     y_test_logits = model(X_test)
-                    y_test_logits = torch.mean(log_softmax(y_test_logits, dim=2), dim=1)
+                    y_test_logits = tlog_softmax(y_test_logits, dim=-1)
                     # calculate the loss 
                     loss_test = loss_fn(y_test_logits, y_test)
                     test_loss += loss_test.item()
