@@ -51,21 +51,21 @@ def train(
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
-        
+        new_lr_max = data["lr"] + 0.03e-05
         model_state_dict = data["model_state_dict"]
         optimizer_state_dict = data["optimizer_state_dict"]
         scheduler_state_dict = data["scheduler_state_dict"]
 
         model.load_state_dict(model_state_dict)
-        optimizer = torch.optim.Adam(model.parameters(), lr={data["lr"]})
+        optimizer = torch.optim.Adam(model.parameters(), lr={data["lr"][0]})
         scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=new_lr_max, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
         optimizer.load_state_dict(optimizer_state_dict)
         scheduler_state_dict["total_steps"] = scheduler_state_dict["total_steps"] + cfg["epochs"]*int(len(train_dataloader))
         scheduler.load_state_dict(scheduler_state_dict)
         start_epoch = data["epoch"]
 
-        new_lr_max = data["lr"] + 0.03e-05
-        print(f"Previous Learning Rate: {data['lr']}")
+        
+        print(f"Previous Learning Rate: {data['lr'][0}")
         print(f"New Learning Rate: {new_lr_max}")
         
     else:
