@@ -51,7 +51,7 @@ def train(
 
     if m is not None:
         data = torch.load(f=m, map_location=device)
-        new_lr_max = data["lr"] + 0.03e-05
+        new_lr_max = data["lr"][0] + 0.03e-05
         model_state_dict = data["model_state_dict"]
         optimizer_state_dict = data["optimizer_state_dict"]
         scheduler_state_dict = data["scheduler_state_dict"]
