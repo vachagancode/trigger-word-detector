@@ -65,7 +65,7 @@ def train(
         start_epoch = data["epoch"]
 
         
-        print(f"Previous Learning Rate: {data['lr'][0}")
+        print(f"Previous Learning Rate: {data['lr'][0]")
         print(f"New Learning Rate: {new_lr_max}")
         
     else:
