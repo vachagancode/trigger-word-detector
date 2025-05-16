@@ -69,8 +69,8 @@ def train(
         scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=new_lr_max, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
     else:
         start_epoch = 0
-        optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
-        scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.0003, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
+        optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+        scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=0.003, pct_start=0.3, total_steps=cfg["epochs"]*int(len(train_dataloader)))
 
     print(f"Using: {device}\nEpochs to train: {cfg['epochs']}")
 
@@ -156,7 +156,7 @@ def audio_to_mfcc(ds, path : str):
             transforms.MFCC(
                 sample_rate=resr,
                 n_mfcc=13,
-                melkwargs={'n_fft': 400, "hop_length" : 512}
+                melkwargs={'n_fft': 700, "hop_length" : 512}
             ),
     )
     mfcc = transform(waveform) 
