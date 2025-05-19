@@ -14,7 +14,7 @@ from tqdm import tqdm
 from dataset import TriggerWordDataset, create_dataset, create_dataloaders
 from model import create_model
 from config import get_config
-from init_annotaions_file import create_annotations_file
+from init_annotations_file import create_annotations_file
 
 def plot_random_spectrogram(dataset):
     spectrogram, label, sr = dataset[randint(0, len(dataset))]
