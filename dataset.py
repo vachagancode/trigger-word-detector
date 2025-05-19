@@ -16,7 +16,7 @@ class TriggerWordDataset(Dataset):
         self.df = pd.read_csv(self.annotations_file)
         self.ddf = self.df[:int(len(self.df)*0.8)] if self.train else self.df[int(len(self.df)*0.2):]
         self.labels = ['positive', 'negative', 'background']
-        self.target_length = 500000
+        self.target_length = 150000
         self.resr = 22050
         self.agm = AudioAugmenter(sample_rate=self.resr)
         
