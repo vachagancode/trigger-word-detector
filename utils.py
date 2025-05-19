@@ -14,6 +14,7 @@ from tqdm import tqdm
 from dataset import TriggerWordDataset, create_dataset, create_dataloaders
 from model import create_model
 from config import get_config
+from init_annotaions_file import create_annotations_file
 
 def plot_random_spectrogram(dataset):
     spectrogram, label, sr = dataset[randint(0, len(dataset))]
@@ -31,6 +32,10 @@ def plot_random_spectrogram(dataset):
 def train(
     cfg, dataset, m=None
 ):
+    # create the annotations files
+
+    create_annotations_file()
+
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # setup the model
@@ -40,8 +45,6 @@ def train(
     )
 
     loss_fn = nn.NLLLoss()
-
-    
 
     # data setup
     train_data, test_data = create_dataset()
