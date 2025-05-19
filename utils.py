@@ -32,9 +32,6 @@ def plot_random_spectrogram(dataset):
 def train(
     cfg, dataset, m=None
 ):
-    # create the annotations files
-
-    create_annotations_file()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
