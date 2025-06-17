@@ -1,2 +1,8 @@
 /models
 /raw_data
+/me21l0.pth
+/me18l0.pth
+/me16l2.pth
+/trigger-word-detector-train.ipynb
+/base_annotations_file.csv
+/annotations_file.csv

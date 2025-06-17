@@ -24,3 +24,5 @@ def create_annotations_file():
     shuffled = df.sample(frac=1)
     shuffled.to_csv("./annotations_file.csv")
     print("Annotations file initialized successfully")
+if __name__ == "__main__":
+    create_annotations_file()

@@ -4,8 +4,6 @@ import torchaudio
 from torchaudio import transforms
 from torch.utils.data import Dataset, DataLoader
 
-from audio_augmenter import AudioAugmenter
-
 import pandas as pd
 
 class TriggerWordDataset(Dataset):
@@ -15,10 +13,9 @@ class TriggerWordDataset(Dataset):
         self.annotations_file = annotations_file
         self.df = pd.read_csv(self.annotations_file)
         self.ddf = self.df[:int(len(self.df)*0.8)] if self.train else self.df[int(len(self.df)*0.2):]
-        self.labels = ['positive', 'negative', 'background']
-        self.target_length = 150000
+        self.labels = ['positive', 'negative']
+        self.target_length = 125000
         self.resr = 22050
-        self.agm = AudioAugmenter(sample_rate=self.resr)
         
     def __len__(self):
         return len(self.ddf)
@@ -32,20 +29,19 @@ class TriggerWordDataset(Dataset):
         if waveform.ndim > 1 and waveform.shape[0] > 1:
             waveform = waveform.mean(dim=0, keepdim=True)
 
+        if sr != self.rese:
+            resampler = torchaudio.Resample(orig_freq=sr, new_freq=self.resr)
+            # Apply resampling 
+            waveform = resampler(waveform)
+
         waveform = self._trim_or_pad_waveform(waveform)
         
         transform = nn.Sequential(
-            # transforms.Resample(
-            #     orig_freq=sr,
-            #     new_freq=resr
-            # ),
             transforms.MFCC(
                 sample_rate=self.resr,
                 n_mfcc=13,
-                melkwargs={'n_fft': 400, "hop_length" : 512}
-            ),
-            # transforms.FrequencyMasking(freq_mask_param=20),
-            # transforms.TimeMasking(time_mask_param=35)
+                melkwargs={'n_fft': 400, "hop_length" : 160}
+            )
         )
         mfcc = transform(waveform) 
         deltas = torchaudio.functional.compute_deltas(mfcc)

@@ -18,3 +18,4 @@ def start_training(annotations_file : str = "./annotations_file.csv", m=None, nu
     )
 
     print(f"Model training finished")
+

@@ -157,7 +157,7 @@ def audio_to_mfcc(ds, path : str):
             transforms.MFCC(
                 sample_rate=resr,
                 n_mfcc=13,
-                melkwargs={'n_fft': 700, "hop_length" : 512}
+                melkwargs={'n_fft': 400, "hop_length" : 160}
             ),
     )
     mfcc = transform(waveform) 
@@ -187,9 +187,8 @@ def classify(ds, model : str, path : str, cfg : str):
     # Do the forward pass
     y_logits = model(mel_spectrogram)
 
-    y_preds = torch.softmax(y_logits, dim=2)
-    avg_prob = torch.mean(y_preds, dim=1)
-    pred = torch.argmax(avg_prob, dim=1)
+    y_preds = torch.softmax(y_logits, dim=-1)
+    pred = torch.argmax(y_preds, dim=1)
 
     return labels[pred]
 
@@ -223,5 +222,5 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     # train(dataset=ds, cfg=cfg)
 
-    print(classify(ds, "./me2l2.pth", "./custom_data/background/2.mp3", cfg))
+    print(classify(ds, "./me18l0.pth", "./custom_data/negative/VachV2.wav", cfg))
     # reform_model(path="./models/me94l56.pth", device=device, model_name="me94l56.pth")
