@@ -29,8 +29,8 @@ class TriggerWordDataset(Dataset):
         if waveform.ndim > 1 and waveform.shape[0] > 1:
             waveform = waveform.mean(dim=0, keepdim=True)
 
-        if sr != self.rese:
-            resampler = torchaudio.Resample(orig_freq=sr, new_freq=self.resr)
+        if sr != self.resr:
+            resampler = torchaudio.transforms.Resample(orig_freq=sr, new_freq=self.resr)
             # Apply resampling 
             waveform = resampler(waveform)
 
